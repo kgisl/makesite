@@ -1,8 +1,7 @@
-<!-- title: First Blog -->
+<!-- title: Second Blog -->
 
-# Second Real Blog!
 
 How to interpret the monk mission? 
 
-![img](images/monkMission.png)
+![img](https://j.mp/monkMission.png) 
 
