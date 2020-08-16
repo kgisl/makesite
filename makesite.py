@@ -175,9 +175,9 @@ def main():
     # Default parameters.
     params = {
         # 'base_path': '/',
-        'base_path': 'https://kgashok.github.io/makesite/',
-        'subtitle': 'Lorem Ipsum',
-        'author': 'Admin',
+        'base_path': 'https://kgashok.github.io/makesite',
+        'subtitle': 'Hungry, Alone and Aware!',
+        'author': 'Ashok B',
         'site_url': 'http://localhost:8000',
         'current_year': datetime.datetime.now().year
     }
