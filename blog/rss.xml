@@ -7,6 +7,19 @@
 <description>Grow with Technology</description>
 
 <item>
+<title>First Blog</title>
+<link>http://localhost:8000/blog/my-first-blog/</link>
+<description>
+<![CDATA[
+<p>
+First Real Blog! Seriously, it is quite exciting. To finally write something in Markdown and then have it published. makesite is mostly very simply templating.&nbsp;<a href="http://localhost:8000/blog/my-first-blog/">...</a>
+</p>
+<p><a href="http://localhost:8000/blog/my-first-blog/">Read More</a></p>
+]]>
+</description>
+<pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Sed Finibus</title>
 <link>http://localhost:8000/blog/sed-finibus/</link>
 <description>
