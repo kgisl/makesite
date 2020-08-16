@@ -174,7 +174,8 @@ def main():
 
     # Default parameters.
     params = {
-        'base_path': '',
+        # 'base_path': '/',
+        'base_path': 'https://kgashok.github.io/makesite/',
         'subtitle': 'Lorem Ipsum',
         'author': 'Admin',
         'site_url': 'http://localhost:8000',
