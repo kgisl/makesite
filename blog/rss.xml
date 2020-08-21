@@ -7,19 +7,6 @@
 <description>Grow with Technology</description>
 
 <item>
-<title>Visualizing the Future</title>
-<link>http://localhost:8000/blog/visualizing-future/</link>
-<description>
-<![CDATA[
-<p>
-Feel it. Believe it. Achieve it&nbsp;<a href="http://localhost:8000/blog/visualizing-future/">...</a>
-</p>
-<p><a href="http://localhost:8000/blog/visualizing-future/">Read More</a></p>
-]]>
-</description>
-<pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Anisha Motwani on Brand Building</title>
 <link>http://localhost:8000/blog/anisha-motwani-brand-building/</link>
 <description>
@@ -28,6 +15,19 @@ Feel it. Believe it. Achieve it&nbsp;<a href="http://localhost:8000/blog/visuali
 Brand Building output is an art process is a science 3 parts &quot;You can't top pigs with pigs!&quot; Trust Code Old companies Lineage/heritage Size Honesty&nbsp;<a href="http://localhost:8000/blog/anisha-motwani-brand-building/">...</a>
 </p>
 <p><a href="http://localhost:8000/blog/anisha-motwani-brand-building/">Read More</a></p>
+]]>
+</description>
+<pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Visualizing the Future</title>
+<link>http://localhost:8000/blog/visualizing-future/</link>
+<description>
+<![CDATA[
+<p>
+Feel it. Believe it. Achieve it&nbsp;<a href="http://localhost:8000/blog/visualizing-future/">...</a>
+</p>
+<p><a href="http://localhost:8000/blog/visualizing-future/">Read More</a></p>
 ]]>
 </description>
 <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
@@ -46,19 +46,6 @@ Lead me from Unreal to Real; Lead me from Darkness to Light; Lead me from Death 
 <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>First Blog</title>
-<link>http://localhost:8000/blog/my-first-blog_copy/</link>
-<description>
-<![CDATA[
-<p>
-Seriously, it is quite exciting. To finally write something in Markdown and then have it published. makesite is mostly very simply templating. Will need to&nbsp;<a href="http://localhost:8000/blog/my-first-blog_copy/">...</a>
-</p>
-<p><a href="http://localhost:8000/blog/my-first-blog_copy/">Read More</a></p>
-]]>
-</description>
-<pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Second Blog</title>
 <link>http://localhost:8000/blog/the-monk-mission/</link>
 <description>
@@ -67,6 +54,19 @@ Seriously, it is quite exciting. To finally write something in Markdown and then
 How to interpret the monk mission?&nbsp;<a href="http://localhost:8000/blog/the-monk-mission/">...</a>
 </p>
 <p><a href="http://localhost:8000/blog/the-monk-mission/">Read More</a></p>
+]]>
+</description>
+<pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>First Blog</title>
+<link>http://localhost:8000/blog/my-first-blog_copy/</link>
+<description>
+<![CDATA[
+<p>
+Seriously, it is quite exciting. To finally write something in Markdown and then have it published. makesite is mostly very simply templating. Will need to&nbsp;<a href="http://localhost:8000/blog/my-first-blog_copy/">...</a>
+</p>
+<p><a href="http://localhost:8000/blog/my-first-blog_copy/">Read More</a></p>
 ]]>
 </description>
 <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
