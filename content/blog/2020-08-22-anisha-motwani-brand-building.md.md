@@ -30,3 +30,10 @@ Trust has become very fragile...
 	- strategic marketing
 - marketing is about creating a push 
 	- tactile marketing
+
+### Branding
+
+- It is what they talk about you when you are not in the room! 
+- What is the 3 words that captures what your brand means
+	- you are not building your brand if you just advertise with a problem statement in mind 
+	- 
