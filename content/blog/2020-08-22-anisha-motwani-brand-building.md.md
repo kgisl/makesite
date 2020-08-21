@@ -76,14 +76,22 @@ The workshop that makes this happen - without burning a whole in the pocket
 		- leverage your logos 
 			- in 64 years, they have emphasized social distancing 
 
-	2. packaging - thanking COVID warriors - use your own assets 
+	2. use your physicals / packaging to tell a story - thanking COVID warriors - use your own assets 
 	3. Be sensitive and be topical - Stay top of mind - staying relevant 
 	4. open new market segments - the bowling alley approach 
-		- different ideas - broadbasing the market 
+		- different ideas - broadbasing the market - but scheduling is important (don't confuse it)
 	5. Trigger an infectious meme for your brand 
 		- alcohol is very bitter - tequila 
 		- Rs 442 for a whole room - eyes and ears open to what is already popular in the marketplace ...how does your brand ride on it? 
    6. Leverage the "halo" effect 
-	   - 
+	   - be in their vicinity - and it will have an effect 
+   7. Every touchpoint is a medium 
+	   - insurance dealers' homes was used to put the logo 
+   8. co-promotional partnerships 
+	   - complimentary products 
+	9. PR - an important part of your strategy 
+		- become your own brand influencer 
+	10. Cause marketing, fastest route to gaining trust 
+		-  don't be shy to promote your CSR activity 
 
 
