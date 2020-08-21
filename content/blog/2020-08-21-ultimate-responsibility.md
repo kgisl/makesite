@@ -1,9 +1,9 @@
 
 <!-- title: The Ultimate Responsibility -->
 
-_Lead me from Unreal to Real;_  
-_Lead me from Darkness to Light;_  
-_Lead me from Death to Immortality!_  
+_Lead me from Unreal to Real_  
+_Lead me from Darkness to Light_  
+_Lead me from Death to Immortality_  
 
 Among all the responsibilities you have, the most important one is the one you tend to neglect, or overlook frequently, thanks to the neurotic mind that possesses you.
 
