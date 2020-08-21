@@ -4,6 +4,7 @@
 _Lead me from Unreal to Real;_  
 _Lead me from Darkness to Light;_  
 _Lead me from Death to Immortality!_  
+	- [Pavamana Mantra](https://en.wikipedia.org/wiki/Pavamana_Mantra) from Bṛhadāraṇyaka Upaniṣad
 
 Among all the responsibilities you have, the most important one is the one you tend to neglect, or overlook frequently, thanks to the neurotic mind that possesses you.
 
