@@ -69,5 +69,21 @@ POSITIONING - is one or two words. It is your emotions or feelings or words that
 
 ### Storm the Norm Way 
 
+The workshop that makes this happen - without burning a whole in the pocket 
+
+- 10 marketing shortcuts 
+	1. no management book will teach you 
+		- leverage your logos 
+			- in 64 years, they have emphasized social distancing 
+
+	2. packaging - thanking COVID warriors - use your own assets 
+	3. Be sensitive and be topical - Stay top of mind - staying relevant 
+	4. open new market segments - the bowling alley approach 
+		- different ideas - broadbasing the market 
+	5. Trigger an infectious meme for your brand 
+		- alcohol is very bitter - tequila 
+		- Rs 442 for a whole room - eyes and ears open to what is already popular in the marketplace ...how does your brand ride on it? 
+   6. Leverage the "halo" effect 
+	   - 
 
 
