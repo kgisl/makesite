@@ -9,4 +9,8 @@ Your pick? Pelican, Makesite or Emacs?
 
 ## From simple to simplest 
 
+- Pelican took 20 minutes to cofigure. 
+- Makesite was just compiling and pushed to `github-pages` manually. Used Github Workflow to automate the deployment to the branch 
+- Emacs setup has to be explored quickly 
+
 
