@@ -7,7 +7,7 @@
 <description>Grow with Technology</description>
 
 <item>
-<title>Blog</title>
+<title>Static site generators</title>
 <link>http://localhost:8000/blog/pelican-vs-makesite-vs-emacs/</link>
 <description>
 <![CDATA[
