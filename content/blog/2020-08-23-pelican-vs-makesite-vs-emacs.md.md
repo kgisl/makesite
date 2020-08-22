@@ -1,4 +1,4 @@
-<!-- Static site generators -->
+<!-- title: Static site generators -->
 
 # SSG
 Your pick? Pelican, Makesite or Emacs?
