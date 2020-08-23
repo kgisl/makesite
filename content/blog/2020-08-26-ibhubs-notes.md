@@ -28,3 +28,8 @@
 			- apart from making you learn and motivating you
 				- never letting you quit 
 
+- testimonials and track record
+![img](https://i.imgur.com/Q8oMyuS.jpg)
+
+
+
