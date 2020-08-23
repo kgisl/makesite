@@ -12,3 +12,11 @@
 	- 60 crore youngsters in India 
 		- potential is there, hidden talent 
 		- an ecosystem is required 
+
+- transform **anyone**
+	- advanced technologies 
+	- business management & entrepreneurship
+
+- 10xIITian
+	- exclusive program for IITians to gear up for 4.0 innovations 
+	- 
