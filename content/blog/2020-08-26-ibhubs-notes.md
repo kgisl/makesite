@@ -39,5 +39,8 @@
 	- oscillation mode - absorbed all of them with salaries 
 		- 75% transformation 
 
-!{transform](https://i.imgur.com/1P7WBk0.jpg) 
+![ransform](https://i.imgur.com/DQrFNs5.jpg) 
+ 
+![transform2](https://i.imgur.com/h4azNfR.jpg) 
+
 
