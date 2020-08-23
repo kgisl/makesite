@@ -32,19 +32,6 @@ Vivamus purus tellus, facilisis in sapien quis, ullamcorper lacinia neque. Morbi
 </description>
 <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
 </item>
-<item>
-<title>Contact</title>
-<link>http://localhost:8000/news/contact/</link>
-<description>
-<![CDATA[
-<p>
-Contact Please me an email at lifebalance at gmail dot com or click on&nbsp;<a href="http://localhost:8000/news/contact/">...</a>
-</p>
-<p><a href="http://localhost:8000/news/contact/">Read More</a></p>
-]]>
-</description>
-<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-</item>
 
 
 </channel>
