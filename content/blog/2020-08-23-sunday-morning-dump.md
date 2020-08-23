@@ -1,6 +1,6 @@
 <!-- title: Morning dump -->
 
-1. Sadhguru wants to share the ecstascy that he feels
+1. Sadhguru wants to share the [***ecstascy***](https://youtu.be/vPIZG8dnNMA?t=268) that he feels
 2. He says you don't have to be a superman. To be human is super enough. 
 3. But you are skeptical of the daily sadhana, understandably 
 4. How can some simple breathing exercise liberate you to Moksha? 
