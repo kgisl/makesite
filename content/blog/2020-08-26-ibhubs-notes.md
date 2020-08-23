@@ -103,4 +103,33 @@ This is the problem!
 # mindset is key
 ![majors](https://i.imgur.com/hrUpgS3.jpg)
 
+- Learning is mandatory 
+	- immaturity - mindset needs to be improved 
+	- there is no choice! 
+
+### Organisation strength 
+
+- contemporary knowledge
+	- 10 lakhs of jobs even now available 
+		- industry ready knowledge 
+	- not expanding of not getting the right people
+	- companies want to establish businesses
+		- but can't take risk with ordinary people 
+
+- 100,00 lakh crore is available across the world 
+	- to be used as fund for taking ideas 
+	- all is required is an innovative idea 
+		- that can improve people's lives 
+
+- talk about problem -1 min
+	-  1000 minutes for solution
+	- ![light](https://i.imgur.com/dM5n1p1.jpg)
+
+-  human centric (20 different categories)
+- ![human](https://i.imgur.com/TI1xoh4.jpg)
+
+ - inclusive approach 
+	 - win-win-win
+		 - ![win](https://i.imgur.com/VqVhMzR.jpg) 
+
 
