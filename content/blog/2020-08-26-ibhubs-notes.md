@@ -43,4 +43,38 @@
  
 ![transform2](https://i.imgur.com/h4azNfR.jpg) 
 
+![framework](https://i.imgur.com/1GhyIF5.jpg) 
+
+### ICQ 
+- his personal IP - not IQ 
+- everyone makes a mistake (whether talented or not, experienced or not) 
+- Example of John Hopkins Hospital 
+	- checklist - was used HAI - to 0% 
+	- checklists
+- ineptitude challenge quotient 
+	- from pyschology 
+	- not from dictionary 
+
+- the person should challenge that IC 
+	- a rough and average value 
+	- a combination of different values 
+	- transform a person in a systematic way
+		- not just love and affection
+		- not just personal care 
+
+- Proper Mindset 
+	- not just motivation - not able to change people 
+		- for few days they remember - half-life happens 
+	- xPM_4.0 
+		- particular mental exercises 
+		- combined with activity and software
+		- exponential performance mindset 
+			- to cater 21st century needs 
+		- remember facts
+			- **how to explore very quickly** 
+			- >>>	![xpm](https://i.imgur.com/f9BKEQC.jpg)
+			- every day earmark some time to pick up some 21st century skills 
+
+
+
 
