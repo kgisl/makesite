@@ -75,6 +75,24 @@
 			- >>>	![xpm](https://i.imgur.com/f9BKEQC.jpg)
 			- every day earmark some time to pick up some 21st century skills 
 
+## Time to Scale 
 
+![anyone](https://i.imgur.com/uXxmuYJ.jpg) 
+
+## Learn on the Go 
+
+![goal](https://i.imgur.com/Yjqeoqq.jpg) 
+
+
+
+## This is not a problem
+
+![foundation](https://i.imgur.com/yB4jDCC.jpg) 
+
+This is the problem! 
+![immature](https://i.imgur.com/r6G9XoQ.jpg)
+
+### and other issues
+![issues](https://i.imgur.com/IN4FLBV.jpg) 
 
 
