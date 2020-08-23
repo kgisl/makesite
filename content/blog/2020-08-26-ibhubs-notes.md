@@ -96,3 +96,11 @@ This is the problem!
 ![issues](https://i.imgur.com/IN4FLBV.jpg) 
 
 
+## responsibility of education
+![edu](https://i.imgur.com/h733WSZ.jpg)
+
+
+# mindset is key
+![majors](https://i.imgur.com/hrUpgS3.jpg)
+
+
