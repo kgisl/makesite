@@ -132,4 +132,16 @@ This is the problem!
 	 - win-win-win
 		 - ![win](https://i.imgur.com/VqVhMzR.jpg) 
 
+## for VUCA strategy
 
+![vuca](https://i.imgur.com/OAzaZTq.jpg) 
+
+  - resilience in financial planning 
+	  - investment community 
+	  - 10,000 people who are capable of investing 
+
+- need strong team 
+	- ![dedication](https://i.imgur.com/xrV55RQ.jpg) 
+
+![niti](https://i.imgur.com/rLsBbLr.jpg)
+ 
