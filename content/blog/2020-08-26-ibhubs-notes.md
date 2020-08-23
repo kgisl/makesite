@@ -31,5 +31,13 @@
 - testimonials and track record
 ![img](https://i.imgur.com/Q8oMyuS.jpg)
 
+- mindset transformation is digitized! 
+	- most important 
+	- 30 years of research 
 
+- Packages from 7.5 la -> 14 la package 
+	- oscillation mode - absorbed all of them with salaries 
+		- 75% transformation 
+
+!{transform](https://i.imgur.com/1P7WBk0.jpg) 
 
