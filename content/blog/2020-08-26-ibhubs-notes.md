@@ -19,4 +19,12 @@
 
 - 10xIITian
 	- exclusive program for IITians to gear up for 4.0 innovations 
-	- 
+
+- 23 IIT students are studying on the platform 
+	- 200 hours of learning 
+	- the way it is teaching you is commendable 
+		- the results was seen in me 
+		- personal mentor who keeps tracks of you
+			- apart from making you learn and motivating you
+				- never letting you quit 
+
