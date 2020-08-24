@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Custom Python Packages - Alone, Hungry and Aware</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" type="text/css" href="https://kgashok.github.io/makesite/css/style.css">
+</head>
+
+<body id="custom-python-packaging">
+
+<nav>
+<section>
+    <span class="home">
+        <a href="https://kgashok.github.io/makesite/">Home</a>
+    </span>
+    <span class="links">
+        <a href="https://kgashok.github.io/makesite/blog/">Blog</a>
+        <a href="https://kgashok.github.io/makesite/news/">News</a>
+        <a href="https://kgashok.github.io/makesite/contact/">Contact</a>
+        <a href="https://kgashok.github.io/makesite/about/">About</a>
+    </span>
+</section>
+</nav>
+
+<main>
+<article>
+<h1><a href="https://kgashok.github.io/makesite/blog/custom-python-packaging/">Custom Python Packages</a></h1>
+<p class="meta">Published on 2020-08-25 by <b>Ashok Be</b></p>
+<h1>Sandbox to try ThinkPy2 code</h1>
+<p>In <a href="https://github.com/kgisl/pythonFDP">https://github.com/kgisl/pythonFDP</a>, in the <code>/sandbox</code> directory, in your code, or in IDLE prompt, do this:</p>
+<pre><code class="language-bash">
+&gt;&gt; from thinkpy2.has_duplicates import *
+
+&gt;&gt; has_duplicates([1, 2, 3, 1])
+
+True
+
+</code></pre>
+<h2>How it was created</h2>
+<ol start="0">
+<li>
+<p>This was created by following the instructions on https://j.mp/stepsPackage</p>
+</li>
+<li>
+<p>After Steps 1-4:</p>
+</li>
+</ol>
+<pre><code>
+/sandbox
+
+/thinkpy2
+
+__init__.py
+
+setup.py
+
+</code></pre>
+<ol start="2">
+<li>Added to <code>setup.py</code></li>
+</ol>
+<pre><code>
+from setuptools import setup
+
+  
+
+setup(name='sandbox',
+
+packages=['thinkpy2'],
+
+)
+
+</code></pre>
+<ol start="3">
+<li>created a sample <code>some_code.py</code> with <code>test_fun</code> code in it,</li>
+</ol>
+<p>or even better, just skip all the above steps and simply use the script <a href="https://github.com/kgisl/pythonFDP/blob/6d0f662cdc7c9ac1aaa4a1ef641d74401a4b18b4/code/make_my_package.py"><code>make_my_package.py</code></a></p>
+<p>usage: python3 make_my_package.py &lt;your_package_name&gt;</p>
+<ol start="4">
+<li>At the level of the <code>/sandbox</code> directory, type:</li>
+</ol>
+<p><code>pip3 install -e . </code></p>
+<p>That's it! You are all set!</p>
+
+</article>
+
+</main>
+
+<footer>
+<section>
+<p>&copy; 2020 Ashok Be</p>
+<p>
+    <a href="https://twitter.com/lifebalance" target="_blank">Twitter</a>
+    <a href="https://github.com/kgashok/makesite" target="_blank">GitHub</a>
+</p>
+</section>
+</footer>
+
+</body>
+</html>
