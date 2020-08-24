@@ -30,15 +30,10 @@ True
   
 
 ```
-
-/sandbox
-
-/thinkpy2
-
-__init__.py
-
-setup.py
-
+	/sandbox
+		/thinkpy2
+			__init__.py
+	setup.py
 ```
 
   
@@ -47,35 +42,25 @@ setup.py
 
   
 
-```
+```python
 
 from setuptools import setup
-
   
 
 setup(name='sandbox',
-
-packages=['thinkpy2'],
-
+	packages=['thinkpy2'],
 )
 
 ```
 
-  
-
 3. created a sample `some_code.py` with `test_fun` code in it,
 
-  
-  
-
+ 
 or even better, just skip all the above steps and simply use the script [`make_my_package.py`](https://github.com/kgisl/pythonFDP/blob/6d0f662cdc7c9ac1aaa4a1ef641d74401a4b18b4/code/make_my_package.py)
 
-  
-
-usage: python3 make_my_package.py <your_package_name>
+    usage: python3 make_my_package.py  <your_package_name>
 
   
-
 4. At the level of the `/sandbox` directory, type:
 
   
