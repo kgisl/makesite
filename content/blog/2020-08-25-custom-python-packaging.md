@@ -1,4 +1,4 @@
-<!-- title: The Ultimate Responsibility -->
+<!-- title: Custom Python Packaging  -->
 
 # Sandbox to try ThinkPy2 code 
 
