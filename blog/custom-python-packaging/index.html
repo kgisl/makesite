@@ -46,28 +46,20 @@ True
 <p>After Steps 1-4:</p>
 </li>
 </ol>
-<pre><code>
-/sandbox
-
-/thinkpy2
-
-__init__.py
-
-setup.py
-
+<pre><code>	/sandbox
+		/thinkpy2
+			__init__.py
+	setup.py
 </code></pre>
 <ol start="2">
 <li>Added to <code>setup.py</code></li>
 </ol>
-<pre><code>
+<pre><code class="language-python">
 from setuptools import setup
-
   
 
 setup(name='sandbox',
-
-packages=['thinkpy2'],
-
+	packages=['thinkpy2'],
 )
 
 </code></pre>
@@ -75,7 +67,8 @@ packages=['thinkpy2'],
 <li>created a sample <code>some_code.py</code> with <code>test_fun</code> code in it,</li>
 </ol>
 <p>or even better, just skip all the above steps and simply use the script <a href="https://github.com/kgisl/pythonFDP/blob/6d0f662cdc7c9ac1aaa4a1ef641d74401a4b18b4/code/make_my_package.py"><code>make_my_package.py</code></a></p>
-<p>usage: python3 make_my_package.py &lt;your_package_name&gt;</p>
+<pre><code>usage: python3 make_my_package.py  &lt;your_package_name&gt;
+</code></pre>
 <ol start="4">
 <li>At the level of the <code>/sandbox</code> directory, type:</li>
 </ol>
