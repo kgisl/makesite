@@ -1,7 +1,7 @@
 
 # Sandbox to try ThinkPy2 code 
 
-In your code, or in IDLE prompt, do this: 
+In [https://github.com/kgisl/pythonFDP](https://github.com/kgisl/pythonFDP), in the `/sandbox` directory, in your code, or in IDLE prompt, do this:
 
 ```bash 
 >> from thinkpy2.has_duplicates import *
