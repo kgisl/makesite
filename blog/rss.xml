@@ -25,7 +25,7 @@ CCBP model continuous capacity building program 10xIITian BGO Transformation Bui
 <description>
 <![CDATA[
 <p>
-Sandbox to try ThinkPy2 code In your code, or in IDLE prompt, do this: &gt;&gt; from thinkpy2.has_duplicates import * &gt;&gt; has_duplicates([1, 2, 3, 1]) True&nbsp;<a href="http://localhost:8000/blog/custom-python-packaging/">...</a>
+Sandbox to try ThinkPy2 code In https://github.com/kgisl/pythonFDP , in the /sandbox directory, in your code, or in IDLE prompt, do this: &gt;&gt; from thinkpy2.has_duplicates import&nbsp;<a href="http://localhost:8000/blog/custom-python-packaging/">...</a>
 </p>
 <p><a href="http://localhost:8000/blog/custom-python-packaging/">Read More</a></p>
 ]]>
