@@ -33,6 +33,19 @@ Sandbox to try ThinkPy2 code In https://github.com/kgisl/pythonFDP , in the /san
 <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Productive Hacking</title>
+<link>http://localhost:8000/blog/some-more-hacking/</link>
+<description>
+<![CDATA[
+<p>
+First, got the Tiny Python Projects to work on gitpod and get all the test cases to run 2. Use the stock dockerFile provided to&nbsp;<a href="http://localhost:8000/blog/some-more-hacking/">...</a>
+</p>
+<p><a href="http://localhost:8000/blog/some-more-hacking/">Read More</a></p>
+]]>
+</description>
+<pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Makesite and Github Workflow</title>
 <link>http://localhost:8000/blog/using-makesite/</link>
 <description>
