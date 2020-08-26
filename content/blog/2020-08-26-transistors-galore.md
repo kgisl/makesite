@@ -11,12 +11,13 @@ Mind-blown! So many new words, including
 - clever software tweaks like [these]([https://singularityhub.com/2020/06/08/computing-power-can-keep-growing-as-moores-law-winds-down-heres-how/](https://singularityhub.com/2020/06/08/computing-power-can-keep-growing-as-moores-law-winds-down-heres-how/)) might also provide help 
 
 
-FinFET
+### FinFET
+
 ![](https://upload.wikimedia.org/wikipedia/commons/b/bb/Doublegate_FinFET.PNG)
 
-NanoWire
+### NanoWire
 ![New Design Developed for Silicon Nanowire Transistors | NIST](https://www.nist.gov/sites/default/files/images/2017/01/30/nanotechnology_electronics_nanowire_transistor.jpg)
 
-Carbon Nanotube
+### Carbon Nanotube
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Roll-up.jpg/220px-Roll-up.jpg)
 
