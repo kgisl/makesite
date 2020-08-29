@@ -8,6 +8,6 @@ In his blog [https://www.calnewport.com/blog/2020/08/27/focus-week-rediscover-de
 
 >> If you’ve been splashing in a world of distracting shallowness since March, you may need to ease back into regular engagement with complicated material. I would suggest starting with books that are easy to read, such as popular novels, or narrative non-fiction, or advice writing. As you complete each book, however, raise the difficulty of the next. Your goal is to get to a place where the two chapters consumed each day really push your mind.
 
-Good suggestion. Will try. 
+Good suggestion. Will try adopting this soon. 
 
 
