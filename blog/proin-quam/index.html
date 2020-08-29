@@ -8,20 +8,22 @@
 
     <script type="text/javascript" async></script> 
     
-    var cbutton = document.getElementById('commentsButton');
+    <script> 
+        var cbutton = document.getElementById('commentsButton');
 
-    cbutton.onClick = function () { 
-        var script = document.createElement("script"); 
-        script.type = "text/javascript";
-        script.src = "https://utteranc.es/client.js";
-        script.repo = "kgashok/makesite";
-        script.issue-term = "pathname";
-        script.label= "comments";
-        script.theme="github-light";
-        script.crossorigin="anonymous";
-        document.getElementByTagName("main")[0].appendChild(script);
-        return true;
-    }
+        cbutton.onClick = function () { 
+            var script = document.createElement("script"); 
+            script.type = "text/javascript";
+            script.src = "https://utteranc.es/client.js";
+            script.repo = "kgashok/makesite";
+            script.issue-term = "pathname";
+            script.label= "comments";
+            script.theme="github-light";
+            script.crossorigin="anonymous";
+            document.getElementByTagName("main")[0].appendChild(script);
+            return true;
+        }
+    </script>
 
 </head>
 
@@ -79,8 +81,6 @@ tempus. Phasellus a arcu lorem. Sed dictum rhoncus tempus.</p>
 
 <a href="linkhref.html" id="commentsButton">Show comments</a>
 
-
-</script>
 
 
 </main>
