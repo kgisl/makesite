@@ -5,3 +5,4 @@ htmlcov
 *.sw?
 .DS_Store
 venv
+pythonenv3.8
