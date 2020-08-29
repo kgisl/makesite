@@ -6,23 +6,6 @@
     <meta name="viewport" content="width=device-width">
     <link rel="stylesheet" type="text/css" href="{{ base_path }}/css/style.css">
 
-    <script defer type="text/javascript" async>
-        var cbutton = document.getElementById('commentsButton');
-
-        cbutton.onClick = function () { 
-            var script = document.createElement("script"); 
-            script.type = "text/javascript";
-            script.src = "https://utteranc.es/client.js";
-            script.repo = "kgashok/makesite";
-            //script.issue_term = "pathname";
-            script.label= "comments";
-            script.theme="github-light";
-            script.crossorigin="anonymous";
-            document.getElementByTagName("main")[0].appendChild(script);
-            return false;
-        }
-    </script>
-
 </head>
 
 <body id="{{ slug }}">
@@ -48,6 +31,22 @@
 
 <!--<a href="linkhref.html" id="commentsButton">Show comments</a>-->
 
+    <script type="text/javascript" async>
+        var cbutton = document.getElementById('commentsButton');
+
+        cbutton.onClick = function () { 
+            var script = document.createElement("script"); 
+            script.type = "text/javascript";
+            script.src = "https://utteranc.es/client.js";
+            script.repo = "kgashok/makesite";
+            //script.issue_term = "pathname";
+            script.label= "comments";
+            script.theme="github-light";
+            script.crossorigin="anonymous";
+            document.getElementByTagName("main")[0].appendChild(script);
+            return false;
+        }
+    </script>
 
 
 </main>
