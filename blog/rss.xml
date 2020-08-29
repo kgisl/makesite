@@ -20,6 +20,19 @@ Read two chapter every day In his blog https://www.calnewport.com/blog/2020/08/2
 <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Comments added!</title>
+<link>http://localhost:8000/blog/comments-enabled/</link>
+<description>
+<![CDATA[
+<p>
+Utterances The instructions at https://bit.ly/utteranceThis are quite straightforward. The changes are captured in this commit It was quick and easy. QED.&nbsp;<a href="http://localhost:8000/blog/comments-enabled/">...</a>
+</p>
+<p><a href="http://localhost:8000/blog/comments-enabled/">Read More</a></p>
+]]>
+</description>
+<pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+</item>
+<item>
 <title>TIL so many new transistors!</title>
 <link>http://localhost:8000/blog/transistors-galore/</link>
 <description>
