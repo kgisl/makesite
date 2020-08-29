@@ -41,15 +41,30 @@
 
 </article>
 
+
+<button type="button" id="commentsButton">Show comments</button>
+
+<!--<a href="linkhref.html" id="mylink">Show comments</a> -->
+
+<script type="text/javascript" async></script> 
     
-<script src="https://utteranc.es/client.js"
-    repo="kgashok/makesite"
-    issue-term="pathname"
-    label="comments"
-    theme="github-light"
-    crossorigin="anonymous"
-    async>
+    var cbutton = document.getElementById('commentsButton');
+
+    cbutton.onclick = function () { 
+        var script = document.createElement("script"); 
+        script.type = "text/javascript";
+        script.src = "https://utteranc.es/client.js";
+        script.repo = "kgashok/makesite";
+        script.issue-term = "pathname";
+        script.label= "comments";
+        script.theme="github-light";
+        script.crossorigin="anonymous";
+        document.getElementByTagName("main")[0].appendChild(script);
+        return false;
+    }
+
 </script>
+
 
 </main>
 
