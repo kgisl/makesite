@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width">
     <link rel="stylesheet" type="text/css" href="https://kgashok.github.io/makesite/css/style.css">
 
-    <script type="text/javascript" src="https://utteranc.es/client.js"
+    <script src="https://utteranc.es/client.js"
         repo="kgashok/makesite"
         issue-term="pathname"
         label="comments"
@@ -14,11 +14,6 @@
         crossorigin="anonymous"
         async>
     
-        function showComments () { 
-            var scripts = document.getElementsByTagName("script");  
-            eval(scripts.innerText);
-        }
-
     </script>
 
 
@@ -54,7 +49,16 @@ Feel like it has already happened.</p>
 
 <button type="button" onclick="showComments()">Show comments</button>
 
-
+<script type="text/javascript">
+    function showComments () { 
+        var scripts = document.getElementsByTagName("script");
+        for (s in scripts) { 
+            if (s.type == "text/javascript") {
+                eval(s.innerText);
+            }
+        }  
+    }
+</script>
 
 </main>
 
