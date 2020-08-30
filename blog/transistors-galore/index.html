@@ -6,6 +6,22 @@
     <meta name="viewport" content="width=device-width">
     <link rel="stylesheet" type="text/css" href="https://kgashok.github.io/makesite/css/style.css">
 
+    <script defer type="text/javascript" src="https://utteranc.es/client.js"
+        repo="kgashok/makesite"
+        issue-term="pathname"
+        label="comments"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+    
+        function showComments () { 
+            var scripts = document.getElementsByTagName("script");  
+            eval(scripts.innerText);
+        }
+
+    </script>
+
+
 </head>
 
 <body id="transistors-galore">
@@ -57,16 +73,7 @@
 </article>
 
 
-<button type="button" onclick='parcelRequire()'>Show comments</button>
-
-<script defer src="https://utteranc.es/client.js"
-    repo="kgashok/makesite"
-    issue-term="pathname"
-    label="comments"
-    theme="github-light"
-    crossorigin="anonymous"
-    async>
-</script>
+<button type="button" onclick="showComments()">Show comments</button>
 
 
 
