@@ -86,6 +86,7 @@ diam metus, eu sollicitudin velit commodo a.
         var scripts = document.getElementsByTagName("script");
         console.log(scripts);
         for (s of scripts) { 
+            console.log(s.type, s);
             if (s.type === "text/javascript") {
                 eval(s.innerText);
             }
