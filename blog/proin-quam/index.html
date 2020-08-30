@@ -61,15 +61,14 @@ tempus. Phasellus a arcu lorem. Sed dictum rhoncus tempus.</p>
 
 <button type="button" onclick="showComments()">Show comments</button>
 
-<script defer src="https://utteranc.es/client.js"
+<script src="https://utteranc.es/client.js" id="utter"
     repo="kgashok/makesite"
     issue-term="pathname"
     label="comments"
     theme="github-light"
     crossorigin="anonymous"
-    async>
+    async>  
 </script>
-
 
 <script type="text/javascript">
     function showComments () { 
@@ -77,7 +76,7 @@ tempus. Phasellus a arcu lorem. Sed dictum rhoncus tempus.</p>
         console.log(scripts);
         for (s of scripts) { 
             console.log(s.type, s);
-            if (s.type !== "text/javascript") {
+            if (s.id !== "utter") {
                 eval(s.innerText);
             }
         }  

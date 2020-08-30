@@ -215,15 +215,14 @@ Proin quam urna, pulvinar id ipsum ac, mattis consectetur ante. Praesent non jus
 
 <button type="button" onclick="showComments()">Show comments</button>
 
-<script defer src="https://utteranc.es/client.js"
+<script src="https://utteranc.es/client.js" id="utter"
     repo="kgashok/makesite"
     issue-term="pathname"
     label="comments"
     theme="github-light"
     crossorigin="anonymous"
-    async>
+    async>  
 </script>
-
 
 <script type="text/javascript">
     function showComments () { 
@@ -231,7 +230,7 @@ Proin quam urna, pulvinar id ipsum ac, mattis consectetur ante. Praesent non jus
         console.log(scripts);
         for (s of scripts) { 
             console.log(s.type, s);
-            if (s.type !== "text/javascript") {
+            if (s.id !== "utter") {
                 eval(s.innerText);
             }
         }  
