@@ -228,8 +228,9 @@ Proin quam urna, pulvinar id ipsum ac, mattis consectetur ante. Praesent non jus
 <script type="text/javascript">
     function showComments () { 
         var scripts = document.getElementsByTagName("script");
+        console.log(scripts);
         for (s of scripts) { 
-            if (s.type == "text/javascript") {
+            if (s.type === "text/javascript") {
                 eval(s.innerText);
             }
         }  
