@@ -108,14 +108,17 @@
 
 <script type="text/javascript">
     function showComments () { 
-        var scripts = document.getElementsByTagName("script");
+        var s = document.getElementsById("utter");
+        console.log(s);
+        eval(s.innerText);
+        /*var scripts = document.getElementsByTagName("script");
         console.log(scripts);
         for (s of scripts) { 
             console.log(s.type, s);
             if (s.id !== "utter") {
                 eval(s.innerText);
             }
-        }  
+        } */ 
     }
 </script>
 
