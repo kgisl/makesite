@@ -49,7 +49,7 @@
 <script type="text/javascript">
     function showComments () { 
         var scripts = document.getElementsByTagName("script");
-        for (s in scripts) { 
+        for (s of scripts) { 
             if (s.type == "text/javascript") {
                 eval(s.innerText);
             }
