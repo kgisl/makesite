@@ -6,16 +6,6 @@
     <meta name="viewport" content="width=device-width">
     <link rel="stylesheet" type="text/css" href="https://kgashok.github.io/makesite/css/style.css">
 
-    <script src="https://utteranc.es/client.js"
-        repo="kgashok/makesite"
-        issue-term="pathname"
-        label="comments"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-    
-    </script>
-
 
 </head>
 
@@ -48,13 +38,23 @@
 
 <button type="button" onclick="showComments()">Show comments</button>
 
+<script src="https://utteranc.es/client.js"
+    repo="kgashok/makesite"
+    issue-term="pathname"
+    label="comments"
+    theme="github-light"
+    crossorigin="anonymous"
+    async>
+</script>
+
+
 <script type="text/javascript">
     function showComments () { 
         var scripts = document.getElementsByTagName("script");
         console.log(scripts);
         for (s of scripts) { 
             console.log(s.type, s);
-            if (s.type === "text/javascript") {
+            if (s.type !== "text/javascript") {
                 eval(s.innerText);
             }
         }  
