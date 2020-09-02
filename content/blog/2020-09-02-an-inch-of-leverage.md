@@ -24,4 +24,4 @@ And see how productive that becomes. This again comes from my own motivation to 
 
 Problems persist and are not addressed over 5 years. And they become insurmountable like mountains. Stop lamenting about them or pointing fingers are people who might be causing them. Rather, face the issues head-on. They can be reduced to molehills by chipping away at the base. With enormous patience, for over a duration of not longer than you let the problem fester along.
 
-Example - my own weight problem - what I gained over 25 years, I solved it in less than 6 months. New insight, new mentoring, a new approach, new motivation, new inspiration - things fall into place.
+Example - with the right diet, whatever weight one gained over 25 years, it can be ceded in less than 6 months. New insight, new mentoring, a new approach, new motivation, new inspiration - things fall into place.
