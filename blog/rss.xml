@@ -7,6 +7,19 @@
 <description>Grow with Technology</description>
 
 <item>
+<title>Comments added!</title>
+<link>http://localhost:8000/blog/comments-enabled/</link>
+<description>
+<![CDATA[
+<p>
+Utterances The instructions at https://bit.ly/utteranceThis are quite straightforward. Also read - https://bit.ly/commentsThis - how to show comments only if a button is pressed? The changes&nbsp;<a href="http://localhost:8000/blog/comments-enabled/">...</a>
+</p>
+<p><a href="http://localhost:8000/blog/comments-enabled/">Read More</a></p>
+]]>
+</description>
+<pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+</item>
+<item>
 <title>#dailyDepth</title>
 <link>http://localhost:8000/blog/need-daily-depth/</link>
 <description>
@@ -20,17 +33,17 @@ Read two chapter every day In his blog https://www.calnewport.com/blog/2020/08/2
 <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Comments added!</title>
-<link>http://localhost:8000/blog/comments-enabled/</link>
+<title>IBHUB notes</title>
+<link>http://localhost:8000/blog/ibhubs-notes/</link>
 <description>
 <![CDATA[
 <p>
-Utterances The instructions at https://bit.ly/utteranceThis are quite straightforward. Also read - https://bit.ly/commentsThis - how to show comments only if a button is pressed? The changes&nbsp;<a href="http://localhost:8000/blog/comments-enabled/">...</a>
+CCBP model continuous capacity building program 10xIITian BGO Transformation Building world-class products we don't have confidence in ourselves money is there across the world if&nbsp;<a href="http://localhost:8000/blog/ibhubs-notes/">...</a>
 </p>
-<p><a href="http://localhost:8000/blog/comments-enabled/">Read More</a></p>
+<p><a href="http://localhost:8000/blog/ibhubs-notes/">Read More</a></p>
 ]]>
 </description>
-<pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+<pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>TIL so many new transistors!</title>
@@ -46,17 +59,17 @@ Read the article https://bit.ly/transistorThis , very interesting! Mind-blown! S
 <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>IBHUB notes</title>
-<link>http://localhost:8000/blog/ibhubs-notes/</link>
+<title>Makesite and Github Workflow</title>
+<link>http://localhost:8000/blog/using-makesite/</link>
 <description>
 <![CDATA[
 <p>
-CCBP model continuous capacity building program 10xIITian BGO Transformation Building world-class products we don't have confidence in ourselves money is there across the world if&nbsp;<a href="http://localhost:8000/blog/ibhubs-notes/">...</a>
+A video is worth a 1000 pictures Click on the thumbnail below, and just examine the contents in the three screens.&nbsp;<a href="http://localhost:8000/blog/using-makesite/">...</a>
 </p>
-<p><a href="http://localhost:8000/blog/ibhubs-notes/">Read More</a></p>
+<p><a href="http://localhost:8000/blog/using-makesite/">Read More</a></p>
 ]]>
 </description>
-<pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+<pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Custom Python Packaging</title>
@@ -80,19 +93,6 @@ Sandbox to try ThinkPy2 code In https://github.com/kgisl/pythonFDP , in the /san
 First, got the Tiny Python Projects to work on gitpod and get all the test cases to run Use the stock dockerFile provided to build&nbsp;<a href="http://localhost:8000/blog/some-more-hacking/">...</a>
 </p>
 <p><a href="http://localhost:8000/blog/some-more-hacking/">Read More</a></p>
-]]>
-</description>
-<pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Makesite and Github Workflow</title>
-<link>http://localhost:8000/blog/using-makesite/</link>
-<description>
-<![CDATA[
-<p>
-A video is worth a 1000 pictures Click on the thumbnail below, and just examine the contents in the three screens.&nbsp;<a href="http://localhost:8000/blog/using-makesite/">...</a>
-</p>
-<p><a href="http://localhost:8000/blog/using-makesite/">Read More</a></p>
 ]]>
 </description>
 <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
@@ -150,19 +150,6 @@ SSG Your pick? Pelican, Makesite or Emacs? Pelican Site Generator Makesite Emacs
 <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Visualizing the Future</title>
-<link>http://localhost:8000/blog/visualizing-future/</link>
-<description>
-<![CDATA[
-<p>
-Feel it. Believe it. Achieve it. You need to learn to dream. Visualize it. Feel like it has already happened. You have to project from&nbsp;<a href="http://localhost:8000/blog/visualizing-future/">...</a>
-</p>
-<p><a href="http://localhost:8000/blog/visualizing-future/">Read More</a></p>
-]]>
-</description>
-<pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Anisha Motwani on Brand Building</title>
 <link>http://localhost:8000/blog/anisha-motwani-brand-building/</link>
 <description>
@@ -171,6 +158,19 @@ Feel it. Believe it. Achieve it. You need to learn to dream. Visualize it. Feel 
 Brand Building output is an art process is a science 3 parts &quot;You can't top pigs with pigs!&quot; Trust Code Old companies Lineage/heritage Size Honesty&nbsp;<a href="http://localhost:8000/blog/anisha-motwani-brand-building/">...</a>
 </p>
 <p><a href="http://localhost:8000/blog/anisha-motwani-brand-building/">Read More</a></p>
+]]>
+</description>
+<pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Visualizing the Future</title>
+<link>http://localhost:8000/blog/visualizing-future/</link>
+<description>
+<![CDATA[
+<p>
+Feel it. Believe it. Achieve it. You need to learn to dream. Visualize it. Feel like it has already happened. You have to project from&nbsp;<a href="http://localhost:8000/blog/visualizing-future/">...</a>
+</p>
+<p><a href="http://localhost:8000/blog/visualizing-future/">Read More</a></p>
 ]]>
 </description>
 <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
