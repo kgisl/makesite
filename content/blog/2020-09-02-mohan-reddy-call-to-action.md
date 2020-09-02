@@ -21,4 +21,41 @@
 	- faculty need to come to industry
 	- spend a semester in industry 
 
+## Navin Mittal - Telengana 
+
+- 5 things
+
+### student choice 
+- 20% of the credit online 
+	- minors (horizontal)
+		- specialization (vertical) 
+			- AI for Computer Science
+
+### Extracurricular -> Core 
+
+- problem solving
+	- what has been on the periphery to bring them into the core
+
+
+### Stronger connect with industry 
+
+- launched tripartite with Austria
+- prepone placement 
+   - final semester is dedicated to the job role - helps the student and industry 
+
+### pedagogical approach
+
+  - information giving 
+     - blended way of learning / do it at their own pace 
+     - classroom - discussion / two-way interactivity 
+
+### transformation of evaluation
+
+ - marks (vs) outcome 
+	  - memory based (vs) application based 
+	  - reduced emphasis on final exam 
+	  - throughout the semester - progressive evaluation 
+		  - assessment Of Learning, For learning, As learning 
+
+
 
