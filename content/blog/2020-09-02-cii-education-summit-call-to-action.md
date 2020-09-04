@@ -59,6 +59,15 @@
 	  - throughout the semester - progressive evaluation 
 		  - assessment Of Learning, For learning, As learning 
 
+## AR/VR for Tech Education
+
+### Content 
+  - you can create for web, mobile and AR/VR 
+  - Dr Vijay (TNQ Ingage) is an expert in this area 
+	  - An AR/VR is worth a Million Videos! 
+		  - well said! 
 
 Other screenshots: 
 [CII Education Summit](https://photos.app.goo.gl/NYqLyRay4dDjrEQq9)
+
+
