@@ -7,6 +7,19 @@
 <description>Grow with Technology</description>
 
 <item>
+<title>Spirituality, FTW!</title>
+<link>http://localhost:8000/blog/spirituality-for-the-win/</link>
+<description>
+<![CDATA[
+<p>
+Just because you meditate and do yoga, don't expect only good things to happen to you; just because you meditate, you don’t get any extra&nbsp;<a href="http://localhost:8000/blog/spirituality-for-the-win/">...</a>
+</p>
+<p><a href="http://localhost:8000/blog/spirituality-for-the-win/">Read More</a></p>
+]]>
+</description>
+<pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Minerva Habits and Concepts</title>
 <link>http://localhost:8000/blog/habits-and-concepts/</link>
 <description>
@@ -33,19 +46,6 @@ Read the comments as well to this - http://bit.ly/wisdomThis If you read the 10 
 <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>CII Education Summit 2020</title>
-<link>http://localhost:8000/blog/cii-education-summit-call-to-action/</link>
-<description>
-<![CDATA[
-<p>
-Mohan Reddy - Call to Action teaching advisory council Univ of Michigan - how teaching has to be done every student has a camera on&nbsp;<a href="http://localhost:8000/blog/cii-education-summit-call-to-action/">...</a>
-</p>
-<p><a href="http://localhost:8000/blog/cii-education-summit-call-to-action/">Read More</a></p>
-]]>
-</description>
-<pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>An inch of difference</title>
 <link>http://localhost:8000/blog/an-inch-of-leverage/</link>
 <description>
@@ -59,17 +59,17 @@ The one-inch leverage Just one inch of pillow helped me to stay focused on compl
 <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Comments added!</title>
-<link>http://localhost:8000/blog/comments-enabled/</link>
+<title>CII Education Summit 2020</title>
+<link>http://localhost:8000/blog/cii-education-summit-call-to-action/</link>
 <description>
 <![CDATA[
 <p>
-Utterances The instructions at https://bit.ly/utteranceThis are quite straightforward. Also read - https://bit.ly/commentsThis - how to show comments only if a button is pressed? The changes&nbsp;<a href="http://localhost:8000/blog/comments-enabled/">...</a>
+Mohan Reddy - Call to Action teaching advisory council Univ of Michigan - how teaching has to be done every student has a camera on&nbsp;<a href="http://localhost:8000/blog/cii-education-summit-call-to-action/">...</a>
 </p>
-<p><a href="http://localhost:8000/blog/comments-enabled/">Read More</a></p>
+<p><a href="http://localhost:8000/blog/cii-education-summit-call-to-action/">Read More</a></p>
 ]]>
 </description>
-<pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+<pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>#dailyDepth</title>
@@ -85,17 +85,17 @@ Read two chapter every day In his blog https://www.calnewport.com/blog/2020/08/2
 <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>IBHUB notes</title>
-<link>http://localhost:8000/blog/ibhubs-notes/</link>
+<title>Comments added!</title>
+<link>http://localhost:8000/blog/comments-enabled/</link>
 <description>
 <![CDATA[
 <p>
-CCBP model continuous capacity building program 10xIITian BGO Transformation Building world-class products we don't have confidence in ourselves money is there across the world if&nbsp;<a href="http://localhost:8000/blog/ibhubs-notes/">...</a>
+Utterances The instructions at https://bit.ly/utteranceThis are quite straightforward. Also read - https://bit.ly/commentsThis - how to show comments only if a button is pressed? The changes&nbsp;<a href="http://localhost:8000/blog/comments-enabled/">...</a>
 </p>
-<p><a href="http://localhost:8000/blog/ibhubs-notes/">Read More</a></p>
+<p><a href="http://localhost:8000/blog/comments-enabled/">Read More</a></p>
 ]]>
 </description>
-<pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+<pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>TIL so many new transistors!</title>
@@ -111,14 +111,27 @@ Read the article https://bit.ly/transistorThis , very interesting! Mind-blown! S
 <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Makesite and Github Workflow</title>
-<link>http://localhost:8000/blog/using-makesite/</link>
+<title>IBHUB notes</title>
+<link>http://localhost:8000/blog/ibhubs-notes/</link>
 <description>
 <![CDATA[
 <p>
-A video is worth a 1000 pictures Click on the thumbnail below, and just examine the contents in the three screens.&nbsp;<a href="http://localhost:8000/blog/using-makesite/">...</a>
+CCBP model continuous capacity building program 10xIITian BGO Transformation Building world-class products we don't have confidence in ourselves money is there across the world if&nbsp;<a href="http://localhost:8000/blog/ibhubs-notes/">...</a>
 </p>
-<p><a href="http://localhost:8000/blog/using-makesite/">Read More</a></p>
+<p><a href="http://localhost:8000/blog/ibhubs-notes/">Read More</a></p>
+]]>
+</description>
+<pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Productive Hacking</title>
+<link>http://localhost:8000/blog/some-more-hacking/</link>
+<description>
+<![CDATA[
+<p>
+First, got the Tiny Python Projects to work on gitpod and get all the test cases to run Use the stock dockerFile provided to build&nbsp;<a href="http://localhost:8000/blog/some-more-hacking/">...</a>
+</p>
+<p><a href="http://localhost:8000/blog/some-more-hacking/">Read More</a></p>
 ]]>
 </description>
 <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
@@ -137,14 +150,14 @@ Sandbox to try ThinkPy2 code In https://github.com/kgisl/pythonFDP , in the /san
 <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Productive Hacking</title>
-<link>http://localhost:8000/blog/some-more-hacking/</link>
+<title>Makesite and Github Workflow</title>
+<link>http://localhost:8000/blog/using-makesite/</link>
 <description>
 <![CDATA[
 <p>
-First, got the Tiny Python Projects to work on gitpod and get all the test cases to run Use the stock dockerFile provided to build&nbsp;<a href="http://localhost:8000/blog/some-more-hacking/">...</a>
+A video is worth a 1000 pictures Click on the thumbnail below, and just examine the contents in the three screens.&nbsp;<a href="http://localhost:8000/blog/using-makesite/">...</a>
 </p>
-<p><a href="http://localhost:8000/blog/some-more-hacking/">Read More</a></p>
+<p><a href="http://localhost:8000/blog/using-makesite/">Read More</a></p>
 ]]>
 </description>
 <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
@@ -176,19 +189,6 @@ Sadhguru wants to share the ecstascy that he feels He says you don't have to be 
 <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Why Wework uses a static generator</title>
-<link>http://localhost:8000/blog/wework-static-generation-why/</link>
-<description>
-<![CDATA[
-<p>
-Why WeWork.com uses a static generator and why you should too Ramin Bozorgzadeh 9-11 minutes Over the past few years, static site generators have become&nbsp;<a href="http://localhost:8000/blog/wework-static-generation-why/">...</a>
-</p>
-<p><a href="http://localhost:8000/blog/wework-static-generation-why/">Read More</a></p>
-]]>
-</description>
-<pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Static site generators</title>
 <link>http://localhost:8000/blog/pelican-vs-makesite-vs-emacs/</link>
 <description>
@@ -197,6 +197,19 @@ Why WeWork.com uses a static generator and why you should too Ramin Bozorgzadeh 
 SSG Your pick? Pelican, Makesite or Emacs? Pelican Site Generator Makesite Emacs (editor) From simple to simplest Pelican took 20 minutes to configure. Makesite was&nbsp;<a href="http://localhost:8000/blog/pelican-vs-makesite-vs-emacs/">...</a>
 </p>
 <p><a href="http://localhost:8000/blog/pelican-vs-makesite-vs-emacs/">Read More</a></p>
+]]>
+</description>
+<pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Why Wework uses a static generator</title>
+<link>http://localhost:8000/blog/wework-static-generation-why/</link>
+<description>
+<![CDATA[
+<p>
+Why WeWork.com uses a static generator and why you should too Ramin Bozorgzadeh 9-11 minutes Over the past few years, static site generators have become&nbsp;<a href="http://localhost:8000/blog/wework-static-generation-why/">...</a>
+</p>
+<p><a href="http://localhost:8000/blog/wework-static-generation-why/">Read More</a></p>
 ]]>
 </description>
 <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
