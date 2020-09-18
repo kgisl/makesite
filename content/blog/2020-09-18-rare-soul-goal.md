@@ -11,7 +11,7 @@ Why not aspire to be a rare soul? Not only it is difficult and seems almost unat
 Listen to this [audio](https://soundcloud.com/ashok-bakthavathsalam/chapter7verse3gita) starting from 16th min to get a better spiritual understanding of what this verse implies. 
 > "When you pray to Him for Him, that is called love, devotion!"
 
-Gold! Hari OM! 🙏
+That is **gold**! Hari Om! 🙏
 
 
 
