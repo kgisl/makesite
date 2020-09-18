@@ -1,4 +1,4 @@
-<!-- title: Draft Blog -->
+<!-- title: Rare souls are rare! -->
 
 ## Why not aspire to be a rare soul?
 
