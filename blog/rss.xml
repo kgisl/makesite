@@ -7,12 +7,12 @@
 <description>Grow with Technology</description>
 
 <item>
-<title>Draft Blog</title>
+<title>Pyment for saythanks.io</title>
 <link>http://localhost:8000/blog/docstrings-for-saythanks/</link>
 <description>
 <![CDATA[
 <p>
-Pyment for placeholder docstrings It was rather straightforward. And easy and so did a commit for all the import source files. Check this out .&nbsp;<a href="http://localhost:8000/blog/docstrings-for-saythanks/">...</a>
+Pyment for placeholder docstrings Thanks to Gupta's presentation in a recently concluded Python Flame event on Sept 19 2020 (Saturday), I explored pyment . It&nbsp;<a href="http://localhost:8000/blog/docstrings-for-saythanks/">...</a>
 </p>
 <p><a href="http://localhost:8000/blog/docstrings-for-saythanks/">Read More</a></p>
 ]]>
