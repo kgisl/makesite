@@ -10,4 +10,8 @@ Just because you meditate and do yoga, don't expect only good things to happen  
 
 But, hold on. There is the potential for a big reward: you get to "touch" the intelligence of Creation, and life has the potential to be magical from thereon! 
 
+
+![creation](https://files.gitter.im/581c97cbd73408ce4f339dc2/ijqU/creationMagic.png)
+
 ![magic](https://files.gitter.im/581c97cbd73408ce4f339dc2/Xbms/IMG-20161121-WA0011.jpg)
+
