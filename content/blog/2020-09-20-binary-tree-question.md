@@ -1,4 +1,4 @@
-<!-- title: Draft Blog -->
+<!-- title: Coding question -->
 
 ## BST question
 
