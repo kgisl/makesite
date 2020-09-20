@@ -7,6 +7,19 @@
 <description>Grow with Technology</description>
 
 <item>
+<title>Draft Blog</title>
+<link>http://localhost:8000/blog/docstrings-for-saythanks/</link>
+<description>
+<![CDATA[
+<p>
+Pyment for placeholder docstrings It was rather straightforward. And easy and so did a commit for all the import source files. Check this out .&nbsp;<a href="http://localhost:8000/blog/docstrings-for-saythanks/">...</a>
+</p>
+<p><a href="http://localhost:8000/blog/docstrings-for-saythanks/">Read More</a></p>
+]]>
+</description>
+<pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Coding question</title>
 <link>http://localhost:8000/blog/binary-tree-question/</link>
 <description>
