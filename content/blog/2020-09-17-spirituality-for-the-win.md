@@ -16,6 +16,6 @@ But, hold on. There is the potential for a big reward: you get to "touch" the in
 
 ![magic](https://files.gitter.im/581c97cbd73408ce4f339dc2/Xbms/IMG-20161121-WA0011.jpg)
 
-_when you let go your / ego the magic happens / in life much sooner_  - http://j.mp/egoThis 
+_when you let go your / ego the magic happens / in life much sooner_  - [http://j.mp/egoThis](http://j.mp/egoThis) 
 
 
