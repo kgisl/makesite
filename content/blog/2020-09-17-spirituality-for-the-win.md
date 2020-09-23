@@ -1,6 +1,8 @@
 <!-- title: Spirituality, FTW! -->
 
-_"Before enlightenment, chop wood, carry water. After enlightenment, chop wood, carry water."_  - [Zen](https://lifehacker.com/four-confusing-zen-quotes-and-what-you-can-learn-from-1676177538) quote
+_"Before enlightenment, chop wood, carry water.   
+After enlightenment, chop wood, carry water."_    
+- [Zen](https://lifehacker.com/four-confusing-zen-quotes-and-what-you-can-learn-from-1676177538) quote
 
 
 ## Spiritual myths
