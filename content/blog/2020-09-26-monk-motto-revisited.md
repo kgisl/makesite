@@ -4,17 +4,17 @@
 
 _பசித்திரு, தனித்திரு, விழித்திரு!_
 
-பசித்திரு
+**பசித்திரு**
   - have been advised to have only two meals a day; as a reminder of people who go hungry in this country, pandemic or otherwise 
   - and must perform fasting once a week for a minimum of 24 hours
   - "The less food, the better" - and "less sweeter, even better" 
 
-தனித்திரு
+**தனித்திரு**
   - have to learn to be alone with my thoughts
 	  - journalling in a physical notebook - this is important and then transfer to digital Evernote books when required 
   - have to meditate and perform sadhana every day for the next 60 days, from the initial twice a day 40 day mandalam period 
 
-விழித்திரு
+**விழித்திரு**
 
 The only dimension still to be explored and reviewed as to what needs to be done. Go back to Arunji's note (attached below)? 
    - have to read at least 50 books a year 
