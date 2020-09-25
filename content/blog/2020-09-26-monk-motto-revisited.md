@@ -16,7 +16,7 @@ _பசித்திரு, தனித்திரு, விழித்த
 
 **விழித்திரு**
 
-- satsanga - network with the right kind of people / get the right mentors to help you launch into the next orbit
+- _satsanga_ - network with the right kind of people / get the right mentors to help you launch into the next orbit
 	- need to ensure a 2nd line of income is possible 
 
 - The only dimension still to be explored and reviewed as to what needs to be done. Go back to Arunji's note (attached below)? 
