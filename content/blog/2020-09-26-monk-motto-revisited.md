@@ -1,6 +1,6 @@
-<!-- title: பசித்திரு, தனித்திரு, விழித்திரு! redux  -->
+<!-- title: Saint Vallalaar's motto, redux  -->
 
-## Monk's mission
+## Monk's Motto Remixed
 
 _பசித்திரு, தனித்திரு, விழித்திரு!_
 
