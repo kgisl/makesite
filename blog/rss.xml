@@ -7,6 +7,19 @@
 <description>Grow with Technology</description>
 
 <item>
+<title>In the Middle?</title>
+<link>http://localhost:8000/blog/in-the-middle/</link>
+<description>
+<![CDATA[
+<p>
+Earlier attempts public boolean xyzMiddle(String str) { int last_check = -1; while (true) { int value = str.indexOf(&quot;xyz&quot;, last_check + 1); if (value == -1)&nbsp;<a href="http://localhost:8000/blog/in-the-middle/">...</a>
+</p>
+<p><a href="http://localhost:8000/blog/in-the-middle/">Read More</a></p>
+]]>
+</description>
+<pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Ideas to focus on</title>
 <link>http://localhost:8000/blog/choosing-ideas/</link>
 <description>
