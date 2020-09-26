@@ -10,6 +10,7 @@ _பசித்திரு, தனித்திரு, விழித்த
   - "The less food, the better" - and "less sweeter, even better" 
 
 **தனித்திரு**
+  - Karan Bajaj, the Yogi turned entrepreneur and his sabbatical in the Himalayas - paradoxically giving up all goals and aiming for what Ryan Holiday refers to as _"stillness"_ - and his subsequent success with WhiteHatJr which was sold for USD 300 million to BYJU's 
   - have to learn to be alone with my thoughts
 	  - journalling in a physical notebook - this is important and then transfer to digital Evernote books when required 
   - have to meditate and perform sadhana every day for the next 60 days, from the initial twice a day 40 day mandalam period 
