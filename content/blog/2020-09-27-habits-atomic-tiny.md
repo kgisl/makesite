@@ -10,7 +10,7 @@ Read the answer in full [here](https://qr.ae/pNPtz9)
 
 and this [one](https://www.quora.com/How-do-I-break-old-habits-and-form-new-ones/answer/Micha%C5%82-Stawicki) as well. 
 
-[Tiny Habit Review](http://j.mp/tinyReview) vs [Atomic Habits Review](http://j.mp/atomicReview)
+[Tiny Habit Review](http://j.mp/tinyReview) vs [Atomic Habits Review](http://j.mp/atomicReview) and the [Power of Habit by Duhigg Review](https://bit.ly/habitReview)
 
 ### Goals or Systems
 
