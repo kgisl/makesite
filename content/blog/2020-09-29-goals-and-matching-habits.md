@@ -1,6 +1,6 @@
 <!-- title: Goals and Habits  -->
 
-## Goals and habits
+## Goals and Habits
 
 Consistent habits need an anchor in the form of a motivated goal. In my case, I had two goals and they were achieved by consistent habits. 
 
