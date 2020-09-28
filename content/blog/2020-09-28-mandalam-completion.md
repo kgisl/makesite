@@ -7,4 +7,4 @@ Happy to report the completion of a mandalam (as defined by Isha) of two sadhana
 
 FYI, continuing for one more day tomorrow to make it 41 consecutive days, just to be sure! 
 
-I don't think I have strived to install any other _worthy_ habit in my whole life and succeeded in maintaining any form of consistency. All due to Sadhguru's grace. 🙏
+I don't think I have strived harder to install any other _worthy_ habit in my whole life. And succeeded in maintaining any form of consistency. All due to Sadhguru's grace. 🙏
