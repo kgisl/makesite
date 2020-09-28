@@ -35,5 +35,27 @@
 இருப்பீர்கள்
 
 ---
-English Translation 
+_English Translation_
+
+Yoghurt is what makes milk difficult. Butter is butter if you give it a hard time. Ghee is when butter is tortured.
+
+Yogurt is higher than milk .....
+Butter is higher than yogurt .....
+Ghee is higher than butter ........
+
+What this means is that it is often difficult - no matter what man's color does not change, his value in society increases.
+
+Milk can only be used for a day and then it will spoil.
+
+When a drop of whey falls in the milk it becomes yogurt. It will be 2 more days.
+
+The butter comes out when the yogurt melts. It will be 3 more days.
+
+When butter is boiled it becomes ghee. It was never in vain.
+
+The never-spoiling ghee is hidden in the milk that spoils in one day.
+
+Even your mind is full of infinite powers. Put some honest thoughts in it. Think for yourself. Take a closer look at his life. Then look then.
+
+You will be a "green_man" who will never fail. 
 
