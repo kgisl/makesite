@@ -22,7 +22,7 @@ And then visit Michal's [framework](https://bit.ly/habitFramework) and how to [i
 
 ### Goals or Systems
 
-https://bit.ly/cbsClear 
+Also watch this [https://bit.ly/cbsClear](https://bit.ly/cbsClear) 
 
 > "We don't rise to the levels of our goals, we fall to the leve of our systems"
 
