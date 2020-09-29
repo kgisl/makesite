@@ -14,7 +14,7 @@ Om Nama Sivaya!
 Hari Om!   
 
 
-![motivate](https://4fraiww95do8s62g3irso214-wpengine.netdna-ssl.com/wp-content/uploads/2018/11/JimRyun-1.jpg)
+![motivate](https://files.gitter.im/581c97cbd73408ce4f339dc2/mEP6/image.png)
 
 
 
