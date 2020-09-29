@@ -1,6 +1,6 @@
 <!-- title: Goals and Habits  -->
 
-## Goals and Habits
+## Goals enabled by Habits
 
 Consistent habits need an anchor in the form of a motivated goal. In my case, I had two goals and they were achieved by consistent habits. 
 
@@ -10,6 +10,11 @@ Thanks to Sadhguru's constant persuasion and inspiration, I decided to explore t
 
 I had learnt the Shambavi MahaMudra during Dec 2018. I did the sadhana for 40 consecutive days, twice a day. I believe that I have sensed a indescribable yet fleeting sense of peacefulness as part of rather chaotic psyche. Continued daily sadhana for the next 6 months should only deepen that sense of inner joy. 
 
-Om Nama Sivaya!
-Hari Om! 
+Om Nama Sivaya!   
+Hari Om!   
+
+
+![motivate](https://4fraiww95do8s62g3irso214-wpengine.netdna-ssl.com/wp-content/uploads/2018/11/JimRyun-1.jpg)
+
+
 
