@@ -1,4 +1,4 @@
-<!-- title: A Lonely God  -->
+<!-- title: Make a Deal with God  -->
 
 ## Yearn for a Higher Love
 
