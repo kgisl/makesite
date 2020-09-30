@@ -8,7 +8,7 @@ Here's my weird theory of God's vulnerability. Basically,  I'm convinced that He
 For a moment, cast aside all your neurosis and accept my premise. If you do, I have a ***very actionable and powerful lifehack*** for you  to try (what do you have to lose?): Make a deal with Him that you will spend time thinking of Him. In return, that He has to grant you some things that you _want_. 
   - Be very clear as to what you will ask for, because it will come true even before you know it. Make sure what you want is what you _need_. There is a big difference. Don't ask for what you _want_. Instead, ask for what you _need_. 
 
-Sit back and enjoy the magic unfold in front of your own eyes! And if it does work, reach out to me and buy me a Bugatti. 
+Sit back and enjoy the magic unfold in front of your own eyes! And _when_ it has worked, you can reach out to me and buy me a Bugatti. 
 
 Hari OM! 
 
