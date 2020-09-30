@@ -7,4 +7,5 @@ Why do you need ***self-esteem***? You are a spec in a small spec of Coimbatore 
 	    - Just relax, and enjoy the present! 
     - http://j.mp/forgetSelfEsteem - HBR article
 
+and for further clarification on your thought processes and how it affects you, listen to [this](http://bit.ly/thoughtLimits). 
 
