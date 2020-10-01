@@ -15,6 +15,9 @@ _பசித்திரு, தனித்திரு, விழித்த
 	  - journalling in a physical notebook - this is important and then transfer to digital Evernote books when required 
   - have to meditate and perform sadhana every day for the next 60 days, from the initial twice a day 40 day mandalam period 
 
+And Sadhguru's comments on why we have to learn to be [alone](http://bit.ly/aloneSadhguru). 
+> "Once you touch the source of your Life, what goes on the external might seem phenomenal. People think I am superhuman. But I say, to be human is super. You are the product of millions of years of evolution. You have to explore that phenomenon of Life within you."
+
 **விழித்திரு**
 
 - _satsanga_ - network with the right kind of people / get the right mentors to help you launch into the next orbit
