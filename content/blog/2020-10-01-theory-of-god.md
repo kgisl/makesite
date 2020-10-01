@@ -13,3 +13,8 @@ Sit back and enjoy the magic unfold in front of your own eyes! And _when_ it has
 Hari OM! 
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/647355000&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/louis-veilleux-847753397" title="Louis Veilleux" target="_blank" style="color: #cccccc; text-decoration: none;">Louis Veilleux</a> · <a href="https://soundcloud.com/louis-veilleux-847753397/kygo-whitney-houston-higher-love-louis-lewis-club-remix" title="Kygo &amp; Whitney Houston - Higher Love (Louis Lewis Club Remix)" target="_blank" style="color: #cccccc; text-decoration: none;">Kygo &amp; Whitney Houston - Higher Love (Louis Lewis Club Remix)</a></div>
+
+PS: In an amazing coincidence, I received this from Isha today: 
+
+> நீங்கள் முழுமையான பக்தியில் இருந்தால், தெய்வீகமும் உங்களுக்கு இறங்க வேண்டும். தெய்வீகத்திற்கு உங்களுடன் இருப்பதை தவிர வேறு வழி இல்லை. 
+>  ~ சத்குரு
