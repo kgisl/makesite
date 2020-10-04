@@ -3,7 +3,7 @@
 ## First Azure App
 
 From PyCon where Microsoft is actively pushing Python, 
-https://github.com/trallard/azure-python-labs/blob/master/9-vscodespaces/README.md
+reviewed this and followed up with some activity based on https://github.com/trallard/azure-python-labs/blob/master/9-vscodespaces/README.md
 
 Click here to see live [app](https://b211f752-ae2a-43c7-85e0-40a08386b788-5000.apps.codespaces.githubusercontent.com/)
 
