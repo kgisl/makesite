@@ -2,7 +2,16 @@
 
 ## How to get to the Centre
 
-Listen to [Osho](https://youtu.be/6i8bnb4dvvg)
+
+_People come as investigators_
+_Then they become students_
+_Then they become disciples and then eventually_ 
+_They become devotees_
+_As their journey inward, deepens!_
+  - [Sadhguru](https://youtu.be/Tbha9WYxcg4) 
+
+
+... and if you are still unconvinced, listen to [Osho](https://youtu.be/6i8bnb4dvvg)
 
 tl;dr - keep observing your actions, thoughts and emotions as a bystander, and the 4th step "Quantum Leap" shall happen ***automagically***. 
 
