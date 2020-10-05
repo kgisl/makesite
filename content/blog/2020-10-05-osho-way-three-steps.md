@@ -3,11 +3,11 @@
 ## How to get to the Centre
 
 
-_People come as investigators_
-_Then they become students_
-_Then they become disciples and then eventually_ 
-_They become devotees_
-_As their journey inward, deepens!_
+_People come as investigators_  
+_Then they become students_  
+_Then they become disciples and then eventually_   
+_They become devotees_  
+_As their journey inward, deepens!_  
   - [Sadhguru](https://youtu.be/Tbha9WYxcg4) 
 
 
@@ -37,4 +37,21 @@ This needs no belief. It only needs experimentation. I want you to experiment an
 You are still asleep. I am just awake. 
 No need to worship me. I will stand a guarantee, I will be your encouragement, I will not be your saviour. I will do my best to shake you and wake you up! 
 
+**Tomorrow Never Comes** 
+
+_[Sadhguru](https://www.facebook.com/IshaUSA/videos/1531261760256590/?v=1531261760256590) shares his poem about tomorrow and speaks about tomorrow as an idea, not a reality. This moment is the only reality. Tomorrow never happened to anybody but the idea of tomorrow has robbed a huge mass of people of their life._
+  
+A day that never came but has managed to spoil every game  
+One day that takes all the blame, the basis of all fear and shame  
+Cripples the blossoming of the life’s flame  
+A spoiler that makes life a dream  
+Traps the limitless in a limited scene  
+One day that takes all the blame, the basis of all fear and shame  
+Cripples the blossoming of life’s flame  
+A spoiler that makes life a dream  
+Traps the limitless in a limited scene  
+A day that never comes but the world it rules  
+A day that never comes but the world it rules.  
+
+  
 
