@@ -4,7 +4,7 @@
 
 Listen to [Osho](https://youtu.be/6i8bnb4dvvg)
 
-Three steps are required, and the 4th step "Quantum Leap" happens automatically. 
+tl;dr - keep observing your actions, thoughts and emotions as a bystander, and the 4th step "Quantum Leap" shall happen ***automagically***. 
 
 1. Observing all your activities 
    - Your body, your action
