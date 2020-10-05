@@ -7,7 +7,7 @@ _People come as investigators_
 _Then they become students_  
 _Then they become disciples and then eventually_   
 _They become devotees_  
-_As their journey inward, deepens!_  
+_As their journey inward deepens!_  
   - [Sadhguru](https://youtu.be/Tbha9WYxcg4) 
 
 
