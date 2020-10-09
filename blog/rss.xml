@@ -7,19 +7,6 @@
 <description>Grow with Technology</description>
 
 <item>
-<title>Labor of Love</title>
-<link>http://localhost:8000/blog/labor-of-love/</link>
-<description>
-<![CDATA[
-<p>
-&quot;Humans are capable of sustaining hard labour only over a short period of time. However, they are capable of tortuous intense labour of love indefinitely,&nbsp;<a href="http://localhost:8000/blog/labor-of-love/">...</a>
-</p>
-<p><a href="http://localhost:8000/blog/labor-of-love/">Read More</a></p>
-]]>
-</description>
-<pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Osho Quantum Leap</title>
 <link>http://localhost:8000/blog/osho-way-three-steps/</link>
 <description>
@@ -28,6 +15,19 @@
 How to get to the Centre People come as investigators Then they become students Then they become disciples and then eventually They become devotees As&nbsp;<a href="http://localhost:8000/blog/osho-way-three-steps/">...</a>
 </p>
 <p><a href="http://localhost:8000/blog/osho-way-three-steps/">Read More</a></p>
+]]>
+</description>
+<pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Labor of Love</title>
+<link>http://localhost:8000/blog/labor-of-love/</link>
+<description>
+<![CDATA[
+<p>
+&quot;Humans are capable of sustaining hard labour only over a short period of time. However, they are capable of tortuous intense labour of love indefinitely,&nbsp;<a href="http://localhost:8000/blog/labor-of-love/">...</a>
+</p>
+<p><a href="http://localhost:8000/blog/labor-of-love/">Read More</a></p>
 ]]>
 </description>
 <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
@@ -85,19 +85,6 @@ Goals enabled by Habits Consistent habits need an anchor in the form of a motiva
 <pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Mandalam Success</title>
-<link>http://localhost:8000/blog/mandalam-completion/</link>
-<description>
-<![CDATA[
-<p>
-Consecutive 40 days! Happy to report the completion of a mandalam (as defined by Isha) of two sadhanas every day without any break. Today's evening&nbsp;<a href="http://localhost:8000/blog/mandalam-completion/">...</a>
-</p>
-<p><a href="http://localhost:8000/blog/mandalam-completion/">Read More</a></p>
-]]>
-</description>
-<pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Milk to Youghurt to Ghee</title>
 <link>http://localhost:8000/blog/becoming-ghee/</link>
 <description>
@@ -111,17 +98,17 @@ Transform or Die பாலுக்கு கஷ்டம் கொடுத்�
 <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Tiny Atomic Habits</title>
-<link>http://localhost:8000/blog/habits-atomic-tiny/</link>
+<title>Mandalam Success</title>
+<link>http://localhost:8000/blog/mandalam-completion/</link>
 <description>
 <![CDATA[
 <p>
-Tiny or Atomic We form habits. And then habits form us. - Ralph Emerson &quot;You're more likely to act yourself into feeling, than feeling yourself&nbsp;<a href="http://localhost:8000/blog/habits-atomic-tiny/">...</a>
+Consecutive 40 days! Happy to report the completion of a mandalam (as defined by Isha) of two sadhanas every day without any break. Today's evening&nbsp;<a href="http://localhost:8000/blog/mandalam-completion/">...</a>
 </p>
-<p><a href="http://localhost:8000/blog/habits-atomic-tiny/">Read More</a></p>
+<p><a href="http://localhost:8000/blog/mandalam-completion/">Read More</a></p>
 ]]>
 </description>
-<pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+<pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Here Awhile</title>
@@ -137,17 +124,17 @@ Here Awhile Unmuddle your memory Heading Read this about &quot;how you have to w
 <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Saint Vallalaar's motto, redux</title>
-<link>http://localhost:8000/blog/monk-motto-revisited/</link>
+<title>Tiny Atomic Habits</title>
+<link>http://localhost:8000/blog/habits-atomic-tiny/</link>
 <description>
 <![CDATA[
 <p>
-Monk's Motto Remixed பசித்திரு, தனித்திரு, விழித்திரு! பசித்திரு have been advised to have only two meals a day; as a reminder of people who go hungry&nbsp;<a href="http://localhost:8000/blog/monk-motto-revisited/">...</a>
+Tiny or Atomic We form habits. And then habits form us. - Ralph Emerson &quot;You're more likely to act yourself into feeling, than feeling yourself&nbsp;<a href="http://localhost:8000/blog/habits-atomic-tiny/">...</a>
 </p>
-<p><a href="http://localhost:8000/blog/monk-motto-revisited/">Read More</a></p>
+<p><a href="http://localhost:8000/blog/habits-atomic-tiny/">Read More</a></p>
 ]]>
 </description>
-<pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
+<pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>In the Middle?</title>
@@ -158,6 +145,19 @@ Monk's Motto Remixed பசித்திரு, தனித்திரு, �
 Earlier attempts public boolean xyzMiddle(String str) { int last_check = -1; while (true) { int value = str.indexOf(&quot;xyz&quot;, last_check + 1); if (value == -1)&nbsp;<a href="http://localhost:8000/blog/in-the-middle/">...</a>
 </p>
 <p><a href="http://localhost:8000/blog/in-the-middle/">Read More</a></p>
+]]>
+</description>
+<pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Saint Vallalaar's motto, redux</title>
+<link>http://localhost:8000/blog/monk-motto-revisited/</link>
+<description>
+<![CDATA[
+<p>
+Monk's Motto Remixed பசித்திரு, தனித்திரு, விழித்திரு! பசித்திரு have been advised to have only two meals a day; as a reminder of people who go hungry&nbsp;<a href="http://localhost:8000/blog/monk-motto-revisited/">...</a>
+</p>
+<p><a href="http://localhost:8000/blog/monk-motto-revisited/">Read More</a></p>
 ]]>
 </description>
 <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
@@ -254,19 +254,6 @@ Read the comments as well to this - http://bit.ly/wisdomThis If you read the 10 
 <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>An inch of difference</title>
-<link>http://localhost:8000/blog/an-inch-of-leverage/</link>
-<description>
-<![CDATA[
-<p>
-The one-inch leverage Just one inch of pillow helped me to stay focused on completing my 40-mandala of SMM yoga. What a difference, between night&nbsp;<a href="http://localhost:8000/blog/an-inch-of-leverage/">...</a>
-</p>
-<p><a href="http://localhost:8000/blog/an-inch-of-leverage/">Read More</a></p>
-]]>
-</description>
-<pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>CII Education Summit 2020</title>
 <link>http://localhost:8000/blog/cii-education-summit-call-to-action/</link>
 <description>
@@ -275,6 +262,19 @@ The one-inch leverage Just one inch of pillow helped me to stay focused on compl
 Mohan Reddy - Call to Action teaching advisory council Univ of Michigan - how teaching has to be done every student has a camera on&nbsp;<a href="http://localhost:8000/blog/cii-education-summit-call-to-action/">...</a>
 </p>
 <p><a href="http://localhost:8000/blog/cii-education-summit-call-to-action/">Read More</a></p>
+]]>
+</description>
+<pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>An inch of difference</title>
+<link>http://localhost:8000/blog/an-inch-of-leverage/</link>
+<description>
+<![CDATA[
+<p>
+The one-inch leverage Just one inch of pillow helped me to stay focused on completing my 40-mandala of SMM yoga. What a difference, between night&nbsp;<a href="http://localhost:8000/blog/an-inch-of-leverage/">...</a>
+</p>
+<p><a href="http://localhost:8000/blog/an-inch-of-leverage/">Read More</a></p>
 ]]>
 </description>
 <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
@@ -384,19 +384,6 @@ As per Jebamalai On the NEP 2020 (Education policy of India): intellectually tra
 <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Morning dump</title>
-<link>http://localhost:8000/blog/sunday-morning-dump/</link>
-<description>
-<![CDATA[
-<p>
-Sadhguru wants to share the ecstascy that he feels He says you don't have to be a superman. To be human is super enough. But&nbsp;<a href="http://localhost:8000/blog/sunday-morning-dump/">...</a>
-</p>
-<p><a href="http://localhost:8000/blog/sunday-morning-dump/">Read More</a></p>
-]]>
-</description>
-<pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Static site generators</title>
 <link>http://localhost:8000/blog/pelican-vs-makesite-vs-emacs/</link>
 <description>
@@ -405,6 +392,19 @@ Sadhguru wants to share the ecstascy that he feels He says you don't have to be 
 SSG Your pick? Pelican, Makesite or Emacs? Pelican Site Generator Makesite Emacs (editor) From simple to simplest Pelican took 20 minutes to configure. Makesite was&nbsp;<a href="http://localhost:8000/blog/pelican-vs-makesite-vs-emacs/">...</a>
 </p>
 <p><a href="http://localhost:8000/blog/pelican-vs-makesite-vs-emacs/">Read More</a></p>
+]]>
+</description>
+<pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Morning dump</title>
+<link>http://localhost:8000/blog/sunday-morning-dump/</link>
+<description>
+<![CDATA[
+<p>
+Sadhguru wants to share the ecstascy that he feels He says you don't have to be a superman. To be human is super enough. But&nbsp;<a href="http://localhost:8000/blog/sunday-morning-dump/">...</a>
+</p>
+<p><a href="http://localhost:8000/blog/sunday-morning-dump/">Read More</a></p>
 ]]>
 </description>
 <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
