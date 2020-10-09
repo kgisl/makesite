@@ -1,4 +1,5 @@
 <!-- title: Labor of Love -->
+_For more than two decades, legendary trainer Tim Grover has taken the greats—Michael Jordan, Kobe Bryant, Dwyane Wade, and hundreds of relentless competitors in sports, business, and every walk of life—and made them greater. Now, for the first time ever, he reveals what it takes to achieve total mental and physical dominance, showing you how to be relentless and achieve whatever you desire._
 
 ![irrelevant](https://files.gitter.im/581c97cbd73408ce4f339dc2/utAO/grover.png)
 
