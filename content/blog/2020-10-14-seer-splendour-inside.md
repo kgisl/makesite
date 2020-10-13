@@ -1,6 +1,7 @@
 <!-- title: Seer of Splendour  -->
 
 ## Seer splendour
+_borrowed shamelessly from a review by [Darwin8u](https://www.goodreads.com/review/show/1663360942)_
 
 Then the seer dwells in His own true splendour.  
 _- Yoga Sutra 1.3_
