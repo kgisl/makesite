@@ -1,13 +1,6 @@
 <!-- title: Gartner Hype Analysis  -->
 
-  
-## Markdown Format
-
-Artificial Intelligence 
-:  Knowledge-based Systems, Networked Collective Intelligence, Image/Content Recognition, Machine Learning, Cognitive Expert Advisors, General AI, Cognitive Computing, Deep Neural Nets (Deep Learning), Artificial General Intelligence, Deep Neural Network ASICs, AI Paas, Edge AI, Explainable AI, Emotion AI, Transfer Learning, Adaptive 
-
-
-
+See [PDF](https://github.com/kgashok/QuarrelsomeSnappyScientificcomputing/blob/master/hypeCategories.pdf) for printable version.
 
 ![wordcloud](https://files.gitter.im/581c97cbd73408ce4f339dc2/xVtC/image.png)
 
