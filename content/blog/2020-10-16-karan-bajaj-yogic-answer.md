@@ -1,4 +1,4 @@
-<!-- title: Success and Failure celebration  -->
+<!-- title: How a Yogi celebrates  -->
 
 ## Yogian Response 
 
@@ -7,6 +7,6 @@ When Karan Bajaj of WhiteHatJr was asked "You are the toast up of the startup ec
 
 > "As a yogian, I am somewhat indifferent to some successes and failures, and it is like any other normal day..."
 
-Full interview with Chandra Srikanth of TimesNow is at http://j.mp/karanVideo 
+Full interview with Chandra Srikanth of TimesNow is at [http://j.mp/karanVideo](http://j.mp/karanVideo).
 
 
