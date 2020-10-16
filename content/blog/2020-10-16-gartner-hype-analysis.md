@@ -296,8 +296,8 @@ Thanks to "Quarter Century of Hype by Gartner" at [https://j.mp/hypeThis](https:
   
 ## Markdown Format
 
-|category|technologies|  
-| - | - |  
+|category |technologies |  
+| --- | --- |  
 |Artificial Intelligence|Knowledge-based Systems, Networked Collective Intelligence, Image/Content Recognition, Machine Learning, Cognitive Expert Advisors, General AI, Cognitive Computing, Deep Neural Nets (Deep Learning), Artificial General Intelligence, Deep Neural Network ASICs, AI Paas, Edge AI, Explainable AI, Emotion AI, Transfer Learning, Adaptive Machine Learning, Generative Adversarial Networks|
 |Human-Computer Interface|Speech Recognition (Cloud), Handwriting Recognition, Virtual Reality, Intelligent Agents, VRML/Avatars, Wearable Computers, Synthetic Characters/Chatbots, Voice Portals, Text-to-Speech/Speech Synthesis, Speech Recognition (Desktop), NLP Query/Interfaces, Speech Recognition (Mobile), Augmented Reality, Computer/Brain Interfaces, Speech-to-Speech Translation, Gesture Recognition/Control, Portable Personality, Ambient/Glanceable Displays, Virtual Assistants, Video Search, Human Augmentation, Tangible User Interfaces, Wearable UI, Affective Computing, Electrovibration, Smart Advisors, People-Literate Technology, Smart Data Discovery, Conversational User Interfaces, Mixed Reality, Conversational AI Platform, Knowledge Graphs, Personification, Immersive Workspaces|
 |Methodology|Object-oriented Programming, Imaging, Workflow, Knowledge Management, WS-Enabled Business Models, Unified Communications, Model-driven Architectures, Business Process Platforms, Folksonomies, Event Driven Architecture, Idea Management, Expertise Location & Management, Behavioral Economics, Context Delivery Services, Consumerization, Group Buying, Gamification, Crowdsourcing, Neurobusiness, Software Defined Anything, Digital Dexterity, Citizen Data Science, Ent Taxonomy/Ontology Mgt, Augmented Data Discovery, Digital Twins, Serverless PaaS, Augmented Intelligence, Decentralized Autonomous Org, Digital Ops|  
