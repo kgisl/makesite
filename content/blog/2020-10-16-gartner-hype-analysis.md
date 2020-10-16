@@ -3,6 +3,12 @@
 
 Thanks to "Quarter Century of Hype by Gartner" at [https://j.mp/hypeThis](https://j.mp/hypeThis), I have the following outcome to present for your kind perusal. 
 
+### Some learnings
+
+- TIL [Methodology / Folksonomy](https://en.wikipedia.org/wiki/Folksonomy), a portmanteau of folk and taxonomy, as a [method](https://en.wikipedia.org/wiki/Folksonomy#Social_tagging_for_knowledge_acquisition) for social tagging for knowledge acquisition . 
+
+
+
 ## Hype Categories
 
 ```python 
@@ -284,3 +290,6 @@ Thanks to "Quarter Century of Hype by Gartner" at [https://j.mp/hypeThis](https:
                          '802.11ax']}
 
 ```
+
+
+![wordcloud](https://files.gitter.im/581c97cbd73408ce4f339dc2/xVtC/image.png)
