@@ -1,5 +1,13 @@
 <!-- title: Gartner Hype Analysis  -->
 
+  
+## Markdown Format
+
+Artificial Intelligence 
+:  Knowledge-based Systems, Networked Collective Intelligence, Image/Content Recognition, Machine Learning, Cognitive Expert Advisors, General AI, Cognitive Computing, Deep Neural Nets (Deep Learning), Artificial General Intelligence, Deep Neural Network ASICs, AI Paas, Edge AI, Explainable AI, Emotion AI, Transfer Learning, Adaptive 
+
+
+
 
 ![wordcloud](https://files.gitter.im/581c97cbd73408ce4f339dc2/xVtC/image.png)
 
@@ -293,11 +301,6 @@ Thanks to "Quarter Century of Hype by Gartner" at [https://j.mp/hypeThis](https:
                          '802.11ax']}
 
 ```
-  
-## Markdown Format
-
-Artificial Intelligence 
-:  Knowledge-based Systems, Networked Collective Intelligence, Image/Content Recognition, Machine Learning, Cognitive Expert Advisors, General AI, Cognitive Computing, Deep Neural Nets (Deep Learning), Artificial General Intelligence, Deep Neural Network ASICs, AI Paas, Edge AI, Explainable AI, Emotion AI, Transfer Learning, Adaptive 
 
 
 
