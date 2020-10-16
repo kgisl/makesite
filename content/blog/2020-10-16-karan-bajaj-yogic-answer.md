@@ -1,6 +1,6 @@
 <!-- title: How a Yogi celebrates  -->
 
-## Yogian Response 
+## #yogian response 
 
 When Karan Bajaj of WhiteHatJr was asked "You are the toast up of the startup ecoystem. How are you celebrating?", his response was [gold](http://j.mp/yogicAnswer 
 )! 
