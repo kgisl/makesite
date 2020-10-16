@@ -1,7 +1,7 @@
 <!-- title: Gartner Hype Analysis  -->
 
 
-Thanks to [Quarter century of Hype by Gartner](https://vimeo.com/464835556#), I did the following analysis: 
+Thanks to "Quarter century of Hype by Gartner" at [https://j.mp/hypeThis](https://j.mp/hypeThis), I have the following outcome to present for your kind perusal. 
 
 ## Hype Categories
 
