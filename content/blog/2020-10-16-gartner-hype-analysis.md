@@ -1,5 +1,8 @@
 <!-- title: Gartner Hype Analysis  -->
 
+
+Thanks to [Quarter century of Hype by Gartner](https://vimeo.com/464835556#), I did the following analysis: 
+
 ## Hype Categories
 
 ```python 
