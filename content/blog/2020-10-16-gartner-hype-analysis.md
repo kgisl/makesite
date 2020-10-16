@@ -294,7 +294,7 @@ Thanks to "Quarter Century of Hype by Gartner" at [https://j.mp/hypeThis](https:
 
 ```
   
-
+## Markdown Format
 
 |category|technologies|
 | - | - |
