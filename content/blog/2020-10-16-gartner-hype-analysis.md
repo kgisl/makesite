@@ -1,6 +1,9 @@
 <!-- title: Gartner Hype Analysis  -->
 
 
+![wordcloud](https://files.gitter.im/581c97cbd73408ce4f339dc2/xVtC/image.png)
+
+
 Thanks to "Quarter Century of Hype by Gartner" at [https://j.mp/hypeThis](https://j.mp/hypeThis), I have the following outcome to present for your kind perusal. 
 
 ### Some learnings
@@ -291,5 +294,3 @@ Thanks to "Quarter Century of Hype by Gartner" at [https://j.mp/hypeThis](https:
 
 ```
 
-
-![wordcloud](https://files.gitter.im/581c97cbd73408ce4f339dc2/xVtC/image.png)
