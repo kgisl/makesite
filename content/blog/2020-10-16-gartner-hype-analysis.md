@@ -296,6 +296,16 @@ Thanks to "Quarter Century of Hype by Gartner" at [https://j.mp/hypeThis](https:
   
 ## Markdown Format
 
+Colons can be used to align columns.
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
+
 |category |technologies |  
 | --- | --- |  
 |Artificial Intelligence|Knowledge-based Systems, Networked Collective Intelligence, Image/Content Recognition, Machine Learning, Cognitive Expert Advisors, General AI, Cognitive Computing, Deep Neural Nets (Deep Learning), Artificial General Intelligence, Deep Neural Network ASICs, AI Paas, Edge AI, Explainable AI, Emotion AI, Transfer Learning, Adaptive Machine Learning, Generative Adversarial Networks|
