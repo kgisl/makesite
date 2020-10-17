@@ -2,14 +2,15 @@
 
 ## The Life Embrace 
 
-You have three distinct choices. 
+_"..too often, so many words are uttered that offer so little for so few. And that I shall strive to steer clear off in my writing."_ 
 
+You have three distinct choices. 
 
 1. Complain and be frustrated about what happens in your life. It can be very disempowering and does not help you think and feel good about your situation. Very likely things will spiral down and put you in a very dark space that is worth not living at all. 
 
 2. Be relaxed and settle comfortable into the blessed life that you have been given. However, a niggling lurking fear makes you feel "small" and act "small" at the slightest adversity that comes your way. But overall, you stay in your comfort zone, and hopefully coast through life, thanks to your previous birth karma? But here's a fair warning though: if you are not careful, you might end up being part of the LivingDead (aka people who are very dull and boring) tribe. Seriously, is that all you want in life? 
 
-3. *Bravely* step out of your comfort zone, and face everything that gets thrown at you by [Life, the Universe and Everything](https://en.wikipedia.org/wiki/Life,_the_Universe_and_Everything); and in the process get ready to be chewed up and get thrown around by the  trials and tribulations of life by . Give no quarter to the challenges that come your own and like Valluvar said "Give problems to the problems" and be determined to be bigger than the obstacles and ultimately prevail over it. 
+3. *Bravely* step out of your comfort zone, and face everything that gets thrown at you by [Life, the Universe and Everything](https://en.wikipedia.org/wiki/Life,_the_Universe_and_Everything); and in the process get ready to be chewed up and get thrown around by the  trials and tribulations of life. Give no quarter to the challenges that come your way and like Valluvar said "Give problems to the problems" and be determined to be bigger than the obstacles and ultimately prevail over it. 
 	- this kind of thinking or attitude should make you feel empowered. Don't be feeble and avoid life. Step up to the plate and get ready to smash or be smashed. Either way, there is no shame. Nobody will care in 100 years how badly you fucked it up or how well you hit it out of the park. 
 
 ```LIFE'S EMBRACE```
