@@ -4,6 +4,8 @@
 
 _"..too often, so many words are uttered that offer so little for so few. And that I shall strive to steer clear off in my writing."_ 
 
+ _இடும்பைக்கு இடும்பை படுப்பர் இடும்பைக்கு<br>இடும்பை படாஅ தவர்._ – குறள்: 623
+
 You have three distinct choices. 
 
 1. Complain and be frustrated about what happens in your life. It can be very disempowering and does not help you think and feel good about your situation. Very likely things will spiral down and put you in a very dark space that is worth not living at all. 
@@ -12,8 +14,6 @@ You have three distinct choices.
 
 3. *Bravely* step out of your comfort zone, and face everything that gets thrown at you by [Life, the Universe and Everything](https://en.wikipedia.org/wiki/Life,_the_Universe_and_Everything); and in the process get ready to be chewed up and get thrown around by the  trials and tribulations of life. Give no quarter to the challenges that come your way and like Valluvar said "Give problems to the problems" and be determined to be bigger than the obstacles and ultimately prevail over it. 
 	- this kind of thinking or attitude should make you feel empowered. Don't be feeble and avoid life. Step up to the plate and get ready to smash or be smashed. Either way, there is no shame. Nobody will care in 100 years how badly you fucked it up or how well you hit it out of the park. 
-
-> _இடும்பைக்கு இடும்பை படுப்பர் இடும்பைக்கு<br>இடும்பை படாஅ தவர்._ – குறள்: 623
 
 
 ```LIFE'S EMBRACE```
