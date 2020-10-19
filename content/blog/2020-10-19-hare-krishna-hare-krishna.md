@@ -13,7 +13,8 @@ See this [https://bit.ly/vibrationThis](https://bit.ly/vibrationThis); see [this
 ### Have a conversation with Krishna
 
 Muralidhara Swamigal's 16 verses in Tamil on the Mahamantra are probably worth re-reading...
-Must say "Hare Krishna 11 times a day, will take maximum ~3 minutes. Probably one time every waking hour?"
+  - Must say "Hare Krishna 11 times a day, will take maximum ~3 minutes. Probably one time every waking hour?"
+  - Have a conversation with Krishna, talk to him about all the good things and bad things that happened to you in your life - do this for 15-20 days and you will see a transformation happen within you
 
 ### கலியையும் பலி கொள்ளும்
 
