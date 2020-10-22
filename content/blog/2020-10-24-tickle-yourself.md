@@ -4,7 +4,7 @@ by [Tor](https://en.wikipedia.org/wiki/Tor_N%C3%B8rretranders)
 
 ## You cannot tickle yourself
 
-Read the [pdf](https://drive.google.com/file/d/1QH7r6_XzAEqNUyqfA8jPvH7kR3dS0Ejl/view?usp=sharing)
+Read the [pdf](https://drive.google.com/file/d/1QH7r6_XzAEqNUyqfA8jPvH7kR3dS0Ejl/view?usp=sharing) or at the following link [https://web.archive.org/web/20130108002611/http://www.skidmore.edu/~flip/Site/Lab/Entries/2007/1/31_Forward!_files/BlakemoreWolpertFrith2000Tickle.pdf](https://web.archive.org/web/20130108002611/http://www.skidmore.edu/~flip/Site/Lab/Entries/2007/1/31_Forward!_files/BlakemoreWolpertFrith2000Tickle.pdf)
 
 or see the video 
 
