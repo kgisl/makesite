@@ -2,6 +2,7 @@
 
 _"When we take medicine for physical body the medicine works even without knowing the composition or ingredients used in it. Same way this maha mantra works even without knowing the meaning. Medicines are made in such a way that it works for the physical body this mantra is a composition that has been composed in such a way that it works for the energy body or the soul."_ 
 
+_"Have 3-4 [conversations with Him](https://soundcloud.com/ashok-bakthavathsalam/maha-manthram-sattanadha-bhagavathar-alangudi-radhakalyanam-2013-blueconvertcom?in=ashok-bakthavathsalam/sets/morning#t=3:51)  and see the transformation occur in your own mind..."_ 
 - Sing along for ~10min every day first thing in the morning [http://bit.ly/hareKrishna2](http://bit.ly/hareKrishna2) - or download the MP3 version at [http://j.mp/hareKrishna3](http://j.mp/hareKrishna3) 
 
 - ...and for the ultimate bliss http://j.mp/hareKrishna5  or on [soundcloud](https://soundcloud.com/mantralogy/vrikshavalli-hare-krishna-fe#t=4:30)
