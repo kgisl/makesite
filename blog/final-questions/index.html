@@ -30,7 +30,7 @@
 <p class="meta">Published on 2020-10-27 by <b>Ashok Be</b></p>
 <h2>Questions, questions</h2>
 <p>I was curious to build a wordcloud based on <a href="https://www.edge.org/responses/what-is-the-last-question">https://www.edge.org/responses/what-is-the-last-question</a> using the following JavaScript code:</p>
-<pre><code class="language-javascript">var err = [], res = &quot;&quot;; for (var x = 2; x &lt;= 285; x++) { 
+<pre><code class="language-javascript">var err = [], res = []; for (var x = 1; x &lt;= 285; x++) { 
   var select = document.querySelector(&quot;#block-system-main &gt; div:nth-child(&quot; + x + &quot;) &gt; div:nth-child(4) &gt; p &gt; strong&quot;);
   if (select === null) {
      select = document.querySelector(&quot;#block-system-main &gt; div:nth-child(&quot; + x + 
@@ -41,14 +41,15 @@
   }
   if (select === null) err.push(x); 
   else {
-    console.log(x, select);
-    var text = select.textContent.replace(/\?/g,'? ');
+    //console.log(x, select);
+    var text = select.textContent.replace(/\?/g,'?');
     //var text = select.textContent;
-    res += text;
+    res += x + &quot;. &quot; + text + &quot;\n  &quot;;
   } 
 }
 console.log(res);
 console.log(err.length, err); 
+
 </code></pre>
 <p>And the 280+ questions are available below:</p>
 <ol start="2">
