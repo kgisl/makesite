@@ -25,10 +25,10 @@ var err = [], res = ""; for (var x = 2; x <= 285; x++) {
 console.log(res);
 console.log(err.length, err); 
 ```
-And the 280+ questions are available in one big blob: 
+And the 280+ questions are available below: 
 
 2. Can we program a computer to find a 10,000-bit string that encodes more actionable wisdom than any human has ever expressed?
-  3. Are complex biological neural systems fundamentally unpredictable? 
+  3. Are complex biological neural systems fundamentally unpredictable? 
   4. Are the simplest bits of information in the brain stored at the level of the neuron?
   5. How can we put rational prices on human lives without becoming inhuman?
   6. How will we build the tools to maintain the software in long-lived online devices that can kill us?
@@ -56,7 +56,7 @@ And the 280+ questions are available in one big blob:
   28. Which questions should we not ask and not try to answer?
   29. Can wild animals that are large and dangerous be made averse to threatening humans?
   30. Can consciousness exist in an entity without a self-contained physical body?
-  31. Will scientific advances about the causes of sexual conflict help to end the "battle of the sexes"?
+  31. Will scientific advances about the causes of sexual conflict help to end the "battle of the sexes"?
   32. How do I describe the achievements, meanings, and power of Beethoven's piano sonata “Appassionata”?
   33. When will we accept that the most accurate clocks will have to advance regularly sometimes, irregularly most of the time, and at times run counterclockwise?
   34. How complex must be the initial design of the simplest machine that can learn from experience to achieve, at a minimum, the intelligence and abilities of a typical human being?
@@ -68,7 +68,7 @@ And the 280+ questions are available in one big blob:
   40. Is the unipolar future of a "singleton" the inevitable destiny of intelligent life?
   41. Will we pass our audition as planetary managers?
   42. What will we do as an encore once we manage to develop technological solutions to infection, aging, poverty, asteroids, and heat death of the universe?
-  43. Will we soon cease to care whether we are experiencing normal, augmented, or virtual reality?
+  43. Will we soon cease to care whether we are experiencing normal, augmented, or virtual reality?
   44. What would comprise the most precise and complete sonic representation of the history of life?
   45. How far are we from wishing to return to the technologies of the year 1900?
   46. If science does in fact confirm that we lack free will, what are the implications for our notions of blame, punishment, reward, and moral responsibility?
@@ -89,7 +89,7 @@ And the 280+ questions are available in one big blob:
   62. How will we know if we achieve universal happiness?
   63. Is it ultimately possible for life to bend the shape of the universe to fit life's purposes, as we are now bending the shape of our environment here on earth?
   64. Why are there no trees in the ocean?
-  65. Can we create new senses for humans—not just touch, taste, vision, hearing, smell, but totally novel qualia for which we don't yet have words?
+  65. Can we create new senses for humans—not just touch, taste, vision, hearing, smell, but totally novel qualia for which we don't yet have words?
   66. Will we ever be replaced by another earthly species capable of evolving to a similar degree of social and technical sophistication that effectively fills the biocultural niche we vacated?
   67. Is the cumulation of shared knowledge forever constrained by the limits of human language?
   68. Have we left the Age of Reason, never to return?
@@ -108,7 +108,7 @@ And the 280+ questions are available in one big blob:
   81. What behaviors are we attributing only to brain mechanisms that may be better explained by considering biomechanics?
   82. Is there a single theory of all physics (TOP), and what is it?
   83. Can human intuition ever be reduced to an algorithm?
-  84. How much time will pass between the last minute before artificial superintelligence and the first minute after it?
+  84. How much time will pass between the last minute before artificial superintelligence and the first minute after it?
   85. Can we acquire complete access to our unconscious minds?
   86. Is it possible to control a system capable of evolving?
   87. If we're not the agents of ourselves (and it's hard to see how we can be), how can we make sense of moral accountability (and how can we live coherently without it)?
@@ -148,13 +148,13 @@ And the 280+ questions are available in one big blob:
   123. What might the last fully biological human's statement be at their last supper?
   124. Are the laws of physics unique and inevitable?
   126. Is there any observational evidence that could shake your faith, or lack thereof?
-  127. Why don't naked mole rats age or get cancer?
+  127. Why don't naked mole rats age or get cancer?
   128. How can the process of science be improved?
   129. Are dreams brief glimpses of the narrative of a subconscious alternative reality?
   130. How can we build machines that make us smarter?
   131. Can we create technologies that help equitably reduce the amount of conflict in the world?
   132. How can we achieve closed-loop neural control of human hedonics?
-  133. What is the bumpiest and highest-dimensional cost surface that our best computers will be able to search and still find the deepest cost well?
+  133. What is the bumpiest and highest-dimensional cost surface that our best computers will be able to search and still find the deepest cost well?
   134. Can brain implants make us better human beings?
   135. Is our continued coexistence with the other big mammals essential to furthering our understanding of human cognition?
   136. What will happen to religion on earth when the first alien life form is found?​
@@ -167,7 +167,7 @@ And the 280+ questions are available in one big blob:
   143. What proportion of "ethnic" and "religious" tensions are rooted in our genes?
   144. Are humans capable of building a moral economy?
   145. Is gravity a fundamental law of nature, or does gravity—and thereby spacetime—emerge as a consequence of the underlying quantum nature of reality?
-  146. Where were the laws of physics written before the universe was born?
+  146. Where were the laws of physics written before the universe was born?
   147. How will advances in mental prosthetics that connect us with other human and machine minds change the way we think about expertise?
   148. What is the fundamental geometric structure underlying reality?
   149. Will it ever be possible to download the information stored in the human brain?
@@ -175,7 +175,7 @@ And the 280+ questions are available in one big blob:
   151. How will evolution shape the biological world one hundred years from now, or one hundred thousand?
   152. Can we train machines to design and construct a humane and vibrant built environment for us?
   153. How will people focus more on forming the right question, before rushing headlong towards the answer?
-  154. Why are humans still so much more flexible in their thinking and everyday reasoning than machines?
+  154. Why are humans still so much more flexible in their thinking and everyday reasoning than machines?
   155. How will the world be changed when battery storage technology improves at the same exponential rate seen in computer chips in recent decades?
   156. Is the number of interesting questions finite or not?
   157. When in the evolution of animal life did the capacity to experience love for another being first emerge?
@@ -209,7 +209,7 @@ And the 280+ questions are available in one big blob:
   186. Why is religion still around in the twenty-first century?
   187. Is the assertion "Nothingness is impossible" the most fundamental statement we can make about our existence?
   188. Can we engineer a human being?
-  189. What is the most important thing that can be done to restore the general public’s faith and trust in science?
+  189. What is the most important thing that can be done to restore the general public’s faith and trust in science?
   190. Will humans ever prove the Riemann Hypothesis in mathematics?
   191. How can we empower the better angels of our nature?
   192. Are we smart enough to know when we’ve reached the limits of our ability to understand the universe?
@@ -217,7 +217,7 @@ And the 280+ questions are available in one big blob:
   194. Will blockchain return us to the golden age of ownership of information licenses that can be resold like books and records?
   195. Will artistic invention enlighten the age of AI?
   196. What will it take for us to be fully confident that we have found life elsewhere in the cosmos?
-  197. Does the infinite multiverse of cosmologists, in which all that is physically possible occurs, contain realizations of our unruly paradoxes of infinity (Hilbert’s Hotel, Thomson Lamp, 1+2+3+4… = -1/12; etc.)?
+  197. Does the infinite multiverse of cosmologists, in which all that is physically possible occurs, contain realizations of our unruly paradoxes of infinity (Hilbert’s Hotel, Thomson Lamp, 1+2+3+4… = -1/12; etc.)?
   198. What quirk of evolution caused us to develop the ability to do pure mathematics?
   199. Can a single underlying process explain the emergence of structure at the physical, biological, cognitive, and machine levels?
   200. Will questioning be replaced by answering without questions?
@@ -226,7 +226,7 @@ And the 280+ questions are available in one big blob:
   204. Is the botscape going to force us to give up the use of the first-person singular nominative case personal pronoun, I?
   205. Does something unprecedented happen when we finally learn our own source code?
   206. How can we sculpt how individual brains develop to avert mental illness?
-  207. How can we rebel against our genes if we are biological creatures without free will?
+  207. How can we rebel against our genes if we are biological creatures without free will?
   208. Can humans set a non-evolutionary course that is game-theoretically stable?
   209. Will the frontiers of consciousness be technological or linguistic?
   210. Why did we acquire our extraordinary human capacity for social learning?
@@ -235,7 +235,7 @@ And the 280+ questions are available in one big blob:
   213. What would the ability to synthesize creativity do to cultural evolution?
   214. How do our microbes contribute to that particular combination of continuity and change that makes us human?
   215. How do ideas about biological evolution change once one species has control over the origin and extinction of all other species?
-  216. Will we ever find an organization form that brings out the best in people?
+  216. Will we ever find an organization form that brings out the best in people?
   217. How can we reap the benefits of the wide and open exchange of data without undermining the values that depend upon the scarcity of information?
   218. Why are the errors that our best machine-learning algorithms make so different from the errors we humans make?
   219. Why is sleep so necessary?
@@ -243,7 +243,7 @@ And the 280+ questions are available in one big blob:
   221. Will our AI future forms need the natural world?
   222. How will humanity change in light of the increasing use of non-sexual methods of reproduction?
   223. What is the cosmic perspective to the future of life?
-  224. Why is Homo sapiens the sole non-extinct species of hominin?
+  224. Why is Homo sapiens the sole non-extinct species of hominin?
   225. Will the behavior of a superintelligent AI be mostly determined by the results of its reasoning about the other superintelligent AIs?
   226. Can behavioral science crack the ultimate challenge of getting people to durably adopt much healthier lifestyles?
   227. What does justice feel like?
@@ -278,7 +278,7 @@ And the 280+ questions are available in one big blob:
   257. How diverse is life in the universe?
   258. Is the universe relatively simple and comprehensible by the human brain, or is it so complex, higher dimensional and multiversal that it remains forever elusive to humans?
   259. Why are reason, science, and evidence so impotent against superstition, religion, and dogma?
-  260. Will weaving networks that blend humans and machines yield network effects?
+  260. Will weaving networks that blend humans and machines yield network effects?
   261. Can we ever wean humans off their addiction to religion?
   262. What will time with artifacts that simulate the emotional experience of being with another person do to our human capacity to handle the surely rougher, more frictional, and demanding human intimacies on offer?
   263. How do the limits of the mind limit our understanding?
