@@ -1,6 +1,6 @@
 <!-- title: Jahnvi Harrison -->
 
-## A better man, A better Soul
+## A better Man, A better Soul
 
 One of my favourite moments from the movie, "As Good as it Gets". Take a look below:
 
