@@ -2,7 +2,7 @@
 
 ## A better Man, A better Soul
 
-One of my favourite moments from the movie, "As Good as it Gets". Take a look below:
+One of my favourite moments from the movie, "As Good as it Gets" is captured in the clip below: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A75AgrH5eqc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
