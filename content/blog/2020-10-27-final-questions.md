@@ -5,7 +5,7 @@
 I was curious to build a wordcloud based on [https://www.edge.org/responses/what-is-the-last-question](https://www.edge.org/responses/what-is-the-last-question) using the following JavaScript code: 
 
 ```javascript
-var err = [], res = ""; for (var x = 2; x <= 285; x++) { 
+var err = [], res = []; for (var x = 1; x <= 285; x++) { 
   var select = document.querySelector("#block-system-main > div:nth-child(" + x + ") > div:nth-child(4) > p > strong");
   if (select === null) {
      select = document.querySelector("#block-system-main > div:nth-child(" + x + 
@@ -16,14 +16,15 @@ var err = [], res = ""; for (var x = 2; x <= 285; x++) {
   }
   if (select === null) err.push(x); 
   else {
-    console.log(x, select);
-    var text = select.textContent.replace(/\?/g,'? ');
+    //console.log(x, select);
+    var text = select.textContent.replace(/\?/g,'?');
     //var text = select.textContent;
-    res += text;
+    res += x + ". " + text + "\n  ";
   } 
 }
 console.log(res);
 console.log(err.length, err); 
+
 ```
 And the 280+ questions are available below: 
 
