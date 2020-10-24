@@ -19,7 +19,7 @@ Melvin Udall:  You make me want to be a better man.
 
 ### A Better Soul
 
-Just listening to the devotion in Jahnvi Harrison's voice in [http://j.mp/hareKirshna6](http://j.mp/hareKrishna6) will make you want to be a better soul.  And listen often enough, it may transform you into that rarest of souls as inspired by [Chapter 7, Verse 3, Gita](https://www.holy-bhagavad-gita.org/chapter/7/verse/3)
+Just listening to the devotion in Jahnvi Harrison's voice in [http://j.mp/hareKirshna6](http://j.mp/hareKrishna6) will make you want to be a better soul.  And listen often enough, it shall eventually make you aspire to be that rarest of souls as inspired by [Chapter 7, Verse 3, Gita](https://www.holy-bhagavad-gita.org/chapter/7/verse/3)
 
 > _Amongst thousands of persons, hardly one strives for perfection; and amongst those who have achieved perfection, hardly one knows me in truth._
 
