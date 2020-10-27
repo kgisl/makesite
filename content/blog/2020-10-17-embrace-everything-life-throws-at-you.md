@@ -1,4 +1,4 @@
-<!-- title: Life Embrace  -->
+<!-- title: Is there a choice but to embrace?   -->
 
 ## The Life Embrace 
 
