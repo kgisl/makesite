@@ -11,6 +11,6 @@ Three actionable approaches to "walk the talk" of the stated UVP, and therefore 
 	- There are hackathons and then there are KGISL hackathons. We ensure that _every student_  is provided "porridge at the right temperature" so the experience is memorable and more importantly, leaves her craving for more!  
 
 - Even before you start college, join the automation revolution using UiPath-KGISL RPA platform - a unique immersive workshop which delivers a learning experience like no other 
-	- helps validate to both student and institution about the presence of the problem solving aptitude in a low-code environment
+	- helps validate to both student and institution about the presence of the problem solving aptitude (critical to an aspiring engineer) in a low-code environment
 
 
