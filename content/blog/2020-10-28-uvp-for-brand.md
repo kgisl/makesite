@@ -2,7 +2,7 @@
 
 ## UVP for Edu branding
 
-Three approaches to enhance our UVP, and therefore our brand 
+Three actionable approaches to "walk the talk" of the stated UVP, and therefore enhance the brand:
 
 - Zoho-Dyson like Finishing school adapted to our KGISL context as a playbook for talent building and acquisition in a non-formal setting, which will have spill-over effects to students in the formal stream as well
 
