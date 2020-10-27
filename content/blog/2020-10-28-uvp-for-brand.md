@@ -5,7 +5,7 @@
 Three actionable approaches to "walk the talk" of the stated UVP, and therefore enhance the brand:
 
 - Zoho-Dyson like Finishing school adapted to our KGISL context as a playbook for talent building and acquisition in a non-formal setting, which will have spill-over effects to students in the formal stream as well
-   - primary value is via contagion, opportunity to shadow professionals in the workplace setting; theory and concepts delivered via a combination of faculty / mentors / peers (from formal stream)
+   - primary value is via contagion, opportunity to shadow professionals in the workplace setting; theory and concepts delivered via a combination of faculty / mentors / peers (from the formal stream and the KGISL campus community)
 
 - Evidence of excellence in adapting hackathons-as-the-next higherEdu education model that  again works best in our context of evolution
 	- There are hackathons and then there are KGISL hackathons. We ensure that _every student_  is provided "porridge at the right temperature" so the experience is memorable and more importantly, leaves her craving for more!  
