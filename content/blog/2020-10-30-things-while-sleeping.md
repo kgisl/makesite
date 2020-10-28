@@ -1,4 +1,4 @@
-<!-- title: Draft Blog -->
+<!-- title: Sleep Magic  -->
 
 # 26 Things Your Body Does While Sleeping 
 
