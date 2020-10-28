@@ -1,6 +1,6 @@
 <!-- title: Sleep Magic  -->
 
-# 25 Things Your Body Does While Sleeping 
+# 25 + 7 Things Your Body Does While Sleeping 
 
 
 Sleeping without a doubt is a necessary activity for us all. It’s part of our own survival and for many it’s their favourite thing to do. We’ve done plenty of research on sleep and have uncovered all kinds of benefits that sleep can do for us.
