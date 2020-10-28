@@ -1,4 +1,4 @@
-<!-- title: Sleep Magic  -->
+<!-- title: 25 things during Sleep   -->
 
 # 25 + 7 Things Your Body Does While Sleeping 
 
