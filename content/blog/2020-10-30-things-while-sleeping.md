@@ -126,3 +126,51 @@ The last thing that our body does while we’re sleeping is raise our pain toler
 Because of those things, our body can’t send the appropriate pain signals to our brain. On top of that, our other senses are turned off too. We can’t hear, smell, see or feel while sleeping.
 
 
+
+# Additional 7 amazing things that happen to your body while you sleep
+
+
+Sleeping is important for our physical and mental health.
+
+There’s a lot we don’t know about sleep. Questions like why we have sleep cycles, why we dream and why humans even need sleep in the first place are ones scientists are still finding exact answers to.
+
+But one thing’s for certain: when we sleep, and sleep well, we feel better physically and mentally, and perform better during the day. Read on to find out some of the things we do know about sleep and why it’s so important for our bodies and minds.
+
+
+## 1. Your brain sorts and processes the day’s information
+
+Don’t be fooled into thinking that when you’re asleep your brain has shut off too. Your brain is actually quite busy while you sleep, sorting and storing information from the day. This process is particularly important for  [creating long term memories](https://www.psychologytoday.com/blog/memory-medic/201103/how-sleep-helps-memory)1, as your brain consolidates all the information it’s picked up during the day and files it away for later use.
+
+## 2. Hormones flood your body
+
+There are  [a number of different hormones](https://theconversation.com/chemical-messengers-how-hormones-help-us-sleep-44983)2  released during sleep, all with different purposes. Melatonin, released by the  [pineal gland](https://www.healthdirect.gov.au/pineal-gland)3, controls your sleep patterns. Levels increase at night time, making you feel sleepy. While you’re sleeping, your  [pituitary gland](https://www.healthdirect.gov.au/pituitary-gland)4  releases growth hormone, which helps your body to grow and repair itself.
+
+## 3. Your sympathetic nervous system chills out
+
+During sleep, your sympathetic nervous system – which controls your fight or flight response – gets a chance to relax.  [Studies have shown](https://www.ncbi.nlm.nih.gov/pubmed/16585410)5  that when we’re deprived of sleep, sympathetic nervous system activity increases, which is also mirrored by an increase in blood pressure. Scientists studying coronary disease are investigating whether there’s a  [relationship between decreased sleep duration and increased risk of heart disease](https://theconversation.com/health-check-three-reasons-why-sleep-is-important-for-your-health-41176)6.
+
+## 4. Cortisol levels lower
+
+Levels of cortisol, often called the stress hormone, decreases during the first few hours of sleep before rising to peak soon after you wake up. This helps makes you feel perky when you wake up and switches on your appetite.
+
+Sleep is important for everyone at every age.
+
+## 5. Your muscles paralyse
+
+While asleep, you cycle through periods of non-rapid eye movement sleep (NREM) and rapid eye movement sleep (REM). It’s during REM sleep that we have the most vivid dreams.
+
+During this stage, your muscles are temporarily paralysed, meaning you can’t move. Some scientists think this might be so that you don’t physically act out your dreams.
+
+## 6. Anti-Diuretic Hormone (ADH) helps you not have to pee
+
+Ever wondered why you have to go to the toilet to pee every couple of hours during the day, but can sleep a whole eight without heading to the loo? Thank ADH, an anti-diuretic hormone  [released by the brain](https://www.healthdirect.gov.au/adrenal-glands)7  under a circadian rhythm which switches off the need to urinate so often overnight.
+
+## 7. Your immune system releases inflammation fighting cytokines
+
+While you’re sleeping, your immune system releases a type of small proteins called cytokines. If you’re sick or injured, these cytokines help your body fight inflammation, infection and trauma. Without enough sleep, your immune system might not be able to function at its best.
+
+Is your family getting enough good quality sleep?
+
+Your body does a lot of important work while you’re asleep. Good sleep is vital for your physical and mental health, so if you’re having trouble falling asleep, staying asleep, not feeling rested when you wake up or feeling tired during the day, talk to your doctor about what you can do to  [improve your sleep](https://www.sleephealthfoundation.org.au/tips-for-a-good-night-s-sleep.html)8  or whether there’s an underlying health issue or sleep disorder causing your lack of Zs.
+
+
