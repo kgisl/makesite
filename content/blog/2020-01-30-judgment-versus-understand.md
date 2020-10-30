@@ -1,6 +1,6 @@
 <!-- title: Stop Judging -->
 
-## Judge less, Understand more
+## Judge Less, Understand More
 
 Can u judge who is the better person out of these 3?..🤔
 
