@@ -1,4 +1,4 @@
-<!-- title: Stop Judging -->
+<!-- title: Judgement exhaustion  -->
 
 ## Judge Less, Understand More
 
