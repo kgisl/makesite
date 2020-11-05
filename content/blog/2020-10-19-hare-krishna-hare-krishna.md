@@ -7,6 +7,10 @@ _"Just have  [3-4 conversations with Him](https://soundcloud.com/ashok-bakthavat
 
 - ...and for the ultimate bliss http://j.mp/hareKrishna5  or on [soundcloud](https://soundcloud.com/mantralogy/vrikshavalli-hare-krishna-fe#t=4:30)
 
+> _Wrukswali Amha Soyari Wanchare_
+_Pakshi Susware Aalwiti_ 
+  
+View more at http://www.friendlysms.com/marathi-lyrics/tukaramache-lokpriya-abhang/vrukshavalli-aamha-soyari-531957.html
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/202972097&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/mantralogy" title="Mantralogy" target="_blank" style="color: #cccccc; text-decoration: none;">Mantralogy</a> · <a href="https://soundcloud.com/mantralogy/vrikshavalli-hare-krishna-fe#t=4:30" title="Jahnavi Harrison - Vrikshavalli Hare Krishna feat. Gaura Vani" target="_blank" style="color: #cccccc; text-decoration: none;">Jahnavi Harrison - Vrikshavalli Hare Krishna feat. Gaura Vani</a></div>
 
 _"When Jahnavi sings and plays one feels that one is eavesdropping on the music of the Gods. One only has to have ears to hear her and know immediately that we are  in the presence of grace"_  - Krishna Das
