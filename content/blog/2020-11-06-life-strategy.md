@@ -22,6 +22,7 @@
 	- how to think act and execute like a monopolist? 
 	- Don't ask "How can I be happier?" 
 	     - determine what will make you happy, and find out "how can I learn to do it today? Quickly?"
+	     - How Mathew McConaughey defines happiness [https://bit.ly/mathewHappy](https://www.youtube.com/watch?v=BmCTQ_mkzHU&t=446s)
 
 
 2. Make some decisions - break away from the past activities 
