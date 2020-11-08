@@ -3,7 +3,7 @@
 ## Mathew Oscar all the way
 
 He should get another Oscar just for that speech 
-http://j.mp/alrightThis
+http://j.mp/alrightThis 
 
 ![god](https://files.gitter.im/581c97cbd73408ce4f339dc2/GUkB/godFriend.png)
 
@@ -69,4 +69,10 @@ we're chasing to that I say amen to that
 I say "all right all right all right"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wD2cVhC-63I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## Analysis of his speech
+
+https://bit.ly/tenYearsFromNow or use [this]( https://drive.google.com/file/d/1-LV0WVWReSFrQvQXJtVGeoVye_DG6dxS/view?usp=sharing) to download a text version of the same. 
+
 
