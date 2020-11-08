@@ -3,7 +3,7 @@
 ## Mathew Oscar all the way
 
 He should get another Oscar just for that speech 
-http://j.mp/alrightThis 
+[http://j.mp/alrightThis](http://j.mp/alrightThis). 
 
 ![god](https://files.gitter.im/581c97cbd73408ce4f339dc2/GUkB/godFriend.png)
 
