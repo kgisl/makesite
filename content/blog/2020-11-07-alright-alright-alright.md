@@ -5,22 +5,21 @@
 He should get another Oscar just for that speech 
 http://j.mp/alrightThis
 
+![god](https://files.gitter.im/581c97cbd73408ce4f339dc2/GUkB/godFriend.png)
 
-here's a few things about three things
+Here's a few things about three things
 to my account that I need each day 
-one something to look up to 
-another is something to look forward to and 
-another is someone to chase 
+One something to look up to 
+Another is something to look forward to and 
+Another is someone to chase 
 
-now first off I want to thank God because that's who I look
+Now first off I want to thank God because that's who I look
 up to he's graced my life with opportunities
-that I know are not of my hand or any
-other human hand he has shown me that
-
-it's a scientific fact that gratitude
-reciprocates in the words of a late
-Charlie Lawton who said when you got God
-you got a friend and that friend is you
+that I know are not of my hand or any other human hand 
+he has shown me that it's a scientific fact 
+that gratitude reciprocates 
+in the words of a late Charlie Lawton who said 
+when you got God you got a friend and that friend is you
 
 to my family that's who and what I look
 forward to to my father who I know he's
