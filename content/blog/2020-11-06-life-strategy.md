@@ -42,6 +42,6 @@
 
 ![hobo](https://files.gitter.im/581c97cbd73408ce4f339dc2/X5sl/hoboShot.jpeg) 
 
-> I basically have the material needs of a hobo. Except that I need my organic single estate french press grind coffee to be brewed at approximately 84 degrees C for 4:40 min, no more, no less.
+> I basically will aspire to have the material needs of a hobo. Except that I need my organic single estate french press grind coffee to be brewed at approximately 84 degrees C for 4:40 min, no more, no less.
 
 
