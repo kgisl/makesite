@@ -13,6 +13,9 @@ What is one repeating problem you can automate or eliminate today?
 
 ## F&*#ing disrupt yourself 
 
+## What is your morning routine?
+
+
 ## What projects can I create in 5 lines of code? 
 
 
