@@ -11,6 +11,10 @@ How to think, act and win like a monopolist?
 
 What is one repeating problem you can automate or eliminate today?
 
+## Who not How
+Find out "Who" can help you accomplish what you need to get done. Don't figure out "How" all the time...
+
+
 ## F&*#ing disrupt yourself 
 
 ## What is your morning routine?
