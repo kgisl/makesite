@@ -28,3 +28,5 @@ Find out "Who" can help you accomplish what you need to get done. Don't figure o
 
 Borrow and publish - what would be relevant to students of Artificial Intelligence? 
 
+
+![artQuest](![](https://files.gitter.im/581c97cbd73408ce4f339dc2/Iitr/Screenshot-2020-11-15-at-08.52.03.png))
