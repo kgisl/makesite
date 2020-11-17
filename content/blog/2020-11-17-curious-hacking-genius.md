@@ -15,10 +15,16 @@ In essence, approach your
 Learning as Adventure and not as Hard Labour
 
 Start with Questions (curiosity driven)
--> Ideas (have good and bad ones, and plenty of them)
--> Hack one or more of them 
--> Skills will ensue, and so will Knowledge
--> Habit creation of questions->ideas->hack->learn->repeat
+
+ - -> Ideas (have good and bad ones, and plenty of them)
+   -> Hack one or more of them 
+   -> Skills will ensue, and so will Knowledge
+   -> Habit creation of questions->ideas->hack->learn->repeat
+	 - The power of compounding - become 1% better every day
+
+Develop the habit of private HACKING (problems+ideas+hack+skills+learn) and publicly participating in hackathons
+
+
 
 ## Mission and Vision
 
