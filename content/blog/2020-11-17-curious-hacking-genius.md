@@ -21,6 +21,9 @@ Start with Questions (curiosity driven)
    -> Skills will ensue, and so will Knowledge
    -> Habit creation of questions->ideas->hack->learn->repeat
 	 - The power of compounding - become 1% better every day
+	 - http://j.mp/improvementDaily 
+
+
 
 Develop the habit of private HACKING (problems+ideas+hack+skills+learn) and publicly participating in hackathons
 
