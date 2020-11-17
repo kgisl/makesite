@@ -14,9 +14,9 @@ Maximize your magic in ~10,000 hrs (MyM)
 In essence, approach your   
 Learning as Adventure and not as Hard Labour
 
-Start with Questions (curiosity driven)
-
- - -> Ideas (have good and bad ones, and plenty of them)
+Start with Questions (curiosity driven about problems preferably)
+ - -> Problems  (design thinking et al) 
+    -> Ideas (have good and bad ones, and plenty of them)
    -> Hack one or more of them 
    -> Skills will ensue, and so will Knowledge
    -> Habit creation of questions->ideas->hack->learn->repeat
