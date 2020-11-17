@@ -24,7 +24,6 @@ Start with Questions (curiosity driven)
 	 - [http://j.mp/improvementDaily](http://j.mp/improvementDaily) 
 
 
-
 Develop the habit of private HACKING (problems+ideas+hack+skills+learn) and publicly participating in hackathons
 
 
