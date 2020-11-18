@@ -5,7 +5,7 @@
 ```
 Follow your Curiosity (FyC)
       to 
-CoKreate/Hack your Genius (HyG)
+CoKreate/Hack your Genius (hKyG)
       to 
 Maximize your magic in ~10,000 hrs (MyM)
 
@@ -36,5 +36,26 @@ In short, "Develop the habit of private HACKING (problems+ideas+hack+skills+lear
     - **Skill + No fear + No reward + Unrealistic but strict timeframe = Genius**
 
 - The Million dollar question? Who will do all the above? Who will help us do it faster and quicker than the competition? 
+
+
+## Two sections
+ - KGISL-focused 
+	1. make a commitment, follow the instructions to the letter
+	2. stipend from semester 1 
+	3. can ask for exit until end of semester 4 
+		4. no monetary penalties
+		6. If exit is asked in semester 5 (beginning of 3rd year), they will have to refund any and all stipends paid
+			6. prize money, if any, can be retained by themselves
+
+- Others
+	1. vast _exposure_ to other companies, internships, etc 
+	4. no stipend during their study is offered by KGiSL
+	5. can opt to come to move to "KGISL-focused" section no later than semester 5 (beginning of 3rd year)
+
+**KGISL-focused** students will be provided first-offer for any fresher positions at KGISL. If they accept to take the offer they will offered a higher salary than provided to normal fresher students from other colleges. If they are accepted and paid a higher salary, they will have to commit to a maximum of 24 months service at KGISL. 
+
+
+
+ 
 
 
