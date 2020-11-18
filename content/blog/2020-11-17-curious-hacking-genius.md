@@ -1,6 +1,6 @@
 <!-- title: Successful learner  -->
 
-## What gives
+## What gives?
 
 ```
 Follow your Curiosity (FyC)
@@ -16,16 +16,14 @@ Learning as Adventure and not as Hard Labour
 
 Start with Questions (curiosity driven about problems preferably)
  - -> Problems  (design thinking et al) 
-    -> Ideas (have good and bad ones, and plenty of them)
-   -> Hack one or more of them 
-   -> Skills will ensue, and so will Knowledge
-   -> Habit creation of questions->ideas->hack->learn->repeat
+ -  -> Ideas (have good and bad ones, and plenty of them)
+ -  -> Hack one or more of them 
+ -  -> Skills will ensue, and so will Knowledge
+ -  -> Habit creation of questions->ideas->hack->learn->repeat
 	 - The power of compounding - become 1% better every day
 	 - [http://j.mp/improvementDaily](http://j.mp/improvementDaily) along with Scott Young's brilliant blog on self-improvement [http://bit.ly/selfThis](http://bit.ly/selfThis) 
 
-
-Develop the habit of private HACKING (problems+ideas+hack+skills+learn) and publicly participating in hackathons
-
+In short, "Develop the habit of private HACKING (problems+ideas+hack+skills+learn) and publicly participating in hackathons (constraints on time frame to produce a hack for a problem"
 
 
 ## Mission and Vision
