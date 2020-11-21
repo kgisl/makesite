@@ -56,7 +56,36 @@ In short, "Develop the habit of private HACKING (problems+ideas+hack+skills+lear
 **KGISL-focused** students will be provided first-offer for any fresher positions at KGISL. If they accept to take the offer they will offered a higher salary than provided to normal fresher students from other colleges. If they are accepted and paid a higher salary, they will have to commit to a maximum of 24 months service at KGISL. 
 
 
+### Tactics to produce more Learning 
 
+### FlashCards on Steroids 
+
+- Test yourself as often as possible 
+- - Create your own flash cards at memcode.com 
+
+ ### Hackathons
+ - Education as exciting adventure (_rather than hard labour_) learning experience facilitated by progressively challenging series of themed hackathons which is curated by industry experts. 
+  - hacKyGenius (*KyG*)
+    - coKreate knowledge as   
+    - a skilled team pursues hacks to   
+    - implement ideas that   
+    - attack wicked problems   
+    - in a constrained time frame (>16 hrs, < 1 month) 
+
+### Hack, Genius!
+_When curious is available for inspiration
+When Inspiration touches talent
+When Talent meets opportunity
+When Opportunity presents a hackathon
+A Hack delivers a diamond in the rough
+A Genius is to be had
+A desperate world needs His contribution
+So come hack your genius at KiTE, right now!_ 
+
+ Hack, Genius! Or in three words, hack your genius. It all starts with an idea. A hack is a diamond in the rough collaborative implementation of that idea within a short time frame. A hack is very personal and therefore very precious. It is the starting point to bring forth that genius of a contribution that the world desperately needs, right now!
+
+
+ 
 
 
 
