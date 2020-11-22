@@ -78,8 +78,8 @@ Inspiration engages and prepares talent
 When Talent meets opportunity
 Opportunity presents a hackathon
 When a Hack delivers a diamond-in-the-rough 
-A Genius is to be had
-A world desperate for a unique contribution 
+A privileged Genius is to be had
+A desperate world awaits your unique contribution 
 So come hack your genius at KiTE, right now!_   
 
  Hack, Genius! Or in three words, hack your genius. It all starts with an idea. A hack is a diamond in the rough collaborative implementation of that idea within a short time frame. A hack is very personal and therefore very precious. It is the starting point to bring forth that genius of a contribution that the world desperately needs, right now!
@@ -87,6 +87,8 @@ So come hack your genius at KiTE, right now!_
 ### Linux as hobby, hack and ultimate open source
 
 [https://en.wikipedia.org/wiki/History_of_Linux#%22Linux_is_obsolete%22](https://en.wikipedia.org/wiki/History_of_Linux#%22Linux_is_obsolete%22) needs to be read, and analysed and discussed. 
+
+https://bit.ly/greatestOS - the greatest OS that (n)ever was - was a hack! a hobby! 
 
 
  
