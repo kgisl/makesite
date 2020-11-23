@@ -86,7 +86,7 @@ Hack, Genius! Or in three words, hack your genius. It all starts with an idea. A
 
 ### Linux as hobby, hack and ultimate open source
 
-[https://en.wikipedia.org/wiki/History_of_Linux#%22Linux_is_obsolete%22](https://en.wikipedia.org/wiki/History_of_Linux#%22Linux_is_obsolete%22) needs to be read, and analysed and discussed. 
+[Linux is obsolete!](https://en.wikipedia.org/wiki/History_of_Linux#%22Linux_is_obsolete%22) needs to be read, and analysed and discussed. 
 
 https://bit.ly/greatestOS - the greatest OS that (n)ever was - was a hack! a hobby! 
 
