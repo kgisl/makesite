@@ -73,16 +73,16 @@ In short, "Develop the habit of private HACKING (problems+ideas+hack+skills+lear
     - in a constrained time frame (>16 hrs, < 1 month) 
 
 ### Hack, Genius!
-_When Curious is available for inspiration  
-Inspiration engages and prepares talent   
+_When Curious is ready for inspiration  
+Imagination engages and prepares talent   
 When Talent meets opportunity  
-Opportunity presents a hackathon  
+Community facilitates a hackathon  
 When a Hack delivers a diamond-in-the-rough   
 A privileged Genius is to be had  
 A desperate world awaits your unique contribution   
 So come hack your genius at KiTE, right now!_     
 
- Hack, Genius! Or in three words, hack your genius. It all starts with an idea. A hack is a diamond in the rough collaborative implementation of that idea within a short time frame. A hack is very personal and therefore very precious. It is the starting point to bring forth that genius of a contribution that the world desperately needs, right now!
+Hack, Genius! Or in three words, hack your genius. It all starts with an idea. A hack is a diamond in the rough collaborative implementation of that idea within a short time frame. A hack is very personal and therefore very precious. It is the starting point to bring forth that genius of a contribution that the world desperately needs, right now!
 
 ### Linux as hobby, hack and ultimate open source
 
