@@ -12,7 +12,12 @@ How to think, act and win like a monopolist?
 What is one repeating problem you can automate or eliminate today?
 
 ## Who not How
-Find out "Who" can help you accomplish what you need to get done. Don't figure out "How" all the time...
+Find out "Who" can help you accomplish what you need to get done. Don't figure out "How" all the time..."Who can help me do this?"
+
+- stop being transactional, and start thinking transformational 
+- Idayam oils Muthu - his quote about "Customer as God" - used it to present the story on "Workship" - for my core team members 
+
+
 
 
 ## F&*#ing disrupt yourself 
