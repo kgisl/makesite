@@ -18,7 +18,7 @@
 		- detach from failures 
 
 3. Kato Upanishads - the secret of death - fearless and challenge the elders 
-	- 
+	
 4. Prashna Upanishad - modern lesson for Educators - a two way process in a mutual respect
 
 5. #FOMO - two birds - Moondaka Upanishad - transient goals, turn inwards - joyful truth of completeness
