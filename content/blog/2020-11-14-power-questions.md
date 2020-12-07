@@ -90,4 +90,10 @@ Life 3.0 Book premise is based on a question:
 
 [https://bit.ly/questionsQ](https://bit.ly/questionsQ}
 
+![questions](https://i.imgur.com/JS32WM3.jpg)
 
+
+
+## “How can you achieve your 10 year plan in the next 6 months?” — Peter Thiel
+
+Read more about at [https://bit.ly/sixMonths10Years](https://bit.ly/sixMonths10Years) 
