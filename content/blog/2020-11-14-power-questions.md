@@ -81,6 +81,13 @@ https://www.quora.com/What-is-the-most-thought-provoking-question-that-youve-eve
 
 Life 3.0 Book premise is based on a question:
 
-> What happens when humans are no longer the smartest species on the planet? 
+> What happens when humans are no longer the smartest species on the planet? #life3
 
 ![life3.0](https://i.imgur.com/ZU8pkze.jpg)
+
+
+# Questions transform 
+
+[https://bit.ly/questionsQ](https://bit.ly/questionsQ}
+
+
