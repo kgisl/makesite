@@ -59,4 +59,28 @@ You get a degree if you answer everybody else's questions correctly. You get a l
 
 
 
+### Mental health questions
 
+https://bit.ly/mentalQuestions
+
+### Dalio on Meditation
+
+[meditation by Dalio](https://youtu.be/UzehRUSUd30?t=3414)
+
+  - Equanimity (to anticipate what comes at you) 
+  - Creativity (connection to the subconscious)
+
+#### Other Questions
+
+https://bucketlistjourney.net/365-thought-provoking-questions-answered/
+
+https://www.quora.com/What-is-the-most-thought-provoking-question-that-youve-ever-been-asked
+
+### 
+
+
+Life 3.0 Book premise is based on a question:
+
+> What happens when humans are no longer the smartest species on the planet? 
+
+![life3.0](https://i.imgur.com/ZU8pkze.jpg)
