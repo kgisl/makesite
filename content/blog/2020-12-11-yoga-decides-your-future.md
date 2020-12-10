@@ -1,6 +1,6 @@
 <!-- title: Your Future and Yoga -->
 
-## Yogic Future
+## Free will or fate? What will your future be?
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Your brain activity, your body chemistry, even your genetic makeup can be changed by practicing yoga.<a href="https://twitter.com/hashtag/SadhguruQuotes?src=hash&amp;ref_src=twsrc%5Etfw">#SadhguruQuotes</a> <a href="https://t.co/EfnHP4HrOD">pic.twitter.com/EfnHP4HrOD</a></p>&mdash; Sadhguru (@SadhguruJV) <a href="https://twitter.com/SadhguruJV/status/920843219809783808?ref_src=twsrc%5Etfw">October 19, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
