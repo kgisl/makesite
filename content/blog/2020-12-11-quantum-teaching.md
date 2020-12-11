@@ -22,4 +22,10 @@ Four principles of technical communication:
 
 Most importantly, convey "It is not about whether you are good or bad at it, it is all about being interested in it!"
 
+### Three Sciences
+
+- Science of Fasting
+- Science of Focus
+- Science of Fate 
+
 
