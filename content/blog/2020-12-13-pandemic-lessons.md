@@ -1,8 +1,8 @@
 <!-- title: Pandemic Lessons  -->
 
-## The Humbling Pandemic and what has it taught you? 
+## The Humbling Pandemic: What has it taught you? 
 
-What started off as a playful expression of solidarity with those who went hungry during the pandemic, my hacking with food and fasting (#zeroFoodIsGenius) has been quite empowering and enlightening. 
+What started off as a playful expression of solidarity with those who went hungry during the pandemic, my hacking with food and fasting (by the way, #zeroFoodIsGenius) has been quite empowering and enlightening. 
 
 As Amura's Saravanan said it very aptly, "The less food, the better" is gold. I will like to add to it, as "The less the sugar, the better!". 
 
