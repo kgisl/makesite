@@ -1,6 +1,6 @@
 <!-- title: Pandemic Lessons  -->
 
-#### The Humbling Pandemic: What has it taught you? 
+### The Humbling Pandemic: What has it taught you? 
 
 What started off as a frivolous expression of solidarity with those who went hungry during the pandemic, my hacking with fasting (by the way, #zeroFoodIsGenius) and approach to food has turned out to quite empowering and enlightening. 
 
@@ -41,5 +41,10 @@ The Science of Fasting, Focus and Fate are my three biggest takeaways from the P
 "There is no coincidence. Only the illusion of coincidence."
 
 Thank you for your attention.
+
+![coincidence](https://i.pinimg.com/originals/28/37/fc/2837fce8d6934262d6be91f852d8ae35.jpg)
+
+> **Synchronicity** (German: Synchronizität) is a concept, first introduced by analytical psychologist Carl Jung, which holds that events **are** "meaningful coincidences" if **they** occur with no causal relationship yet seem to be meaningfully related.
+
 
 
