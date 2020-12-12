@@ -2,17 +2,17 @@
 
 #### The Humbling Pandemic: What has it taught you? 
 
-What started off as a playful expression of solidarity with those who went hungry during the pandemic, my hacking with food and fasting (by the way, #zeroFoodIsGenius) has been quite empowering and enlightening. 
+What started off as a frivolous expression of solidarity with those who went hungry during the pandemic, my hacking with fasting (by the way, #zeroFoodIsGenius) and approach to food has turned out to quite empowering and enlightening. 
 
-As Amura's Saravanan said it very aptly, "The less food, the better" is gold. I will like to add to it, as "The less the sugar, the better!". 
+As Amura's Saravanan said it very aptly, "The less food, the better" is gold. My addendum would be: "The less sugar, the better!" 
 
 #### The Science of Fasting 
 
-And some Japanese scholar has recently won a Nobel prize for his work on Autophagy (another fancy name for fasting, I presume), something else also emerged inside me. How many more such endorsements of past Indian traditional practice will have to be exposed to us for us Indians to start appreciating our precious tradition? 
+What has science got to do with an Indian tradition, you ask. Well, some Japanese scholar has recently won a Nobel prize for his work on Autophagy (another fancy name for fasting). Also,  made me wonder: How many more such endorsements of past Indian traditional practice will it take for us Indians to appreciate the wisdom behind so many of our age old traditions? 
 
 #### The Science of Focus 
 
-I have purchased and partially consumed Calport's three books including Digital Minimalism, and how our ability to stay focused on what we need to get done will depend upon adopting some digital fasting as well. A "Life of Focus" is also a program I enrolled in, and yet to digest all the material, let alone put it into practice. 
+I have purchased and partially consumed Calport's three books including ```Digital Minimalism```. It is primarily about our inability to stay focused thanks to the addictive algorithms deviously designed by the F-MAGA companies that are eating the world. The ability to deeply focus requires you to start with a 30-day digital fast as well. A "Life of Focus" is also a program I enrolled in, and yet to digest all the material, let alone put it into practice. 
 
 #### The Science of Fate
 
