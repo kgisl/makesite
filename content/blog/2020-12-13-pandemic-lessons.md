@@ -38,7 +38,7 @@ The Science of Fasting, Focus and Fate are my three biggest takeaways from the P
 
 > "பசித்திரு, தனித்திரு, விழித்திரு!"
 
-As someone said, "There is no coincidence. Only the illusion of coincidence."
+As Alan Moore said, "There is no coincidence. Only the illusion of coincidence."
 
 
 ![coincidence](https://i.pinimg.com/originals/28/37/fc/2837fce8d6934262d6be91f852d8ae35.jpg)
