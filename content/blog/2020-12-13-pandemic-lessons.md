@@ -34,7 +34,7 @@ They are the sons and daughters of life's longing for itself.
 >You may give them your love but not your thoughts,
 > For they have their own thoughts.
 
-The Science of Fasting, Focus and Fate are my three biggest takeaways from the Pandemic. For once, I have not "let a good crisis go to waste". And here's the kicker: they also happen to magically align up with Saint Vallalaar's brilliant three word mantra which goes as follows:
+The Science of Fasting, Focus and Fate are my three biggest takeaways from the Pandemic. For once, I have not "let a good crisis go to waste". And here's the kicker: they also happen to magically align up with Saint Vallalaar's brilliant three word mantra from the 1800s, which goes as follows:
 
 > "பசித்திரு, தனித்திரு, விழித்திரு!"
 
