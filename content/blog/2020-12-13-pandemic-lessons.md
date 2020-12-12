@@ -16,7 +16,9 @@ I have purchased and partially consumed Calport's three books including Digital 
 
 ## The Science of Fate
 
-When Sadhguru says, "Don't look down upon anyone. Don't look up to anyone", I did not fully subscribe to it fully. After all, how can you not look at Elon Musk's brilliant entrepreneurial efforts and feel slightly inadequate? The book by Hannah Critchlow "The Science of Fate" is something that is worth your time. The first chapter conveyed to me the importance of Yoga and how that is the best way to put distance between you and the physiology and the genetic inheritance that you are born with. 
+When Sadhguru says, "Don't look down upon anyone. Don't look up to anyone", I did not fully subscribe to it fully. After all, how can you not look at Elon Musk's brilliant entrepreneurial efforts and feel slightly inadequate? But after reading The book by Hannah Critchlow "The Science of Fate", I think he is bang on the money, like he is all the time. 
+
+The book and the material presented is something that is worth your time. After pursuring just the first chapter, I realized the importance of Yoga and how that is the best way to put distance between you and your fate - the physiology and the genetic inheritance - that you are born with and destined to. Practice yoga regularly shall allow you to lead a life _driven_ by free will and not fate.  
 
 So, in summary, The Science of Fasting, Focus and Fate are my biggest takeaways from the Pandemic, and I have a sense of fulfillment that I have not let a crisis go for a waste. 
 
@@ -25,3 +27,5 @@ In closing, I leave with you the Saint Vallalaar's magic three words mantra
 > "பசித்திரு, தனித்திரு, விழித்திரு!"
 
 Thank you for your attention.
+
+
