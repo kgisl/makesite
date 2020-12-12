@@ -34,13 +34,12 @@ They are the sons and daughters of life's longing for itself.
 >You may give them your love but not your thoughts,
 > For they have their own thoughts.
 
-The Science of Fasting, Focus and Fate are my three biggest takeaways from the Pandemic. I am happy that I have not "let a good crisis go to waste". And here's the kicker: they also happen to align so very closely with Saint Vallalaar's magical three word mantra which goes as follows:
+The Science of Fasting, Focus and Fate are my three biggest takeaways from the Pandemic. I am happy that I have not "let a good crisis go to waste". And here's the kicker: they also happen to magically align up with Saint Vallalaar's brilliant three word mantra which goes as follows:
 
 > "பசித்திரு, தனித்திரு, விழித்திரு!"
 
-"There is no coincidence. Only the illusion of coincidence."
+As someone said, "There is no coincidence. Only the illusion of coincidence."
 
-Thank you for your attention.
 
 ![coincidence](https://i.pinimg.com/originals/28/37/fc/2837fce8d6934262d6be91f852d8ae35.jpg)
 
