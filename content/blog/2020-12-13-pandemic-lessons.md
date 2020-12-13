@@ -45,7 +45,7 @@ As Alan Moore said, "There is no coincidence. Only the illusion of coincidence."
 
 > **Synchronicity** (German: Synchronizität) is a concept, first introduced by analytical psychologist Carl Jung, which holds that events **are** "meaningful coincidences" if **they** occur with no causal relationship yet seem to be meaningfully related.
 
-And then you have this for good measure: 
+For some reason, I have this Nikola Tesla's quote which seems appropriate to include here, for whatever it is worth: 
 
 ![tesla](https://www.magicalquote.com/wp-content/uploads/2018/07/The-day-science-begins-to-study-non-physical-phenomena-it-will-make-more-progress-in-one-decade-than-in-all-the-previous-centuries-of-its-existence.jpg) 
 
