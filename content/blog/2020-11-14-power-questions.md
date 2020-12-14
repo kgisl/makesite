@@ -110,3 +110,11 @@ To change what seems like a fateful nature
 So you may claim what is your rightful divine future? 
 Om Shanti 🌻☺️
 ```#yogicNutureDivineNature```
+
+    yogic nurture
+    to overcome fateful nature
+    divine future waits
+
+   Still break of the day   
+   A yogic future nuture  
+  Watching the nature
