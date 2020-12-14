@@ -97,3 +97,16 @@ Life 3.0 Book premise is based on a question:
 ## “How can you achieve your 10 year plan in the next 6 months?” — Peter Thiel
 
 Read more about at [https://bit.ly/sixMonths10Years](https://bit.ly/sixMonths10Years) 
+
+## Nuture vs Nature
+
+This is almost as futile as asking the question "Are leaders born or made?" - the more useful question is "How can we create a leader in everybody?" 
+
+Be still as a deep sea, stable as a rock, calm as a Sky; and then Act: you will see yourself creating magic. 🌟☺️. Inner stability in the present time is the key to peace and harmony in our interactions and relations with self, family, profession and nature. 🌸🍀✨.  Few moments  of silence  and meditation in the morning and night is the magic 🔑 key. ✨🌼. I am a powerful, peaceful, happy and pure soul; 🌟. It nurtures, empowers and heals. Do you have few minutes to nurture yourself ? Om Shanti 🌻☺️
+Dr .Mohit.D.Gupta
+
+> Do you have a few minutes to nurture yourself 
+To change what seems like a fateful nature 
+So you may claim what is your rightful divine future? 
+Om Shanti 🌻☺️
+```#yogicNutureDivineNature```
