@@ -38,6 +38,7 @@ The Science of Fasting, Focus and Fate are my three biggest takeaways from the P
 
 > "பசித்திரு, தனித்திரு, விழித்திரு!"
 
+![vmatrix](https://i.imgur.com/a9hSPlA.jpg)
 As Alan Moore said, "There is no coincidence. Only the illusion of coincidence."
 
 
@@ -49,4 +50,4 @@ Finally, it seems appropriate to remind ourselves of Nikola Tesla's quote, for w
 
 ![tesla](https://www.magicalquote.com/wp-content/uploads/2018/07/The-day-science-begins-to-study-non-physical-phenomena-it-will-make-more-progress-in-one-decade-than-in-all-the-previous-centuries-of-its-existence.jpg) 
 
-![vmatrix](https://i.imgur.com/a9hSPlA.jpg)
+
