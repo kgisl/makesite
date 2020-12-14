@@ -49,4 +49,4 @@ Finally, it seems appropriate to remind ourselves of Nikola Tesla's quote, for w
 
 ![tesla](https://www.magicalquote.com/wp-content/uploads/2018/07/The-day-science-begins-to-study-non-physical-phenomena-it-will-make-more-progress-in-one-decade-than-in-all-the-previous-centuries-of-its-existence.jpg) 
 
-
+![vmatrix](https://i.imgur.com/a9hSPlA.jpg)
