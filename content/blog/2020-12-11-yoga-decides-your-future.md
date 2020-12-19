@@ -19,3 +19,30 @@ _'It's been the question that has inspired, stultified and petrified humanity ac
 What shapes us more: our DNA, or the way we’re raised? This debate, commonly recognized as “nature versus nurture,” has drawn disagreement for thousands of years. So which one matters more? Emerging genetic research indicates that the scale may be tipping toward biology – but not all trust the research. Proponents of the “nature” camp argue it is DNA that determines who we are, as evidenced by identical twins and triplets who are separated at birth and, once reunited, show remarkable similarities despite different upbringings. Rather than trying to identify the perfect parenting style, they argue, caregivers should look to their children’s DNA to identify natural strengths and challenges to promote overall health and well-being. But others strongly disagree, saying that parenting is very important, and the individuals who rear us influence our development, growth, and, ultimately, our lives. The “nurture” camp also points to studies that show how beliefs and behaviors are not innate, as evidenced by stark differences in the expression of adolescence and other life stages across different cultures. Are they right? Or is parenting overrated?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zpEEorMNe4M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## Other insights
+
+Practice yoga and you have access to a DIY low-cost gene-editing capability! #ScienceOfFate #InnerEngineering
+
+Be still as a deep sea, stable as a rock, calm as a Sky; and then Act: you will see yourself creating magic. 🌟☺️. Inner stability in the present time is the key to peace and harmony in our interactions and relations with self, family, profession and nature. 🌸🍀✨.  Few moments  of silence  and meditation in the morning and night is the magic 🔑 key. ✨🌼. I am a powerful, peaceful, happy and pure soul; 🌟. It nurtures, empowers and heals. Do you have few minutes to nurture yourself ? Om Shanti 🌻☺️  - Dr .Mohit.D.Gupta
+
+> Do you have a few minutes to nurture yourself 
+To change what seems like a fateful nature 
+So you may claim what is your rightful divine future? 
+Om Shanti 🌻☺️
+
+```#yogicNutureDivineNature```
+
+    yogic nurture
+    to overcome fateful nature
+    divine future waits
+
+    Still break of the day   
+    A yogic future nuture  
+    Watching the nature
+
+
+### Being human is super
+
+![boundless](https://i.imgur.com/rVEGiMV.jpg)
