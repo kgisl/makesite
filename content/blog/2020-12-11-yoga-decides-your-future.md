@@ -43,7 +43,9 @@ Om Shanti 🌻☺️
     Watching the nature
 
 
-### Being human is super
+### Being human is super - be a #boundlessHuman 
+
+They talk about being an #augmentedHuman - why not just go for being a #boundlessHuman - that's the potential promise of consistent yoga practice. 
 
 
 
