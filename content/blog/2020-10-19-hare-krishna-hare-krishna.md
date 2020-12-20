@@ -69,3 +69,8 @@ This transcendental vibration, by chanting of Hare Krsna, Hare Krsna, Krsna Krsn
 
 See this [https://bit.ly/vibrationThis](https://bit.ly/vibrationThis); see [this](https://bit.ly/vibrationThis2) and [this](http://bit.ly/2T8hmN2) as well.
 
+### Srila Prabupada's genius
+
+Listen to the science behind Hare Krishna Mahamantra from Srila Prabhupada himself [https://bit.ly/vibrationThis](https://bit.ly/vibrationThis)
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/913084189&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ashok-bakthavathsalam" title="Ashok Bakthavathsalam" target="_blank" style="color: #cccccc; text-decoration: none;">Ashok Bakthavathsalam</a> · <a href="https://soundcloud.com/ashok-bakthavathsalam/srila-prabhupada-this" title="Srila Prabhupada. This Transcendental Vibration..." target="_blank" style="color: #cccccc; text-decoration: none;">Srila Prabhupada. This Transcendental Vibration...</a></div>
