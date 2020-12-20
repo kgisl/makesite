@@ -26,6 +26,7 @@ To tackle the rather dangerous ```increasing inequality``` in the world
 	- Man vs Nature
 	- Man vs Man
 
+### Top .01% in the world
 - And how about getting to be among the top .01% of the world - and while we arrive there, first to gain them as our clients for our services? 
 
 
