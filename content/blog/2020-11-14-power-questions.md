@@ -1,7 +1,10 @@
 <!-- title: Powerful Questions  -->
 
+![trigger](https://lh3.googleusercontent.com/rhujAqhZ0c1neEq2a1AhLicDhoCFPSrhDL_7Pvbx3Ut6gAhDLCn17VNATN11z_TmNt4NyT2L-c4OI-NUDBjWOrGdLgJwqJnG9rqvbz2RZ74mLV8lzGuqz4lrQSwVD5rotLfy_x9j3b48nnLav8tdGNsbbyoojMj93GzUQvqjuDqbuIIexdZnU4jG33lanfG2PHUz-sdancBIjSjIzmf_FvsjqvbENcfp-vfTRMzj37lygK4Db7CNZg-ORADhiO9vT0Mdx8S6UI1twp_DwLDe-aaxvbyxTM0sN6p_A-GkMEu0EfmkhziwK6UZsTUoiCHEAfir2DTREhyZR6Iz6Lc5GNeJvyRlbgYCfQviY8v-JtfFSXz7JU0xCIg_xhTqBvhua2Lt5bWZRjpY593u4NiTrjwpxzB8FmzKPOc324amTi0blPrwcZgFSjZJ3QMtxQjIDW2Ft0cbqO_N6dukhTxE70UmWS0q3FyXZCzAqs2GNPW1sBxqiXXWgthHH71G9fo4zSRKPUzh1KrB66eoft94OEm6ZXgXeeKndCoua-a4F4vbgTlTD-MNR5lTFt0gveiN3xr7g8Kfd8w57FleWV77AdbGBe2GWuNyOorF_XnUrfs76IgbBEwQDm9A6SNar4c3jb9JHg0QNI2PjlRzW7oWlCEr5tXKwm0FV5ut7EH_XzD60cAQS5bFRlmsRtHjnmw=w803-h633-no?authuser=0)
+
 What is relevant to me as the ```CLO``` (Chief Learning Officer) is 
 - Are you learning as fast as the world is changing? 
+
 
 ![](https://www.mycii.in/Image/EventImages/EventMainImages/E000021582_Banner_banner1%20-%20Copy.jpg)
 
