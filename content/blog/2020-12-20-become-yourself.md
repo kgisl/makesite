@@ -20,11 +20,14 @@ Simply, are you a better human being compared to yesterday?
 
 ### Post-pandemic : inclusive compassion 
 
-To tackle the rather dangerous ```increasing inequality``` in the world 
+To tackle the rather dangerous ```increasing inequality``` in the world
+ 
 	- Man vs Environment 
 	- Man vs Nature
 	- Man vs Man
 
-- To be in the top .01% of the world - or gain them as our clients 
+- And how about getting to be among the top .01% of the world - and while we arrive there, first to gain them as our clients for our services? 
+
+
 
 
