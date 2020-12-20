@@ -2,7 +2,7 @@
 
 ![fordQuote](https://lh3.googleusercontent.com/gUgQ0EmvENKRfoWtDNRzsKVzx5AYc__g-LdXi9e_zNNdoJTZYM-6g0uYDeRsVlTc5pmn7SfLP4YS3_Re6RSQpDnXU8-9TbiD2B1g2WQd6w-XMheJDN-SH0G3KFEjb4FODnDLTF-ZafsU4IvDTYH9prkrqrdJlEUSFRkI6W_FmJ9GXjyZWU2EEqY2fe0_RxajpyX8FnirgY_LFicnQwZNwxSJD0vZsGmUOVRuP806idSPNlbuJzebqoTEqRSw2LV9c38B0q3e1Xcbifb66F5hsjIIMLVBMpvcj09WvHqUwmAUvLW_tfx9Ryxzf-MfNEqUf2JxiA2KqYkyjWKV_M--GpwhgRU2mPjmpxfwnLRdIjReiPZpt8V44GIvD1p-G80NeMItye-7OmzBJZG4t-tJZyQuwLyVqxe7zFS5LvsdO_yzgRFcZqbJvgSydO43TjslIV3jSJUhP4GEwqlTtUraVv5skkQ4JOhDX9RFuvY-dGbdODCTu6ZXfGm0woXPHtkgz95X7xW2c9u1P5ZxUlBMs7V9rpFn2Td2L9yX1CEKtTZOcBbsoqXFxnkqfJ499_9uEqYRwBddFAw-mLxQQ8GrWm-3cXoOvfR_ef4n9pwPsEtzsfDqwp7zH-OTY_70TjtkIqA_5HMaqSLDRHaE2NohaLvFYESjF2G5yF5l0Zo5Sb6s_31A6HIXJC_ohnsl4kA=w853-h485-no?authuser=0)
 
-All nice and cozy - but how the fuck do we come together, keep together and work together? 
+All nice and rhyming, Henry Ford. But how the bloody fuck do we come together, keep together and work together? 
   - Firstly, by having conversations about shared values to arrive at shared understanding
   - Secondly, by translating that shared understanding into shared words 
   - Fortunately, that exercise has been completed at KGCAS and KITE as a CMVO document (culture-mission-vision-objectives). Please review and align yourself to that document, especially the ```culture``` part of it
