@@ -36,9 +36,9 @@ To tackle the rather dangerous ```increasing inequality``` in the world
 
 It stands for YOU the INDIVIDUAL, who has chosen to be with us, of considering to partner with us. We are first and foremost grateful for that choice. We are grateful for the privilege to engage with your genius to make our unique contribution to the world, to make that meaningful dent in the Universe.
 
-KG```i```SL the i in the middle stands for diruptive ```I```nnovation
-W```i```N the i in the middle stands for quantum ```I```mprovement
-SM```i```LE the i in the middle stands for focused ```I```nvolvement
+KG```i```SL the i in the middle stands for diruptive ```I```nnovation  
+W```i```N the i in the middle stands for quantum ```I```mprovement  
+SM```i```LE the i in the middle stands for focused ```I```nvolvement  
 
 Become involved to improve to innovate for a better future for yourself, your team and your organisation. 
 
