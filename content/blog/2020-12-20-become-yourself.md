@@ -38,7 +38,7 @@ It stands for YOU the INDIVIDUAL, who has chosen to be with us, of considering t
 
 KG```i```SL the i in the middle stands for diruptive ```I```nnovation  
 W```i```N the i in the middle stands for quantum ```I```mprovement  
-SM```i```LE the i in the middle stands for focused intense```I```nvolvement  
+SM```i```LE the i in the middle stands for focused intense ```I```nvolvement  
 
 Become involved to improve to innovate for a better future for yourself, your team and your organisation. 
 
