@@ -40,7 +40,7 @@ KG```i```SL the i in the middle stands for diruptive ```I```nnovation
 W```i```N the i in the middle stands for quantum ```I```mprovement  
 SM```i```LE the i in the middle stands for focused intense  ```I```nvolvement  
 
-Become involved to improve to innovate for a better future for yourself, your team and your organisation. 
+Become intensely involved to improve to innovate for a better future for yourself, your team and your organisation. 
 
 BECOMEing you is all about - Behavior (intensely habits driven not mind driven); Commitment (focused on closing out on high pressure short term goals made to your mentors) and Environment (energize yourself, and surround yourself with people who will energize you). 
 
