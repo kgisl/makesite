@@ -30,5 +30,22 @@ To tackle the rather dangerous ```increasing inequality``` in the world
 - And how about getting to be among the top .01% of the world - and while we arrive there, first to gain them as our clients for our services? 
 
 
+### "Ask me what the "i" stands for in KGiSL"
+
+**tl;dr** The i stands for an invite to come join us, and become yourself, the super human that you are.
+
+It stands for YOU the INDIVIDUAL, who has chosen to be with us, of considering to partner with us. We are first and foremost grateful for that choice. We are grateful for the privilege to engage with your genius to make our unique contribution to the world, to make that meaningful dent in the Universe.
+
+KG```i```SL the i in the middle stands for diruptive ```I```nnovation
+W```i```N the i in the middle stands for quantum ```I```mprovement
+SM```i```LE the i in the middle stands for focused ```I```nvolvement
+
+Become involved to improve to innovate for a better future for yourself, your team and your organisation. 
+
+BECOMEing you is all about - Behavior (intensely habits driven not mind driven); Commitment (focused on closing out on high pressure short term goals made to your mentors) and Environment (energize yourself, and surround yourself with people who will energize you). 
+
+BECOME. You. BECOME. You. Repeat.
+That is progress. That is prosperity. That is peace.
+Namaskaram. Om Shanti. Hari OM!
 
 
