@@ -34,6 +34,8 @@ To tackle the rather dangerous ```increasing inequality``` in the world
 
 **tl;dr** The i stands for an invite to come join us, and become yourself, the super human that you are.
 
+_I am becoming God-driven, aspiring for God mode to become God-like! Therefore, I cherish the god-given sacred privilege to gratefully inspire at KG!_
+
 It stands for YOU the INDIVIDUAL, who has chosen to be with us, of considering to partner with us. We are first and foremost grateful for that choice. We are grateful for the privilege to engage with your genius to make our unique contribution to the world, to make that meaningful dent in the Universe.
 
 KG```i```SL the i in the middle stands for diruptive ```I```nnovation  
@@ -46,6 +48,9 @@ BECOMEing you is all about - Behavior (intensely habits driven not mind driven);
 
 BECOME. You. BECOME. You. Repeat.
 That is progress. That is prosperity. That is peace.
+
+> I am becoming God-driven, aspiring for God mode to become God-like! Therefore, I cherish the god-given sacred privilege to gratefully inspire at KG!
+
 Namaskaram. Om Shanti. Hari OM!
 
 
