@@ -34,7 +34,8 @@ To tackle the rather dangerous ```increasing inequality``` in the world
 
 **tl;dr** The i stands for an invite to come join us, and become yourself, the super human that you are.
 
-_I am becoming God-driven, aspiring for God mode to become God-like! Therefore, I cherish the god-given sacred privilege to gratefully inspire at KG!_
+_I am becoming God-driven, and aspire for God mode to become God-like! And so I cherish the god-given sacred privilege to gratefully inspire at KG! I shall ask for no other blessing!_
+> நான் கடவுளால் இயக்கப்படுகிறேன், கடவுளைப் போல ஆக கடவுளின் பயன்முறையை விரும்புகிறேன்! எனவே, கே.ஜி.க்கு நன்றியுடன் ஊக்கமளிக்க கடவுள் கொடுத்த புனித பாக்கியத்தை நான் மதிக்கிறேன்! வேறு எந்த ஆசீர்வாதத்தையும் நான் கேட்க மாட்டேன்!
 
 It stands for YOU the INDIVIDUAL, who has chosen to be with us, of considering to partner with us. We are first and foremost grateful for that choice. We are grateful for the privilege to engage with your genius to make our unique contribution to the world, to make that meaningful dent in the Universe.
 
