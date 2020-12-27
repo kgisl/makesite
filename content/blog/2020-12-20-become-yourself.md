@@ -62,3 +62,38 @@ That is progress. That is prosperity. That is peace.
 Namaskaram. Om Shanti. Hari OM!
 
 
+
+### MG 30 questions for Drreports
+
+1. On a scale of 1-10, how inspired/excited/motivated are you today to be working at KG? 
+2. On a scale of 1-10, what is the level of productivity you bring to the work that you are accountable/responsible for? 
+3. On a scale of 1-10, what is the level of gratitude you feel towards the Universe/Creator/God? 
+4. If you were to be invited to a flash celebration party, what would you celebrate about the events that happened yesterday?
+5. What is the daily metric (```What's measured, improves```) that has improved from yesterday/last_week/last_year?
+
+
+### Slogan
+Customers choose us for our reliability. They endorse us for our responsiveness. Translate this to your specific context: 
+
+## KGH 
+- Patients choose us for *reliable* safety. They endorse us for the medical outcomes. Therefore, the core metric for management is about how we eliminate errors (technical, human and systemic).  For the metric to make quantum and accelerated jumps, 
+	- we need to move from consultant based practice to patient centric participatory approach
+		- So many undiagnosed diseases, why not compile a database on this and address this need of the hour?
+	- we need to become aware of the distance between us and the frontiers of medical practice, and rapidly close the gap. 
+		- no diagnosis by a doctor or team of doctors is perfect
+		- With AI-assisted diagnosis, the diagnosis has the potential to become perfect
+			- and therefore eliminate that extra one more error 
+
+Core mission: "Do no evil" -  Translated to Eliminate errors, big and small, because even one error can possible cause the loss of a loved one. 
+
+## KG Edu
+
+Customers choose us for our *reliability*. They endorse us for our responsiveness.
+Translate this to your specific *context* at KG. 
+
+- Students choose us for the **reliable** learning experience *that transforms*. They endorse us for who *they* become. 
+
+
+
+
+
