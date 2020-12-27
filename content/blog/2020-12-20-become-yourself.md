@@ -94,6 +94,22 @@ Translate this to your specific *context* at KG.
 - Students choose us for the **reliable** learning experience *that transforms*. They endorse us for who *they* become. 
 
 
+# What is happening at KG? 
+#kgisLegacy of 47+ years of Advanced Affordable care to the community #kghospital
+#kgisLeaping into green solar energy #elucidate #kgds
+#kgisLiving and working has contributed cumulativeExports of 25,000+ crores #kgisl_SEZ
+#kgisLeading in HyperAutomation #uiPathNationalPartner #kgisl
+#kgisLearning to ko-create intense, imaginative and innovative geniuses #kite #kgcas
+#kgisLimitless to become all that you can be #behaviorOfImprovement #commitmentToWorkship #environmentOfNoArrogance  
+
+#kgisLimitless For The WIN!
+#kgIsLimitless and Relentless For the WIN!
+
+```#kgIsLimitless``` is all about #behaviorOfInvolvedSharedIncrementalCotinuousAccelerated
+RelentlessQuantumImaginedImprovement
+
+The capital ```I``` is to remind us of that behavior, a possibility which is very real and which we seek to exhibit, thanks to the commitment and environment shared by the workshippers in the team. 
+
 
 
 
