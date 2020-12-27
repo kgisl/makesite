@@ -65,12 +65,14 @@ Namaskaram. Om Shanti. Hari OM!
 
 ### MG 30 questions for Drreports
 
-1. On a scale of 1-10, how inspired/excited/motivated are you today to be working at KG? 
-2. On a scale of 1-10, what is the level of productivity you bring to the work that you are accountable/responsible for? 
-3. On a scale of 1-10, what is the level of gratitude you feel towards the Universe/Creator/God? 
-4. If you were to be invited to a flash celebration party, what would you celebrate about the events that happened yesterday?
-5. What is the daily metric (```What's measured, improves```) that has improved from yesterday/last_week/last_year?
+1. On a scale of 1-10, how inspired/excited/motivated are you today to be working at KG? #workship
+2. On a scale of 1-10, what is the level of productivity you bring to the work that you are accountable/responsible for? #improvement
+3. On a scale of 1-10, what is the level of gratitude you feel towards the Universe/Creator/God? #noArrogance
+4. If you were to be invited to a flash celebration party, what would you celebrate about the events that happened yesterday? #metricsForImprove
+5. What is the daily metric (```What's measured, improves```) that has improved from yesterday/last_week/last_year? #metricsForImprove
 
+6. Are you intentionally building relationships? #noArrogance #leaderQuestions1
+7. Are you guiding people with an inspiring vision? #leaderQuestions2 
 
 ### Slogan
 Customers choose us for our reliability. They endorse us for our responsiveness. Translate this to your specific context: 
