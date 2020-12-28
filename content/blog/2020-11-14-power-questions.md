@@ -5,6 +5,8 @@
 What is relevant to me as the ```CLO``` (Chief Learning Officer) is 
 - Are you learning as fast as the world is changing? 
 
+Purely coincidentally that there is an HBR article will the same title [https://hbr.org/2012/01/are-you-learning-as-fast-as-th](https://hbr.org/2012/01/are-you-learning-as-fast-as-th)! 
+
 
 ![](https://www.mycii.in/Image/EventImages/EventMainImages/E000021582_Banner_banner1%20-%20Copy.jpg)
 
@@ -12,10 +14,14 @@ What is relevant to me as the ```CLO``` (Chief Learning Officer) is
 
 Mahatma Gandhi's most enduring quote for personal transformation was: "Be the Change you want to see in the world". 
 - Michael Jackson's most meaningful song for me was " Man in the Mirror" CII Coimbatore asked this seemingly enduring question as early as in 2014, and seemed very relevant at that time. Is there an altogether more relevant question to ask? Or how can it be tweaked ever so slightly to make it even more powerful?
-	- This is a very pragmatic question. For, it encourages us to aspire for the enough to eliminate the risk of becoming irrelevant
-	- "What/Who will help you be the Disruption you want to cause in the world?" 
+	- Through 2014-2016, CII's ```Connect Coimbatore``` event asked the pragmatic question, "Are you learning as fast as the world is changing?". It probably encouraged enough action to stay relevant in an increasingly VUCA world. However in the post-pandemic era beginning 2021, should we provoke with a more powerful question?
+	  - Consider this: "What/Who will help you be the Disruption you want to cause in the world?"
+		- What technology will help you navigate the ```DOT``` (disruption, opportunities and threats) in a post-pandemic VUCA world?
+		- why not be the disruption you anticipate in the future?
+		- what technologies will help you anticipate disruption, seize opportunities and manage threats in the future?
 
 And while you are hungry to see the impact of your Disruption, don't forget there are many that go hungry without a choice. Don't you forget it is just another day for you and me in Paradise. 
+
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/46744284&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/izur-hu" title="QUE MUSICA (Izur hu )" target="_blank" style="color: #cccccc; text-decoration: none;">QUE MUSICA (Izur hu )</a> · <a href="https://soundcloud.com/izur-hu/phil-collins-another-day-in" title="Phil Collins - Another Day in Paradise HD QUE MUSICA" target="_blank" style="color: #cccccc; text-decoration: none;">Phil Collins - Another Day in Paradise HD QUE MUSICA</a></div>
 
 
