@@ -95,6 +95,12 @@ Translate this to your specific *context* at KG.
 
 - Students choose us for the **reliable** learning experience *that transforms*. They endorse us for who *they* become. 
 
+Privileged Workshippers inspired to co-Kreate Geniuses, to maximize transformation. Or in short, 
+
+```co-Kreating (K) Geniuses (G)```
+
+co-Kreate -> KG is an invitation to you to come collaborate with the dedicated faculty and motivated peers; to co-create new knowledge (including new ideas, skills), primarily through hackathons.  That ```Kreation``` shall be confidence building journey to discovering your inner genius. That genius shall your first step towards becoming the 1st crorepati in your family and launch you toward abundant wealth. Once you end up on the right side of ```90% === .01%``` or even earlier, you shall eventually visit as the alumni who generously contributes to keep KITE soaring high, as the ```MIT``` for India! 
+
 
 # What is happening at KG? 
 #kgisLegacy of 47+ years of Advanced Affordable care to the community #kghospital
