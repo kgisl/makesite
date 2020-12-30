@@ -99,7 +99,7 @@ Impact Workshippers, privilege and inspired to co-Kreate Geniuses, to maximize t
 
 ```co-Kreating (K) Geniuses (G)```
 
-co-Kreate -> KG invites you to come collaborate with a team of  dedicated faculty and motivated peers; to co-create new knowledge (including ideas and skills), primarily through hackathons.  That ```Kreation``` shall be the confidence-building self-learning life long journey to discovering your inner genius. That genius shall be your first step towards becoming the 1st crorepati in your family. As you progress towards the right side of ```90% === .01%``` or even earlier, you shall eventually visit as the alumni who generously contributes to keep KITE soaring high, as the ```MIT``` for India! 
+co-Kreate -> KG invites you to come collaborate with a team of  dedicated faculty and motivated peers; to co-create new knowledge (including ideas and skills), primarily through hackathons.  That ```Kreation``` shall be the start of a lifelong confidence-building self-learning journey to discovering your unique genius. That genius will manifest you as a self-made crorepati for your family. As you progress towards the right side of ```90% === .01%``` or even earlier, you shall eventually visit as the alumni who generously contributes to keep KITE soaring high, as the ```MIT``` for India! 
 
 
 # What is happening at KG? 
