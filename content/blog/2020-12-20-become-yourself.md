@@ -99,7 +99,7 @@ Impact Workshippers, privilege and inspired to co-Kreate Geniuses, to maximize t
 
 ```co-Kreating (K) Geniuses (G)```
 
-co-Kreate -> KG invites you to come collaborate with a team of  dedicated faculty and motivated peers; to co-create new knowledge (including ideas and skills), primarily through hackathons.  That ```Kreation``` shall be the start of a lifelong confidence-building self-learning journey to discovering your unique genius. That genius will manifest you as a self-made crorepati for your family. As you progress towards the right side of ```90% === .01%``` or even earlier, you shall eventually visit as the alumni who generously contributes to keep KITE soaring high, as the ```MIT``` for India! 
+```co-Kreate``` - KG invites you to come collaborate with a team of  dedicated faculty and motivated peers; to co-create new knowledge (including ideas and skills), primarily through hackathons.  That ```Kreation``` shall be the start of a lifelong confidence-building self-learning journey to discovering your unique genius. That genius will manifest you as a self-made crorepati for your family. As you progress towards the right side of ```90% === .01%``` or even earlier, you shall eventually visit as the alumni who generously contributes to keep KITE soaring high, as the ```MIT``` for India! 
 
 
 # What is happening at KG? 
@@ -117,6 +117,15 @@ co-Kreate -> KG invites you to come collaborate with a team of  dedicated facult
 RelentlessQuantumImaginedImprovement
 
 The capital ```I``` is to remind us of that behavior, a possibility which is very real and which we seek to exhibit, thanks to the commitment and environment shared by the workshippers in the team. 
+
+
+### Words to own
+
+# Bespoke  - reliable, responsive
+# co-Kreate - personalized, 
+# SAFE to SAVE - safe, affordable, ForPatient, ethical
+# Liveable infrastructure
+# KGDS?
 
 
 
