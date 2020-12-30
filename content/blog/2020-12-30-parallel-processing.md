@@ -1,6 +1,6 @@
 <!-- title: Draft Blog -->
 
-## Parallel processing in life
+## Parallel processing in Life
 
 Aka multi-tasking. I have read in multiple places, it is not healthy to do this. 
 
