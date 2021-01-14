@@ -8,9 +8,9 @@
 
 Jai Jai Panduranga Vittale! Hare Krishna!	
 
-PS: If the ```joy->imagine->hack``` cycle is beyond you right now, say the Mahamantra (http://j.mp/hareKrishna6) 11 times a day (it won't take more than 3 minutes to do that). 
+PS: If the ```joy->imagine->hack``` cycle is beyond you right now, say the Mahamantra [http://j.mp/hareKrishna6](http://j.mp/hareKrishna6) at least 11 times a day (and that shouldn't take you ~3 minutes to do that). 
 
-PPS: If you don't know the Mahamantra or don't have the Faith in it yet, call someone who you know cares for you, for example, an elderly couple (who is stuck at home due to corona) and make them happy, and that should also put some joy into your heart. Hari OM!
+PPS: If you don't know the Mahamantra or don't have the Faith in it yet, call whomsoever you know cares for you, for example, it could an elderly couple (who is stuck at home due to corona) and make them happy, and that should also put some joy into your heart. Hari OM!
 
 In addition to any of the above, start saying ```ராம ராம ராம ``` whenever you feel like getting a upliftment of your spirits. 
 
