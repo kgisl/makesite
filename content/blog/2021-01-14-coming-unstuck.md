@@ -1,4 +1,4 @@
-<!-- title: Coming unstuck  -->
+<!-- title: Come unstuck  -->
 
 # Pongal insight
 
