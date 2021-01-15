@@ -2,9 +2,9 @@
 
 # Pongal insight
 
-```tl;dr The Joy->Imagine->Hack cycle will help you come unstuck from your fate.```
+```tl;dr The Joy->Imagine->Hack cycle will help you come unstuck from your fate. Even better, surrender.```
 
-_#NoFreeWillSoFateLoFocusMoFast_
+_#NoFreeWillSoFateLoFocusMoFastSurrender_
 
 99% of us aren't as joyful as we can be (because science has conclusive evidence that it is in our nature to be driven by fate [```#SoFate```](https://www.goodreads.com/en/book/show/45159747-the-science-of-fate)). Basically, we _think_ we have free will, but actually we don't. That's why you need Sadhguru's SMM yoga. When SMM is practised regularly, it will help you come unstuck from that fate, and instead, come alive with joy from the _inside_. And from that joy shall emanate your unique imagination, and that imagination shall flow into action (aka _hack_), which in turn, will deposit precious moments of joy into your human existence. And that my child, is how you kickstart a virtuous cycle within you. If you have deep humility (to accept what the seers have said) and immense patience to follow through, eventually this cycle (```Joy->Imagine->Hack```) shall pull you out of whatever quagmire (real or otherwise) you are stuck in. 
 
