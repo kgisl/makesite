@@ -2,7 +2,7 @@
 
 # Pongal insight
 
-```tl;dr The Joy->Imagine->Hack cycle will help you come unstuck from your fate. Even better, surrender.```
+```tl;dr The Joy->Imagine->Hack cycle will help you come unstuck from your fate. Even better, go with the flow and surrender.```
 
 _#NoFreeWillSoFateLoFocusMoFastGoFlowSurrender_
 
