@@ -11,7 +11,8 @@
 
 ## 2nd epicKG 
 
-The movie metaphor is brilliant - if you cannot handle the suspense...You have come to watch the movie - enjoy every moment of the movie, yaar! .And if that doesn't drive home the point, "You seem to prefer to fix the match (like the IPL match fixing scam)."
+The movie metaphor is brilliant - if you cannot handle the suspense...You have come to watch the movie - enjoy every moment of the movie, *yaar*! 
+  - And if that doesn't drive home the point, "You seem to prefer to fix the match (like the IPL match fixing scam)."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-46JXxFlXoA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
