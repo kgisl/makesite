@@ -18,6 +18,11 @@ All nice and rhyming, Henry Ford. But how the bloody fuck do we come together, k
 
 In this, the central thing and non-negotiable thing is improvement (*aka* productivity at the national level). If you improve,  your nation improves. If your nation improves, mankind improves. Workship and no arrogance are not easily measurable by the outside world. Improvement is measurable. What is measurable is manageable. What is measurable is also rewarded. 
 
+## Privilege, Kiwi Coach
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MAjz7UyJqDs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 # Question for Improvement 
 Simply, are you a better human being compared to yesterday? 
 
@@ -95,7 +100,7 @@ Translate this to your specific *context* at KG.
 
 - Students choose us for the **reliable** learning experience *that transforms*. They endorse us for who *they* become. 
 
-Impact Workshippers, privilege and inspired to co-Kreate Geniuses, to maximize transformation. Or in short, 
+Privileged Workshippers, inspired to impact, to co-Kreate Geniuses, to maximize transformation. Or in short, 
 
 ```co-Kreating (K) Geniuses (G)```
 
