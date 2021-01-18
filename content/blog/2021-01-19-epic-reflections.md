@@ -17,7 +17,8 @@ The movie metaphor is brilliant - if you cannot handle the suspense...You have c
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-46JXxFlXoA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![](https://lh3.googleusercontent.com/Tb4I_oZAPetvLCxvYVdRLsdEJ9fIfNQWA7rxKngwXWk2vgwrHG4sWMDcHfHDpmS1hSJ9IcECL2x0zPF6ihJAP4IkFWPM6e8ZpiKpqElG-CSrvpf7ktS-zwJTj0QigU2MUSu8tsR4R_F969J8KlDORu69iJLssb9ERBsOuU40AVaNkLqU6workM3nO3WRbveyZzmNFg3lNSyeor2WOqIGlUfFdEOmoE5L9yKxg3Wop6rhOqnuVAvFvaudFWhXcd4_cOTLdxbKgs5ccIz7aaX9k8uY8PMu0AN2agWtENnJ3PRGXGxteRRvq8DYTcAjj-rBsuFp1Z28oW5FD5Rq0GMwNl24yRE1E0iYskK0lPzAyAwjdOZ19Db8Vn4lbO8Trm0AkDnneweEL3PqTSXCHY2TkcL9aeBwLLsimJvK0HvclWs_55GoLmEFfZXY112F1ArJznjPfncFWciL3thUNRyYg6IzrqjnA9V9yf8bYI43KzmJnYAqxygLB9KvFT1AGmaljwOnbAgpW2S0t95zs0IQXDKbrrA3nF-KZ1no5749w8iKiGIaEbt3t974zNlS9sa3SvO1-qe4nQeP0Ne-FY1UGQuGnlcBeRQnKw_yPOqCcKYPg-nPawpUa72cwLzV17bjG0a62fYuQ6V4JaD-OwAL5b04IUbtYomEfYbjD1ECUatk-HZOS5lauMN5GFd_ePQ=w342-h113-no?authuser=0)
-https://www.linkedin.com/posts/mazher-h-syed_linkedinfamily-linkedinconnections-linkedinfollowers-ugcPost-6755456261308874752-1tzr #
+
+A big shoutout to the [LinkedIn post by Mazher Syed](https://www.linkedin.com/posts/mazher-h-syed_linkedinfamily-linkedinconnections-linkedinfollowers-ugcPost-6755456261308874752-1tzr#)
 
 ## 1st epicKG 
 
