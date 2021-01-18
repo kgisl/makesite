@@ -40,5 +40,8 @@ Yoga is a way of mastering your energy in such a way that if you live for ten ye
 
 ## Forget the past
 
-[https://youtu.be/7XBOHxDe54Q](https://youtu.be/7XBOHxDe54Q ) - forget the past! 
+- [https://youtu.be/7XBOHxDe54Q](https://youtu.be/7XBOHxDe54Q ) - forget the past! 
+- Overcoming sadness - [https://bit.ly/2NiK8en](https://bit.ly/2NiK8en) 
+
+
 
