@@ -2,8 +2,6 @@
 
 ## Discipline is dead. Long live Discipline!
 
-https://youtu.be/TxfaqlAcgkw
-
 For the first time in my life, I have succeeded in instilling a habit into my life. Thanks to the grace of Sadhguru, I am now finishing two months of consecutive sadhana sessions, not counting 1-2 lapses in the past two months. 
 
  - when there is a will, there is a way
