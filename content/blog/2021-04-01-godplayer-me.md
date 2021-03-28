@@ -10,7 +10,7 @@
 
 # But why? 
 
-Crowdsourcing from HNIs who want to contribute for 
+Crowdsourcing from HNIs will help impulsively contribute for 
   - crisis care (KGH), 
   - learning (KGISL Edu supports single-parent child who is an aspiring first-time graduate), 
   - community (KGDS delivers water to off-grid coastal villages)
