@@ -12,8 +12,10 @@
 
 Crowdsourcing from HNIs who want to contribute for 
   - crisis care (KGH), 
-  - learning (KGISL Edu supports single-parent aspiring first-time graduate), 
+  - learning (KGISL Edu supports single-parent child who is an aspiring first-time graduate), 
   - community (KGDS delivers water to off-grid coastal villages)
   - micro-SAAS ventures (KGISL will provide green infrastructure)
 
+### Keen to contribute?
 
+Leave a comment in the Comments section below with your contact details. We will reach back to you! 
