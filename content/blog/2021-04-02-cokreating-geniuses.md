@@ -2,7 +2,7 @@
 
 ## co-Kreating Geniuses
 
-Let me ask you a question: Do you think you think you are a genius? Regardless of what your response might have been, the ONLY answer to that question is: OF COURSE, YES - You are a GENIUS and you might actually not believe it! 
+Let me ask you this question: Do you think you are a genius? Regardless of what your response might have been, the ONLY answer to that question is: OF COURSE, YES - You are a GENIUS and you might actually not believe it! 
 
 Not only do I sincerely believe that you are a GENIUS, but I will go one step further: I believe you are a GENIUS and the world needs your UNIQUE contribution. And it is about time you start believe that as well! 
 
