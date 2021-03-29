@@ -4,7 +4,7 @@
 
 Let me ask you this question (give it a serious thought before you answer it, alright?): Do you think you are a genius? Regardless of what your response might have been, the right answer to that question is: OF COURSE, YES - You are a GENIUS! 
 
-Not only do I sincerely believe that you are a GENIUS, but I will go one step further: I believe you are a GENIUS and the world needs your UNIQUE contribution. And it is about time *you* start believing that as well! 
+Not only do I sincerely believe that you are a GENIUS, but I will go one step further: I believe you are a GENIUS and the world needs your UNIQUE contribution. And it is about time *you* started believing that as well! 
 
 `tl;dr`: KGISL Education is all about transforming students into geniuses (aka,  talent that is desired by world class companies). How do we do this? Simply by providing them with a truly exceptional learning experience. 
 
