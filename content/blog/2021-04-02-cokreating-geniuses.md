@@ -8,7 +8,7 @@ Not only do I sincerely believe that you are a GENIUS, but I will go one step fu
 
 The 10 second `tl;dl`: KGISL Edu is all about transforming students into geniuses (in other words, talent that is desired by world class companies) by providing them with a truly exemplary and exceptional learning experience. 
 
-CoKreating Geniuses is the motto that captures the Reason for Being (*raison d ^etre*) of KGISL Education and it is a quick way to remind us of the work that goes on at KG College of Arts and Science (KGCAS), at our engineering college KGISL Institute of Technology (KITE) and MCA-college KGISL Institute of information Management (IIM).
+**CoKreating Geniuses** is the motto that captures the Reason for Being (*raison d ^etre*) of KGISL Education and it is a quick way to remind us of the work that goes on at KG College of Arts and Science (KGCAS), at our engineering college KGISL Institute of Technology (KITE) and MCA-college KGISL Institute of information Management (IIM).
 
 Genius - is the word that reminds us of potential that is inherently present in every student who is pursuing their higher studies at KGCAS, KITE or KGISL-IIM. 
 
