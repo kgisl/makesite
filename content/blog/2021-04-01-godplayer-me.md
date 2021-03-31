@@ -1,5 +1,9 @@
 <!-- title: GodPlayer Manifesto  -->
 
+# Core Mission
+To achieve *greatness* in compassion. 
+
+
 # What is this about?
 
 ### tl;dr Ketto.org meets Minority Report meets NFTs 
