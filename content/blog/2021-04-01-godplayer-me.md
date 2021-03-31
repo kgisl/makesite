@@ -1,12 +1,12 @@
 <!-- title: GodPlayer Manifesto  -->
 
-# Core Mission
+### Core Mission
 To achieve *greatness* in being compassionate.
 
 ![](https://lh3.googleusercontent.com/B1AfNy1qE2Y_IvxcVGk_CbGRofVhk2gxAaf5Y_74JSR-nnvhq4ecPns1XS194dFbA4Xp7gwhH7AfxuLjaeiYeOpVOckWwIx_fP8_-xiVu7ESqueWefo7OWzmnzCiRKwTP4JDmBBg0LL7mFAsB-CrlGc7ofo_LiABxd_mD83TzFjTpbxqGcJDvW6quKrtaezHwHSltwqNfFOkfiWNGW8mgykOyjAq1fL-3clRZ_GvloID52oy98T0MDafO3QwpTNOEHk4XbSj2t7jWwe6rI_QUaJbxwyvsJ5I_0fCpwrUSjanMfesaZ0BDYYEsTfA0tkmIedB4pUJLsDNYrriZacc-S4x1_4DY7O_jdtkGuZIoICe-34TgDtaSdhUQqLiWpD6rYzCwzc9P9fmCFu3_5ZI6PWx7WxaU_836I1erYoF8tTCgSdu6w33InFy10Vi4c4epqCl6yd1ShLdcZl30O518pNLM9_JqZ8BCy-N_T6QmsITV-OEsgttagkYZJkt1jO5cvxtt08zxFHBilJAkn-DZQlpvL0FCE9nU4haeEhc-CxsvqVyWXvS-iYL-z3TBJlVedYaqcChAtFvNlgQw9h0hg6qTL7TOVc9DZqrkwWvIeLI5DZnXakPFTCJ4g9LMDyc48PT_OpViMADux-hBJGJPYcuVUWIB3rFHFSEDPest1ImCAz95Ce4iVsijKUt4EHtCAoTu46VG7-iYHl7ygozPJKi4Q=w622-h439-no?authuser=0) 
 
 
-# What is this about?
+## What is this about?
 
 ### tl;dr Ketto.org meets Minority Report meets NFTs 
 
