@@ -21,4 +21,7 @@ Whether you are the dedicated faculty member, or the most motivated student insp
 
 And in closing, let me remind you once again: You are a genius and the world needs your UNIQUE contribution! 
 
-
+### To Read
+[Think like a Genius](https://smile.amazon.com/Think-Like-Genius-Creatively-Problems-ebook/dp/B08ZM6GQB2/ref=sr_1_1?dchild=1&qid=1617429955&refinements=p_27%3APeter+Hollins&s=digital-text&sr=1-1)
+	- "You can accomplish much more than you think."
+	- "If you can learn to stretch your brains!"
