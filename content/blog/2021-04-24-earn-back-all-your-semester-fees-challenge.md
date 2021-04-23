@@ -6,10 +6,11 @@ Watch this space for more details.
 
 ### CSE, KITE and IT, KITE
 
-#### Related to the C Programming (CS8251) course
-
+ - The challenge is related to the C programming course (CS8251)
  - What is the challenge? 
 	 - A complete text editor which is approximately about 1000-lines of C code 
+
+
 
 ### Who is Eligible?
   - Who can participate?  
