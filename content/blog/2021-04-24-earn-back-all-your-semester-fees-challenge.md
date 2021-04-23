@@ -1,4 +1,4 @@
-<!-- title: Earn Back Your Semester Fees -->
+<!-- title: Earn While You Learn -->
 
 ## Earn Back All Your Semester Fees Challenge
 
