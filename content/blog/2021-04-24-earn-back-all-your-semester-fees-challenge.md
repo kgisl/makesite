@@ -12,7 +12,7 @@ Watch this space for more details.
 	 - A complete text editor which is approximately about 1000-lines of C code 
 
 ### Who is Eligible?
-Who can participate: 
+  - Who can participate?  
 	- if you are a engineering student at KITE 
 	- if you are a engineering in any other college (50% of the semester fees money will be credited to you) 
 
