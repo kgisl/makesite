@@ -2,7 +2,7 @@
 
 ## Earn Back All Your Semester Fees Challenge
 
-Watch this space for more details. 
+*Watch this space for more details regarding other department challenges from KITE and KGCAS.* 
 
 ### CSE, KITE and IT, KITE
 
