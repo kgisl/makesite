@@ -7,19 +7,16 @@
 ### CSE, KITE and IT, KITE
 
  - The challenge is related to the C programming course (CS8251)
- - What is the challenge? 
-	 - A complete text editor which is approximately about 1000-lines of C code 
-
+ - Challenge #1? 
+	 - Write a complete text editor which is approximately about 1000-lines of C code 
 
 
 ### Who is Eligible?
   - Who can participate?  
 	- if you are a engineering student at KITE 
-	- if you are a engineering in any other college (50% of the semester fees money will be credited to you) 
+	- if you are a student from any other college (however, only 50% of the semester fees money will be credited to you) 
 
-To register, please record your interest at : 
-[http://j.mp/ThanksKG](http://j.mp/ThanksKG) - make sure you share your mobile number / email address, department, and college name as well. Also indicate why you want to participate in the challenge that is relevant to your department/domain/discipline. 
-
+To register, please nominate yourself with the respective course faculty. 
 
 
 
