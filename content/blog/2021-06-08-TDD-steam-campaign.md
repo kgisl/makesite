@@ -1,9 +1,4 @@
 
-
-
-
-
-
 <!-- title: 10 Day Daily (TDD) Steam Campaign -->
 
 
@@ -12,7 +7,7 @@
  
 **Help Launch the Ten Day Daily (TDD) Steam  Campaign**
 
-The Reduction of the viral shedding using steam inhalations has been proven scientifically.  **Steam inhalation for at least 20 min (4 cycles of 5 min) daily, for 10 days** can halt the corona virus spread in our entire nation. Please see the full study published by Meyer Children's Hospital, Florence, Italy at  http://j.mp/tddSteam. 
+The Reduction of the viral shedding using steam inhalations has been proven scientifically.  **Steam inhalation for at least 20 min (4 cycles of 5 min) daily, for 10 days** can halt the corona virus spread in our entire nation. Please see the full study published by Meyer Children's Hospital, Florence, Italy at  [http://j.mp/tddSteam](http://j.mp/tddSteam). 
 
 COVID-19 can be killed by inhaling steam from the nose or mouth, eliminating the coronavirus. If the entire population of our country was mobilized to do a steam drive campaign for only 10 days, the pandemic will soon end. The steam drive can be done by all the citizens in their respective homes or at government designated public spots with adequate social distancing. 
 
