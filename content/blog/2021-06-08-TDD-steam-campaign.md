@@ -6,7 +6,7 @@
 
  
 **Help Launch the Ten Day Daily Steam  Crusade**
-_Coinciding with the State-wide lockdown, starting May 10, 2021 to May 20, 2021, I encourage all the 7 crore people of Tamil Nadu to join in the 10-day Daily Steam (TDD) Crusade against the Corona virus!_
+_Coinciding with the State-wide lockdown, starting May 10, 2021 to May 19, 2021, I encourage all the 7 crore people of Tamil Nadu to join in the 10-day Daily Steam (TDD) Crusade against the corona virus!_
 
 The Reduction of the Viral Shedding using steam inhalations has been proven scientifically.  **Steam inhalation for at least 20 min (4 cycles of 5 min) daily, for 10 days** can halt the corona virus spread in our entire nation. Please see the full study published by Meyer Children's Hospital, Florence, Italy at  [http://j.mp/tddSteam](http://j.mp/tddSteam). 
 
