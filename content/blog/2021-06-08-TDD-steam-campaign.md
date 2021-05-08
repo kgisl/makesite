@@ -20,9 +20,9 @@ As a role model for the entire nation, **I invite each and everyone of you to la
 
 Yours truly, 
 
-Dr G Bakthavathsalam
-KG Hospital and Post Graduate Medical Institute
-Coimbatore 
+    Dr G Bakthavathsalam
+    KG Hospital and Post Graduate Medical Institute
+    Coimbatore 
 
 ### Brief Summary of the Study
 *https://clinicaltrials.gov/ct2/show/NCT04743349*
@@ -32,4 +32,5 @@ Coimbatore
   - Since high temperature can cause irreversible denaturation of proteins and loss of SARS CoV and SARS CoV-2 infectivity was obtained after heating at 56 ◦C for 15 and 30 min in liquid environments respectively, we designed a protocol aimed at damaging SARS-CoV-2 capsid through steam inhalation cycles. Although the ominous consequences of COVID 19 infections has directed medical attention toward solidly established medical approaches, the European Pharmacopoeia VI edition also quotes steam inhalations as a procedure to treat of respiratory diseases.
 - Based on these suggestions we established a quasi-randomized clinical trial enrolling 200 asymptomatic or paucisymptomatic patients in whom rhino-pharyngeal-swab revealed a SARS-CoV-2 infection. The study protocol consisted of exposure of airway mucosae to humidified steam (pH 8 per NaHCO3 and hypertonic 15 g/L NaCl) through steam inhalation for at least 20 min (4 cycles of 5 min) daily, for 10 days.
 - The objective of the study is to reduce the viral shedding using steam inhalations.
+
 
