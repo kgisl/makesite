@@ -21,7 +21,7 @@ Whether you are the dedicated faculty member, or the most motivated student insp
 
 And in closing, let me remind you once again: You are a genius and the world needs your UNIQUE contribution! 
 
-```KGiSL Campus : Work + Technology + Learning```
+```KGiSL Campus : Work + Technology + Learning```  
 ```KGiSL Hackathon : Ideas + Mentors + Skills```
 
 ### To Read
