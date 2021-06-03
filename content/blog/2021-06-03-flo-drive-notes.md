@@ -23,7 +23,7 @@ Please share the following:
 
 ### 3rd station 
 1. Please collect our complimentary refreshments. Follow directions to the alloted parking lot. Please stay within the parking lot for at least 15-20 minutes. 
-2. In case of emergency, please inform the nearby parking attendant or call by clicking this link:  <a href="tel:+91-96004-39512">Dr Manoj</a>
+2. In case of emergency, please inform the nearby parking attendant or call by clicking the following link:  <a href="tel:+91-96004-39512">Dr Manoj</a>
 
 ### Misc Notes
 1. By the time you are ready to leave KGiSL campus, your vaccination certificate should be available for download at the COWIN portal. 
