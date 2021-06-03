@@ -19,7 +19,7 @@ Please share the following:
 
 ### 2nd Station  
 1. You will be inquired "Are you aware of the medical restrictions as to who should receive the COVISHIELD vaccine?"
-2. Only on your confirmation, you shall receive the vaccination immediately thereafter 
+2. On your confirmation, you shall receive the vaccination immediately thereafter 
 
 ### 3rd station 
 1. Please collect our complimentary refreshments. Follow directions to the alloted parking lot. You must stay within the parking lot for at least 15-20 minutes. 
