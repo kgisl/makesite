@@ -2,11 +2,11 @@
 
 ## FLO Drive Instructions
 
-Vaccination location: http://j.mp/kgvaccine
+Vaccination location: [http://j.mp/kgvaccine](http://j.mp/kgvaccine)
 
 ### At the gate
 1. Your temperature will be checked to be within permissible limits. If required, an oximeter check will also be done to rule out possible COVID symptoms 
-2. Please have the **4-digit secret code generated as part of your COWIN portal registration to be ready** for sharing at the 1st station of vaccination process. Each passenger in the car will her own secret code. 
+2. Please have the **4-digit secret code generated as part of your COWIN portal registration to be ready** for sharing at the 1st station of vaccination process. Each guest in the car shall have her own secret code. 
 3. Please wear your mask for your own protection until you are ready to depart from the KGiSL campus 
 
 ### 1st Station
