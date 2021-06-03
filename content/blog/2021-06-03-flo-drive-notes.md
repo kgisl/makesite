@@ -22,10 +22,10 @@ Please share the following:
 2. On your confirmation, you shall receive the vaccination immediately thereafter 
 
 ### 3rd station 
-1. Please collect our complimentary refreshments. Follow directions to the alloted parking lot. You must stay within the parking lot for at least 15-20 minutes. 
+1. Please collect our complimentary refreshments. Follow directions to the alloted parking lot. Please stay within the parking lot for at least 15-20 minutes. 
 2. In case of emergency, please inform the nearby parking attendant or call by clicking this link:  <a href="tel:+91-96004-39512">Dr Manoj</a>
 
-### Departure Notes
+### Misc Notes
 1. By the time you are ready to leave KGiSL campus, your vaccination certificate should be available for download at the COWIN portal. 
 2. If there are any certificate related issues, please send a WhatsApp message to [KG Hospital](https://api.whatsapp.com/send?phone=919626196262&text=Have%20not%20received%20my%20vaccine%20certificate%20My%20DESK%20number%20is%20) or an email to <a email="vaccine@kghospital.com">vaccine@kghospital.com</a>
     -  Please send us your COWIN-registered mobile number and registration DESK Number (indicated in the KGH card provided while you were at Station 1). 
