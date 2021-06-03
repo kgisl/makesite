@@ -27,7 +27,7 @@ IMPORTANT: You will be given a card with a Specific Registration Desk Number (1,
 
 ### Departure Notes
 1. By the time you are ready to leave KGiSL campus, your vaccination certificate should be available for download at the COWIN portal. 
-2. If there are any issues, please send us an email to indicating your Mobile Number and registration DESK Number (indicated in the KGH card provided while you were at Station 1). 
+2. If there are any certificate related issues, please send a WhatsApp message to [KG Hospital](https://api.whatsapp.com/send?phone=919626196262) and we shall sort it out pronto! Please send us your COWIN-registered mobile number and registration DESK Number (indicated in the KGH card provided while you were at Station 1). 
 
 Thank you very much for your patience and cooperation in making the  car drive through vaccination drive a successful one!  
   - Help eliminate vaccine hesitancy in one other person that you care for!
