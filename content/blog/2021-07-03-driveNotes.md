@@ -18,12 +18,12 @@ Please share the following:
 IMPORTANT: You will be given a card with a Specific Registration Desk Number (1, 2, 3, 4 or 5) marked in the back of the card. Please keep this card for future reference. 
 
 ### 2nd Station 
-1. You will be asked of the awareness of the medical restrictions related to who should receive the COVISHIELD vaccine
+1. You will be inquired about your awareness of the medical restrictions as to who should receive the COVISHIELD vaccine
 2. On your confirmation, you will receive the vaccination immediately thereafter 
 
 ### 3rd station  
-1. Please collect our complimentary refreshments and receive directions to park your car in the alloted parking lot. You must stay within the parking lot for at least 10-15 minutes. 
-2. If there should be any allergic reaction or emergency, please inform the security or call Dr Manoj at 
+1. Please collect our complimentary refreshments. Follow directions to drive and park yourself in the alloted parking lot. You must stay within the parking lot for at least 10-15 minutes. 
+2. If there should be any allergic reaction or emergency, please inform the security or call Dr Manoj at +91-96004-39512
 
 ### Departure Notes
 1. By the time you are ready to leave KGiSL campus, your vaccination certificate should be available for download at the COWIN portal. 
