@@ -15,14 +15,14 @@ Please share the following:
 2. Your Aadhar ID number. We need your permission to take a snapshot of the card to expedite data entry validation
 3. Your individual 4 digit secret code that is corresponding to your COWIN registration. Every guest in the car will have their own secret code. 
 
-IMPORTANT: You will be given a card with a Specific Registration Desk Number (1, 2, 3, 4 or 5) marked in the back of the card. Please keep this card for future reference. 
+**IMPORTANT**: You will be given a card with a Specific Registration Desk Number (1, 2, 3, 4 or 5) marked in the back of the card. Please keep this card for future reference. 
 
-### 2nd Station 
-1. You will be inquired about your awareness of the medical restrictions as to who should receive the COVISHIELD vaccine
-2. On your confirmation, you will receive the vaccination immediately thereafter 
+### 2nd Station  
+1. You will be inquired "Are you aware of the medical restrictions as to who should receive the COVISHIELD vaccine?"
+2. Only on your confirmation, you shall receive the vaccination immediately thereafter 
 
-### 3rd station  
-1. Please collect our complimentary refreshments. Follow directions to drive and park yourself in the alloted parking lot. You must stay within the parking lot for at least 10-15 minutes. 
+### 3rd station 
+1. Please collect our complimentary refreshments. Follow directions to the alloted parking lot. You must stay within the parking lot for at least 15-20 minutes. 
 2. In case of emergency, please inform the nearby parking attendant or call by clicking this link:  <a href="tel:+91-96004-39512">Dr Manoj</a>
 
 ### Departure Notes
