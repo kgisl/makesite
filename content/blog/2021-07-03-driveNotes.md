@@ -23,7 +23,7 @@ IMPORTANT: You will be given a card with a Specific Registration Desk Number (1,
 
 ### 3rd station  
 1. Please collect our complimentary refreshments. Follow directions to drive and park yourself in the alloted parking lot. You must stay within the parking lot for at least 10-15 minutes. 
-2. If there should be any allergic reaction or emergency, please inform the security or call Dr Manoj at +91-96004-39512
+2. In case of emergency, please inform the nearby parking attendant or call Dr Manoj at +91-96004-39512
 
 ### Departure Notes
 1. By the time you are ready to leave KGiSL campus, your vaccination certificate should be available for download at the COWIN portal. 
