@@ -33,7 +33,7 @@ Thank you very much for your patience and cooperation in making the  car drive t
   - Help eliminate vaccine hesitancy in one other person that you care for!
   - Remember, no one is safe unless everyone is safe! 
 
-Please send us your valuable feedback through WhatsApp to [KG Hospital](https://api.whatsapp.com/send?phone=919626196262")
+Please send us your valuable feedback about the drive-through vaccination through WhatsApp to [KG Hospital](https://api.whatsapp.com/send?phone=919626196262")
 
 
 
