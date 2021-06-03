@@ -14,7 +14,5 @@ _Please wear your mask at all times until you are ready to depart from the KGiSL
 ---
 
 Thank you very much for your patience and cooperation in making the  car drive through vaccination drive a successful one!  
-  - Help eliminate vaccine hesitancy in one other person that you care for! Remember, no one is *really* safe until **everyone** is safe! 
-
-Please send us your valuable feedback about the drive-through vaccination through WhatsApp to [KG Hospital](https://api.whatsapp.com/send?phone=919626196262")
+  - Help eliminate vaccine hesitancy in one other person that you care for! Remember, no one is *really* safe until **everyone** is safe! Send your valuable feedback about this drive to WhatsApp to [KG Hospital](https://api.whatsapp.com/send?phone=919626196262")
 
