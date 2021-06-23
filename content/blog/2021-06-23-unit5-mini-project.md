@@ -1,4 +1,4 @@
-<!-- title: Draft Blog -->
+<!-- title: Unit 5 Mini Project  -->
 
 ### Evaluation Criteria
 
