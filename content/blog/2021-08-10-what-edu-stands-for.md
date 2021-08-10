@@ -3,8 +3,8 @@
 1 Gain exposure to as many technologies as you can, as early as possible 
   - Top priority: School students are now encouraged to either use, consume, modify, create AI technologies before their graduation from 12th 
 
-2 The more you get out of your comfort zone, the more you create meaningful learnings for life
-  - Before you graduate from college, emerge with the battle scars of being a brave, learned skillful entrepreneur (failure is very likely and that is perfectly okay) 
+2 The more you get out of your comfort zone, the more you create meaningful learning for life
+  - Before you graduate from college, emerge with the battle scars of being a brave, learned skillful entrepreneur (failure is very likely and that is perfectly okay) - ```KG Blazer ```
 
 3 Very few of the student population are fortunate enough to receive advice like the above. 
 Among those who get to hear the advice, only a few are alert and aware of what is _really_ being told.
