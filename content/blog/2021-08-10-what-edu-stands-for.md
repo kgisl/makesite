@@ -12,6 +12,6 @@ And among those few, only a few are fortunate enough to do something about it an
 
 ```EDU``` is about 
   - Exposure to as many things as possible, and hopefully one such exposure triggers genuine curiosity in the learner for certain things
-  - Discipline and rigour to develop that curiosity to the next level, including pursue higher learning. Learn concepts and skills relevant to a particular domain, and getting that piece of paper (degree) to signal others that you are worthy of being invested upon 
+  - Discipline and rigour to develop that curiosity to the next level, including pursue higher learning. Learn concepts and skills relevant to a particular domain, and remember, that piece of paper (degree) is useful to signal others that you are worthy of being invested upon 
   - U is all about You. Learning about yourself, managing yourself (energy, time, attitude, emotions, spiritual) and creating the networks and being part of communities which encourage you to the next level; reaching out to people who are part of your support structure, people who love you, and help you stay resilient to stay the course 
 
