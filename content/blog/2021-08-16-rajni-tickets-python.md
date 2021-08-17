@@ -86,11 +86,13 @@ def generate(money, coins):
 
 
 ## Variation 3 
-http://j.mp/waysToMakeA100 can be explored further for
-refining makeChange module
+http://j.mp/waysToMakeA100 can be explored further for  
+refining makeChange module  
  
-SPOILER ALERT! 
-http://j.mp/numberPartitions
-http://j.mp/kenOnoNumberPartitions
+SPOILER ALERT!   
+http://j.mp/numberPartitions  
+http://j.mp/kenOnoNumberPartitions  
+
+
 
 
