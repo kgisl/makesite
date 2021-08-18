@@ -8,9 +8,12 @@ The clerk at the box office is Ramesh. He wants to sell a ticket to every single
 
 Can Ramesh sell a ticket to every person and give change if he initially has no money and sells the tickets strictly in the order people queue?
 
-Return `1`, if Ramesh can sell a ticket to every person and give change with the bills he has at hand at that moment. Otherwise return `0`.
+Return `"YES"`, if Ramesh can sell a ticket to every person and give change with the bills he has at hand at that moment. Otherwise return `"NO"`.
 
-**NOTE**: As part of settling the change, Ramesh gives away 50 rupee notes first, if there should be any. 
+Write a Python function **`tickets_plus`** that accepts a list of numbers as its argument and returns "YES" or "NO". 
+
+**NOTE**: As part of settling the change, Ramesh gives away the higher denomination notes first. For e.g. if change of 75 has to be given, Ramesh will give out 50 + 25, even though he might have seven 10 rupee notes and a 5 rupee note.  
+
 
 ### Examples:
 
@@ -27,71 +30,21 @@ tickets([25, 25, 50, 50, 100]) # => NO
 
 ## Variation 2 
 
-Assume people in line have 10 rupee notes (for e.g. 30 is 3 times 10). To start with, assume Ramesh carries with him 5 rupee bills (9 in number). Modify the logic to accommodate this situation. 
+The next day, it is anticipated that people may join the queue with 30 rupees in hand.  In that case, the person only has three 10 rupee notes.**  In anticipation of this, to start with, Ramesh decides to start with 5 rupee bills (exactly 9 in number). Modify the logic to accommodate this situation. 
 
-### Use as deemed fit  
+### Examples:
+
 ```python
-import copy
- 
-def make_change(options, cashbox): 
-    
-    for combo in options:
-        for denom in combo: 
-            if denom not in cashbox or \
-                combo[denom] > cashbox[denom]:
-                    break
-        else:
-            return combo
-        
-    return None
- 
- 
-''' 
-var generate25 = [ {25:1}, {5:1, 10:2}, {5:3, 10:1}, {5:5}];
- 
-var generate75 = [ {25:1, 50:1}, {25:3}, {5:1, 10:7}, 
-    {5:1, 10:2, 25:2}, {5:1, 10:2, 50:1}, {5:3, 10:1, 25:2}, 
-    {5:3, 10:1, 50:1}, {10:5, 25:1}, {5:15}... 22 combinations ];
- 
-'''
- 
-def maxkey(obj): 
-    return max(list(obj.keys()))
- 
-def generate(money, coins): 
-    table = {}    
-    
-    for i in range(1, money+1): 
-        row = []
-        for c in coins: 
-            if c < i: 
-                subs = table[i - c]
-                for s in subs: 
-                    sub = copy.deepcopy(s)
-                    max = maxkey(sub)
-                    if c >= max: 
-                        sub[c] = sub[c] + 1 if c in sub else 1 
-                        row.append(sub)
-                # end of subs for loop
-            elif c == i:
-                combo = {}
-                combo[c] = 1
-                row.append(combo)
-        # end of coins loop 
-        table[i] = row
-        #print("table", table[i])
-    # end of money loop 
-    return table[money]
+tickets([25, 30, 50]) # => YES 
+# Ramesh has a 5 already, so he can take 30, and return 5 
+tickets([30, 30, 30, 30, 30, 30, 30, 30, 30, 30]) # => NO 
+# Ramesh runs out of 5 rupee notes
+tickets([30, 50]) $ => YES
+# Ramesh makes 25 out of two 10 rupee notes and one 5 rupee note
 ```
 
 
 ## Variation 3 
-http://j.mp/waysToMakeA100 can be explored further for refining makeChange module  
- 
-SPOILER ALERT!   
-http://j.mp/numberPartitions  
-http://j.mp/kenOnoNumberPartitions  
 
-
-
+Refactor your logic for Variation 2 so that it can also very easily be adapted for other types of denomination notes that might come into circulation in the ticket queue. Ramesh might also decide to have an initial cashbox containing not just 5 rupee notes, but also other denominations as well. 
 
